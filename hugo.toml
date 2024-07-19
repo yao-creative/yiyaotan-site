@@ -1,6 +1,6 @@
 baseURL = "https://yiyaotan-site.vercel.app/"
 languageCode = "en-us"
-title = "Yi Yao Tan's Portfolio"
+title = "Yi Yao Tan"
 theme = "ananke"
 
 [params]
