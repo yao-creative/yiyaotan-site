@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bioinformatics Projects on Yi Yao Tan</title>
+    <link>http://localhost:1313/projects/bioinformatics/</link>
+    <description>Recent content in Bioinformatics Projects on Yi Yao Tan</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/projects/bioinformatics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CDK-2 Protein Conformation Clustering</title>
+      <link>http://localhost:1313/projects/bioinformatics/cdk2-protein-clustering/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/projects/bioinformatics/cdk2-protein-clustering/</guid>
+      <description>Proposed a method of protein clustering based on vectorization of the residue-to-residue connections which identified key substructures identifying different protein conformations of the CDK-2 protein. Worked with protein modeling, annotation, and protein databases.&#xA;Project Repository Manuscript (Bioxriv) </description>
+    </item>
+  </channel>
+</rss>
