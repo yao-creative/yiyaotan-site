@@ -14,4 +14,3 @@ Welcome to my blog. Here, you can find articles on various topics categorized fo
 - [Reading](/blog/reading/)
 - [Music](/blog/music/)
 
-## Latest Posts
