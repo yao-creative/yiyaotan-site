@@ -1,0 +1,16 @@
+baseURL = "https://yiyaotan-site.vercel.app/"
+languageCode = "en-us"
+title = "Yi Yao Tan's Personal Webpage"
+theme = "ananke"
+
+[params]
+  description = "Placeholder for brief bio about Yi Yao Tan."
+  author = "Yi Yao Tan"
+  mode = "light" # Choose 'light' or 'dark' mode for the theme
+
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML"]
+  page = ["HTML"]
+  taxonomy = ["HTML"]
+  taxonomyTerm = ["HTML"]
