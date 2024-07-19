@@ -1,12 +1,15 @@
 baseURL = "https://yiyaotan-site.vercel.app/"
 languageCode = "en-us"
-title = "Yi Yao Tan"
+title = "Yi Yao Tan's Portfolio"
 theme = "ananke"
 
 [params]
   description = "Graduate student specializing in Mathematics and Computer Science with extensive research experience."
   author = "Yi Yao Tan"
   mode = "light" # Choose 'light' or 'dark' mode for the theme
+
+[taxonomies]
+  category = "categories"
 
 [[menu.main]]
   name = "Home"
@@ -32,3 +35,8 @@ theme = "ananke"
   name = "Resume"
   url = "/resume/"
   weight = 5
+
+[[menu.main]]
+  name = "Latest Posts"
+  url = "/latest/"
+  weight = 6
