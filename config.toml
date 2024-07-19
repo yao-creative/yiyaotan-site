@@ -1,5 +1,4 @@
-theme = "ananke"
-baseURL = "http://yytan.org/"
+baseURL = "https://yiyaotan-site.vercel.app/"
 languageCode = "en-us"
 title = "Yi Yao Tan's Personal Webpage"
 theme = "ananke"
