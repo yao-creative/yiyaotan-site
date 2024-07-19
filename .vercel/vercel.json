@@ -1,0 +1,31 @@
+{
+    "builds": [
+      {
+        "src": "config.toml",
+        "use": "@vercel/hugo"
+      },
+      {
+        "src": "content/**/*",
+        "use": "@vercel/hugo"
+      },
+      {
+        "src": "layouts/**/*",
+        "use": "@vercel/hugo"
+      },
+      {
+        "src": "static/**/*",
+        "use": "@vercel/hugo"
+      },
+      {
+        "src": "themes/**/*",
+        "use": "@vercel/hugo"
+      }
+    ],
+    "routes": [
+      {
+        "src": "/(.*)",
+        "dest": "/$1"
+      }
+    ]
+  }
+  
