@@ -1,0 +1,16 @@
+{{ define "main" }}
+<div class="container">
+    <h1>{{ .Title }}</h1>
+    <p>{{ .Content }}</p>
+
+    <h2>Recent Blog Posts</h2>
+    <ul>
+    {{ range first 10 (where .Site.RegularPages "Section" "blog") }}
+        <li>
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+            <p>{{ .Summary }}</p>
+        </li>
+    {{ end }}
+    </ul>
+</div>
+{{ end }}

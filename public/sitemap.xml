@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-07-19T20:57:38+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/about/</loc>
     <lastmod>2024-07-19T12:00:00+01:00</lastmod>
   </url><url>
@@ -14,16 +17,31 @@
     <loc>http://localhost:1313/projects/computer-science/</loc>
     <lastmod>2024-07-19T12:00:00+01:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/latest/</loc>
+    <lastmod>2024-07-19T12:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/lifestyle/</loc>
+    <lastmod>2024-07-19T12:00:00+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/projects/mathematics/</loc>
+    <lastmod>2024-07-19T12:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/maths/</loc>
+    <lastmod>2024-07-19T12:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/philosophy/</loc>
     <lastmod>2024-07-19T12:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/projects/</loc>
     <lastmod>2024-07-19T12:00:00+01:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/blog/reading/</loc>
+    <lastmod>2024-07-19T12:00:00+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/resume/</loc>
     <lastmod>2024-07-19T12:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/blog/travel/</loc>
     <lastmod>2024-07-19T12:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/projects/computer-science/parallelized-sssp/</loc>
@@ -48,7 +66,5 @@
     <lastmod>2021-05-01T00:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
