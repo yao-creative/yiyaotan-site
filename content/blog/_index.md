@@ -3,8 +3,15 @@ title: "Blog"
 date: 2024-07-19T12:00:00+01:00
 ---
 
-## Blog Post Title 1
-Excerpt from blog post 1...
+Welcome to my blog. Here, you can find articles on various topics categorized for your convenience.
 
-## Blog Post Title 2
-Excerpt from blog post 2...
+## Categories
+
+- [Maths](/blog/maths/)
+- [Travel](/blog/travel/)
+- [Lifestyle](/blog/lifestyle/)
+- [Philosophy](/blog/philosophy/)
+- [Reading](/blog/reading/)
+- [Music](/blog/music/)
+
+## Latest Posts

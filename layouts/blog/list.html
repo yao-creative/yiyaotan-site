@@ -3,7 +3,7 @@
     <h1>{{ .Title }}</h1>
     <p>{{ .Content }}</p>
 
-    <h2>Recent Blog Posts</h2>
+    <h2>Latest Blog Posts</h2>
     <ul>
     {{ range first 10 (where .Site.RegularPages "Section" "blog") }}
         <li>

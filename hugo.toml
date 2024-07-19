@@ -36,7 +36,3 @@ theme = "ananke"
   url = "/resume/"
   weight = 5
 
-[[menu.main]]
-  name = "Latest Posts"
-  url = "/latest/"
-  weight = 6
