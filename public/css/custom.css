@@ -18,31 +18,5 @@ html, body {
     justify-content: center;
 }
 
-body.custom-bg {
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-}
 
-.site-header {
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    height: 400px; /* Adjust the height as needed */
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    color: white;
-}
 
-.site-header .wrapper {
-    text-align: center;
-}
-
-.site-title {
-    font-size: 3em;
-}
-
-.site-subtitle {
-    font-size: 1.5em;
-}

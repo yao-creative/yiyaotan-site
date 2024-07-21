@@ -1,53 +1,215 @@
 <!DOCTYPE html>
-<html lang="en">
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Parallelized Single Source Shortest Path</title>
-    <link rel="stylesheet" href="/css/custom.css">
-</head>
-<body class="ma0 avenir bg-near-white custom-bg" style="background-image: url('');">
-    <header id="header">
-    <h1><a href="http://localhost:1313/">Yi Yao Tan</a></h1>
-    <nav id="nav">
-        <ul>
-            
-            <li><a href="/">Home</a></li>
-            
-            <li><a href="/about/">About</a></li>
-            
-            <li><a href="/projects/">Projects</a></li>
-            
-            <li><a href="/blog/">Blog</a></li>
-            
-            <li><a href="/resume/">Resume</a></li>
-            
-            <li><a href="/contact/">Contact</a></li>
-            
+<html lang="en-us">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Parallelized Single Source Shortest Path | Yi Yao Tan</title>
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="description" content="Shortest path search on randomly simulated graphs using delta-step algorithm in C&#43;&#43;, a bucketing method based on Dijkstra and Bellman-Ford Algorithms.
+Project Repository Project Paper ">
+    <meta name="generator" content="Hugo 0.129.0">
+    
+    
+    
+    
+      <meta name="robots" content="noindex, nofollow">
+    
+    
+      <meta name="author" content = "Yi Yao Tan">
+    
+
+    
+<link rel="stylesheet" href="/ananke/css/main.min.css" >
+
+
+
+    
+
+    
+      
+
+    
+
+    
+
+    
+      <link rel="canonical" href="http://localhost:1313/projects/computer-science/parallelized-sssp/">
+    
+
+    <meta property="og:url" content="http://localhost:1313/projects/computer-science/parallelized-sssp/">
+  <meta property="og:site_name" content="Yi Yao Tan">
+  <meta property="og:title" content="Parallelized Single Source Shortest Path">
+  <meta property="og:description" content="Shortest path search on randomly simulated graphs using delta-step algorithm in C&#43;&#43;, a bucketing method based on Dijkstra and Bellman-Ford Algorithms.
+Project Repository Project Paper ">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="projects">
+    <meta property="article:published_time" content="2023-05-01T00:00:00+01:00">
+    <meta property="article:modified_time" content="2023-05-01T00:00:00+01:00">
+
+  <meta itemprop="name" content="Parallelized Single Source Shortest Path">
+  <meta itemprop="description" content="Shortest path search on randomly simulated graphs using delta-step algorithm in C&#43;&#43;, a bucketing method based on Dijkstra and Bellman-Ford Algorithms.
+Project Repository Project Paper ">
+  <meta itemprop="datePublished" content="2023-05-01T00:00:00+01:00">
+  <meta itemprop="dateModified" content="2023-05-01T00:00:00+01:00">
+  <meta itemprop="wordCount" content="25">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Parallelized Single Source Shortest Path">
+  <meta name="twitter:description" content="Shortest path search on randomly simulated graphs using delta-step algorithm in C&#43;&#43;, a bucketing method based on Dijkstra and Bellman-Ford Algorithms.
+Project Repository Project Paper ">
+
+	
+  </head>
+
+  <body class="ma0 avenir bg-near-white">
+
+    
+   
+  
+
+  <header>
+    <div class="bg-black">
+      <nav class="pv3 ph3 ph4-ns" role="navigation">
+  <div class="flex-l justify-between items-center center">
+    <a href="/" class="f3 fw2 hover-white no-underline white-90 dib">
+      
+        Yi Yao Tan
+      
+    </a>
+    <div class="flex-l items-center">
+      
+
+      
+        <ul class="pl0 mr3">
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/" title="Home page">
+              Home
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/about/" title="About page">
+              About
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/projects/" title="Projects page">
+              Projects
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/blog/" title="Blog page">
+              Blog
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/resume/" title="Resume page">
+              Resume
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/contact/" title="Contact page">
+              Contact
+            </a>
+          </li>
+          
         </ul>
-    </nav>
-</header>
+      
+      
+<div class="ananke-socials">
+  
+</div>
+
+    </div>
+  </div>
+</nav>
+
+    </div>
+  </header>
+
+
 
     <main class="pb7" role="main">
-        <div class="flex-l mt2 mw8 center">
-            <article class="center cf pv5 ph3 ph4-ns mw7">
-                <header>
-                    <h1 class="f1">Parallelized Single Source Shortest Path</h1>
-                </header>
-                <div class="nested-copy-line-height lh-copy f4 nested-links mid-gray">
-                    <p>Shortest path search on randomly simulated graphs using delta-step algorithm in C++, a bucketing method based on Dijkstra and Bellman-Ford Algorithms.</p>
+      
+  
+  <article class="flex-l flex-wrap justify-between mw8 center ph3">
+    <header class="mt4 w-100">
+      <aside class="instapaper_ignoref b helvetica tracked ttu">
+          
+        Computer Science Projects
+      </aside>
+      
+
+
+
+
+
+
+
+
+
+
+  <div id="sharing" class="mt3 ananke-socials">
+    
+  </div>
+
+
+      <h1 class="f1 athelas mt3 mb1">Parallelized Single Source Shortest Path</h1>
+      
+      <p class="tracked">
+        By <strong>Yi Yao Tan</strong>
+      </p>
+      
+      
+      
+      <time class="f6 mv4 dib tracked" datetime="2023-05-01T00:00:00+01:00">May 1, 2023</time>
+      
+
+      
+      
+    </header>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-two-thirds-l"><p>Shortest path search on randomly simulated graphs using delta-step algorithm in C++, a bucketing method based on Dijkstra and Bellman-Ford Algorithms.</p>
 <ul>
 <li><a href="https://github.com/Kev1MSL/cse305-project">Project Repository</a></li>
 <li><a href="https://drive.google.com/file/d/15Tj0oIWqcibvI_o_mmhf1mDwiYWGufjf/view?usp=sharing">Project Paper</a></li>
 </ul>
+<ul class="pa0">
+  
+</ul>
+<div class="mt6 instapaper_ignoref">
+      
+      
+      </div>
+    </div>
 
-                </div>
-            </article>
-        </div>
+    <aside class="w-30-l mt6-l">
+
+
+
+
+</aside>
+
+  </article>
+
     </main>
-    <footer id="footer">
-    <p>&copy; 2024 Yi Yao Tan. All rights reserved.</p>
+    <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="http://localhost:1313/" >
+    &copy;  Yi Yao Tan 2024 
+  </a>
+    <div>
+<div class="ananke-socials">
+  
+</div>
+</div>
+  </div>
 </footer>
 
-</body>
+  </body>
 </html>
