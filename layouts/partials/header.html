@@ -1,10 +1,8 @@
-<header id="header">
-    <h1><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
-    <nav id="nav">
-        <ul>
-            {{ range .Site.Menus.main }}
-            <li><a href="{{ .URL }}">{{ .Name }}</a></li>
-            {{ end }}
-        </ul>
-    </nav>
+<header class="site-header" style="background-image: url('{{ with .Params.header_background }}{{ . }}{{ else }}{{ .Site.Params.header_background }}{{ end }}');">
+    <div class="wrapper">
+        <h1 class="site-title">{{ .Site.Title }}</h1>
+        {{ if .Params.subtitle }}
+            <p class="site-subtitle">{{ .Params.subtitle }}</p>
+        {{ end }}
+    </div>
 </header>
