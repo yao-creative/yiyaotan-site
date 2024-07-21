@@ -1,6 +1,7 @@
 ---
 title: "Projects"
 date: 2024-07-19T12:00:00+01:00
+featured_image: 'images/planetree10000.png'
 ---
 
 Welcome to my project portfolio. Here you will find detailed descriptions of my work in various fields.

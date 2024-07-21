@@ -17,6 +17,16 @@ html, body {
     align-items: center;
     justify-content: center;
 }
+.cover {
+    background-size: cover;
+    background-position: center;
+    height: 800px; /* Default height */
+}
+
+.large-header {
+    height: 1000px; /* Larger height for specific pages */
+}
+
 
 
 
