@@ -36,3 +36,12 @@ theme = "ananke"
   url = "/resume/"
   weight = 5
 
+[[menu.main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 6
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

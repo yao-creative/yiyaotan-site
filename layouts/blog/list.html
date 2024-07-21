@@ -1,16 +1,29 @@
 {{ define "main" }}
-<div class="container">
-    <h1>{{ .Title }}</h1>
-    <p>{{ .Content }}</p>
-
-    <h2>Latest Blog Posts</h2>
-    <ul>
-    {{ range first 10 (where .Site.RegularPages "Section" "blog") }}
-        <li>
-            <a href="{{ .Permalink }}">{{ .Title }}</a>
-            <p>{{ .Summary }}</p>
-        </li>
-    {{ end }}
-    </ul>
+<div class="content">
+    <div class="inner">
+        <header class="major">
+            <h1>{{ .Title }}</h1>
+            {{ if .Content }}
+                <p>{{ .Content }}</p>
+            {{ end }}
+        </header>
+        <section class="posts">
+            {{ range .Pages }}
+                <article>
+                    <header>
+                        <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+                        <p class="date">{{ .Date.Format "Jan 2, 2006" }}</p>
+                    </header>
+                    {{ if .Params.featured_image }}
+                        <a href="{{ .Permalink }}" class="image fit"><img src="{{ .Params.featured_image }}" alt="{{ .Title }}" /></a>
+                    {{ end }}
+                    <p>{{ .Summary | truncate 150 }} <a href="{{ .Permalink }}">Read More</a></p>
+                    <ul class="actions">
+                        <li><a href="{{ .Permalink }}" class="button">Read More</a></li>
+                    </ul>
+                </article>
+            {{ end }}
+        </section>
+    </div>
 </div>
 {{ end }}
