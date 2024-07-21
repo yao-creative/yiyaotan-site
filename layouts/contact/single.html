@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ .Title }}</title>
+    <link rel="stylesheet" href="{{ "css/contact.css" | relURL }}">
+</head>
+<body class="ma0 avenir bg-near-white">
+    {{ partial "header.html" . }}
+    <main class="pb7" role="main">
+        <div class="flex-l mt2 mw8 center">
+            <article class="center cf pv5 ph3 ph4-ns mw7">
+                <header>
+                    <h1 class="f1">{{ .Title }}</h1>
+                </header>
+                <div class="nested-copy-line-height lh-copy f4 nested-links mid-gray">
+                    {{ .Content | safeHTML }}
+                </div>
+            </article>
+        </div>
+    </main>
+    {{ partial "footer.html" . }}
+</body>
+</html>

@@ -23,6 +23,13 @@
       <description>Yi Yao Tan Contact Information:&#xA;Phone: +44 07919 688 382 Location: Oxford, UK Email: yytanacademic@gmail.com GitHub LinkedIn Education MSc Mathematics and Foundations of Computer Science, University of Oxford (Oct 2023 - Sept 2024) Interest in Probability and Networks. Courses: Chaos Theory, Algorithmic Foundations, Probabilistic Combinatorics, etc.&#xA;BSc Mathematics and Computer Science, École Polytechnique (Sept 2020 - Jun 2023) Relevant Coursework: Measure and Integration Theory, Differential Geometry, Convex Optimization, etc.&#xA;Research Experience Networks Analysis Research Master’s Thesis (April 2024 — Sept 2024) Advisors: Renaud Lambiotte, François Lafond Network Analysis on Production Networks: Developing a null model based on network geometry for national scale firm-level input-output networks.</description>
     </item>
     <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>Feel free to contact me to give me feedback about my blog, project, or collaborate!&#xA;Your email:&#xA;Your message:&#xA;Send</description>
+    </item>
+    <item>
       <title>Parallelized Single Source Shortest Path</title>
       <link>http://localhost:1313/projects/computer-science/parallelized-sssp/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0100</pubDate>
