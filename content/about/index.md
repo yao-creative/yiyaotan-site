@@ -7,7 +7,7 @@ featured_image: 'images/orchestra.jpg'
 ---
 I'm the one on the left in the photo :D!
 
-My name Yi Yao Tan. I usually go by Yao since I was young. Growing up I've lived in 5 countries, a total of three continents. 
+My name Yao. Growing up I've lived in 5 countries, a total of three continents. 
 
 I am currently pursuing an MSc in Mathematics and Foundations of Computer Science at the University of Oxford. Previously I graduated with a BSc in Mathematics and Computer Science in École Polytechnique (l'X) in Paris. My cohort was absolutely phenomenal.  My interests include Probability, Networks, and Machine Learning. I have extensive research experience in network analysis in supply chain reconstruction, transformer image segmentation, combinatorics, and high-performance computing. 
 
