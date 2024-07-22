@@ -13,7 +13,7 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Fri, 19 Jul 2024 12:00:00 +0100</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>I&amp;rsquo;m the one on the left in the photo :D!&#xA;My name Yi Yao Tan. I usually go by Yao since I was young. Growing up I&amp;rsquo;ve lived in 5 countries, a total of three continents and I&amp;rsquo;m quite a diversely curious person for better or for worse.&#xA;I am currently pursuing an MSc in Mathematics and Foundations of Computer Science at the University of Oxford. Previously I graduated with a BSc in Mathematics and Computer Science in École Polytechnique (l&amp;rsquo;X) in Paris.</description>
+      <description>I&amp;rsquo;m the one on the left in the photo :D!&#xA;My name Yao. Growing up I&amp;rsquo;ve lived in 5 countries, a total of three continents.&#xA;I am currently pursuing an MSc in Mathematics and Foundations of Computer Science at the University of Oxford. Previously I graduated with a BSc in Mathematics and Computer Science in École Polytechnique (l&amp;rsquo;X) in Paris. My cohort was absolutely phenomenal. My interests include Probability, Networks, and Machine Learning.</description>
     </item>
     <item>
       <title>Resume</title>
@@ -27,7 +27,7 @@
       <link>http://localhost:1313/contact/</link>
       <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/contact/</guid>
-      <description>Feel free to contact me to give me feedback about my blog, project, or collaborate!&#xA;Your email:&#xA;Your message:&#xA;Send</description>
+      <description>Pictured: Market in Rouen in January&#xA;Feel free to contact me to give me feedback about my blog, project, or collaborate!&#xA;Email:&#xA;Message:&#xA;Send</description>
     </item>
     <item>
       <title>Parallelized Single Source Shortest Path</title>
