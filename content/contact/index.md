@@ -2,7 +2,7 @@
 title: "Contact"
 date: 2023-07-21T00:00:00Z
 draft: false
-featured_image: "images/rouen_market.jpg"
+featured_image: "/images/rouen_market.jpg"
 ---
 Pictured: Market in Rouen in January
 

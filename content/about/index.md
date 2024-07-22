@@ -2,7 +2,7 @@
 title: "About Me"
 date: 2024-07-19T12:00:00+01:00
 large_header: true
-featured_image: 'images/orchestra.jpg'
+featured_image: '/images/orchestra.jpg'
 
 ---
 I'm the one on the left in the photo :D!

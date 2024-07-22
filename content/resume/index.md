@@ -1,7 +1,7 @@
 ---
 title: "Resume"
 date: 2024-07-19T12:00:00+01:00
-featured_image: "images/lake_horizontal.jpg"
+featured_image: "/images/lake_horizontal.jpg"
 ---
 
 ## Yi Yao Tan
