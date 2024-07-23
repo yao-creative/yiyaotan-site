@@ -17,16 +17,59 @@ html, body {
     align-items: center;
     justify-content: center;
 }
+
 .cover {
     background-size: cover;
     background-position: center;
-    height: 800px; /* Default height */
+    height: 50vh; /* Responsive height */
 }
 
 .large-header {
-    height: 1000px; /* Larger height for specific pages */
+    height: 60vh; /* Larger height for specific pages */
 }
 
+/* Center the intro-container on the page */
+.intro-container {
+    max-width: 800px; /* Adjust based on your desired width */
+    margin: 0 auto;
+    padding: 20px;
+}
 
+/* Ensure the profile image floats within the intro content */
+.profile-image {
+    float: right;
+    margin: 0 0 10px 10px;
+    width: 150px; /* Default width */
+    border-radius: 50%; /* Makes the image circular, adjust as needed */
+}
 
+/* Ensure the text flows around the floated image */
+.intro {
+    overflow: hidden; /* Clear floats if needed */
+    text-align: left;
+}
 
+/* Media Queries for Responsive Design */
+@media (max-width: 1200px) {
+    .profile-image {
+        width: 120px; /* Adjust the width for smaller screens */
+    }
+}
+
+@media (max-width: 768px) {
+    .cover {
+        height: 30vh; /* Adjust height for smaller screens */
+    }
+    .large-header {
+        height: 40vh; /* Adjust height for smaller screens */
+    }
+    .profile-image {
+        float: none;
+        display: block;
+        margin: 0 auto 10px;
+        width: 80px; /* Adjust the width for smaller screens */
+    }
+    .intro-container {
+        padding: 10px;
+    }
+}
