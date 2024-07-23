@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Economics Projects on Yi Yao Tan</title>
-    <link>http://localhost:56730/projects/economics/</link>
+    <link>http://localhost:56762/projects/economics/</link>
     <description>Recent content in Economics Projects on Yi Yao Tan</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 19 Jul 2024 12:00:00 +0100</lastBuildDate>
-    <atom:link href="http://localhost:56730/projects/economics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:56762/projects/economics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Supply Chain Reconstruction</title>
-      <link>http://localhost:56730/projects/economics/supply-chain-reconstruction/</link>
+      <link>http://localhost:56762/projects/economics/supply-chain-reconstruction/</link>
       <pubDate>Fri, 19 Jul 2024 12:00:00 +0100</pubDate>
-      <guid>http://localhost:56730/projects/economics/supply-chain-reconstruction/</guid>
+      <guid>http://localhost:56762/projects/economics/supply-chain-reconstruction/</guid>
       <description> Project Repository </description>
     </item>
   </channel>
