@@ -8,3 +8,5 @@ theme_version: '2.8.2'
 featured_image: '/images/oxford_spring.jpg'
 ---
 Pictured: Spring in Oxford!
+
+Every picture on this website I've either taken or is from one of my projects.
