@@ -17,6 +17,9 @@
     <loc>http://localhost:1313/projects/computer-science/</loc>
     <lastmod>2024-07-19T12:00:00+01:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/projects/economics/</loc>
+    <lastmod>2024-07-19T12:00:00+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/lifestyle/</loc>
     <lastmod>2024-07-19T12:00:00+01:00</lastmod>
   </url><url>
@@ -36,6 +39,9 @@
     <lastmod>2024-07-19T12:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/resume/</loc>
+    <lastmod>2024-07-19T12:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/economics/supply-chain-reconstruction/</loc>
     <lastmod>2024-07-19T12:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/travel/</loc>
