@@ -5,6 +5,9 @@ featured_image: '/images/planetree10000.png'
 ---
 
 Welcome to my project portfolio. Here you will find detailed descriptions of my work in various fields.
+## Economics Projects
+
+- [Supply Chain Reconstruction](/projects/economics/supply-chain-reconstruction/)
 
 ## Mathematics Projects
 
