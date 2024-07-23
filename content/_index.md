@@ -6,6 +6,7 @@ description: "Blog, Projects, and About Me"
 theme_version: '2.8.2'
 
 featured_image: '/images/oxford_spring.jpg'
+google_site_verification: "PoghGkQ18_ZP9SQIaclefi_tD57IOCj3hc-_z4uw4LI"
 ---
 Pictured: Spring in Oxford!
 
