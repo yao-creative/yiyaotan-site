@@ -9,7 +9,7 @@ featured_image: "/images/lake_horizontal.jpg"
 **Contact Information:**
 - Phone: +44 07919 688 382
 - Location: Oxford, UK
-- Email: yytanacademic@gmail.com
+- Email: yytanwork@gmail.com
 - [GitHub](https://github.com/yao-creative)
 - [LinkedIn](https://www.linkedin.com/in/yi-yao-tan-9719301a3/)
 
