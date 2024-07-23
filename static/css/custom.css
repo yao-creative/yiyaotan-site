@@ -48,28 +48,3 @@ html, body {
     overflow: hidden; /* Clear floats if needed */
     text-align: left;
 }
-
-/* Media Queries for Responsive Design */
-@media (max-width: 1200px) {
-    .profile-image {
-        width: 120px; /* Adjust the width for smaller screens */
-    }
-}
-
-@media (max-width: 768px) {
-    .cover {
-        height: 30vh; /* Adjust height for smaller screens */
-    }
-    .large-header {
-        height: 40vh; /* Adjust height for smaller screens */
-    }
-    .profile-image {
-        float: none;
-        display: block;
-        margin: 0 auto 10px;
-        width: 80px; /* Adjust the width for smaller screens */
-    }
-    .intro-container {
-        padding: 10px;
-    }
-}
