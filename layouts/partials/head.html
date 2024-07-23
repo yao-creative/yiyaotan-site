@@ -7,10 +7,6 @@
   <meta name="description" content="{{ .Site.Params.description }}">
   {{ end }}
 
-  <!-- Conditionally add Google Site Verification Meta Tag -->
-  {{ with .Params.google_site_verification }}
-  <meta name="google-site-verification" content="{{ . }}">
-  {{ end }}
   
   <!-- Include Custom CSS -->
   <link rel="stylesheet" href="{{ "css/custom.css" | relURL }}">
