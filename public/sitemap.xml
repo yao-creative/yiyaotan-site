@@ -2,75 +2,75 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:56730/</loc>
     <lastmod>2024-07-19T20:57:38+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>http://localhost:56730/about/</loc>
     <lastmod>2024-07-19T12:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/bioinformatics/</loc>
+    <loc>http://localhost:56730/projects/bioinformatics/</loc>
     <lastmod>2024-07-19T12:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>http://localhost:56730/blog/</loc>
     <lastmod>2024-07-19T12:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/computer-science/</loc>
+    <loc>http://localhost:56730/projects/computer-science/</loc>
     <lastmod>2024-07-19T12:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/economics/</loc>
+    <loc>http://localhost:56730/projects/economics/</loc>
     <lastmod>2024-07-19T12:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/lifestyle/</loc>
+    <loc>http://localhost:56730/blog/lifestyle/</loc>
     <lastmod>2024-07-19T12:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/mathematics/</loc>
+    <loc>http://localhost:56730/projects/mathematics/</loc>
     <lastmod>2024-07-19T12:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/maths/</loc>
+    <loc>http://localhost:56730/blog/maths/</loc>
     <lastmod>2024-07-19T12:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/philosophy/</loc>
+    <loc>http://localhost:56730/blog/philosophy/</loc>
     <lastmod>2024-07-19T12:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>http://localhost:56730/projects/</loc>
     <lastmod>2024-07-19T12:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/reading/</loc>
+    <loc>http://localhost:56730/blog/reading/</loc>
     <lastmod>2024-07-19T12:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/resume/</loc>
+    <loc>http://localhost:56730/resume/</loc>
     <lastmod>2024-07-19T12:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/economics/supply-chain-reconstruction/</loc>
+    <loc>http://localhost:56730/projects/economics/supply-chain-reconstruction/</loc>
     <lastmod>2024-07-19T12:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/travel/</loc>
+    <loc>http://localhost:56730/blog/travel/</loc>
     <lastmod>2024-07-19T12:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>http://localhost:56730/contact/</loc>
     <lastmod>2023-07-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/computer-science/parallelized-sssp/</loc>
+    <loc>http://localhost:56730/projects/computer-science/parallelized-sssp/</loc>
     <lastmod>2023-05-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/computer-science/sparse-transformer-attention/</loc>
+    <loc>http://localhost:56730/projects/computer-science/sparse-transformer-attention/</loc>
     <lastmod>2023-03-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/computer-science/compiler/</loc>
+    <loc>http://localhost:56730/projects/computer-science/compiler/</loc>
     <lastmod>2022-12-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/mathematics/random-catalan-structures/</loc>
+    <loc>http://localhost:56730/projects/mathematics/random-catalan-structures/</loc>
     <lastmod>2022-12-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/computer-science/wikipedia-topic-embedding/</loc>
+    <loc>http://localhost:56730/projects/computer-science/wikipedia-topic-embedding/</loc>
     <lastmod>2021-12-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/bioinformatics/cdk2-protein-clustering/</loc>
+    <loc>http://localhost:56730/projects/bioinformatics/cdk2-protein-clustering/</loc>
     <lastmod>2021-09-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/mathematics/trinomial-tree-model/</loc>
+    <loc>http://localhost:56730/projects/mathematics/trinomial-tree-model/</loc>
     <lastmod>2021-05-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:56730/categories/</loc>
   </url>
 </urlset>
