@@ -2,75 +2,75 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:56762/</loc>
+    <loc>https://yiyaotan-site.vercel.app/</loc>
     <lastmod>2024-07-19T20:57:38+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:56762/about/</loc>
+    <loc>https://yiyaotan-site.vercel.app/about/</loc>
     <lastmod>2024-07-19T12:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:56762/projects/bioinformatics/</loc>
+    <loc>https://yiyaotan-site.vercel.app/projects/bioinformatics/</loc>
     <lastmod>2024-07-19T12:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:56762/blog/</loc>
+    <loc>https://yiyaotan-site.vercel.app/blog/</loc>
     <lastmod>2024-07-19T12:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:56762/projects/computer-science/</loc>
+    <loc>https://yiyaotan-site.vercel.app/projects/computer-science/</loc>
     <lastmod>2024-07-19T12:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:56762/projects/economics/</loc>
+    <loc>https://yiyaotan-site.vercel.app/projects/economics/</loc>
     <lastmod>2024-07-19T12:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:56762/blog/lifestyle/</loc>
+    <loc>https://yiyaotan-site.vercel.app/blog/lifestyle/</loc>
     <lastmod>2024-07-19T12:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:56762/projects/mathematics/</loc>
+    <loc>https://yiyaotan-site.vercel.app/projects/mathematics/</loc>
     <lastmod>2024-07-19T12:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:56762/blog/maths/</loc>
+    <loc>https://yiyaotan-site.vercel.app/blog/maths/</loc>
     <lastmod>2024-07-19T12:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:56762/blog/philosophy/</loc>
+    <loc>https://yiyaotan-site.vercel.app/blog/philosophy/</loc>
     <lastmod>2024-07-19T12:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:56762/projects/</loc>
+    <loc>https://yiyaotan-site.vercel.app/projects/</loc>
     <lastmod>2024-07-19T12:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:56762/blog/reading/</loc>
+    <loc>https://yiyaotan-site.vercel.app/blog/reading/</loc>
     <lastmod>2024-07-19T12:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:56762/resume/</loc>
+    <loc>https://yiyaotan-site.vercel.app/resume/</loc>
     <lastmod>2024-07-19T12:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:56762/projects/economics/supply-chain-reconstruction/</loc>
+    <loc>https://yiyaotan-site.vercel.app/projects/economics/supply-chain-reconstruction/</loc>
     <lastmod>2024-07-19T12:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:56762/blog/travel/</loc>
+    <loc>https://yiyaotan-site.vercel.app/blog/travel/</loc>
     <lastmod>2024-07-19T12:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:56762/contact/</loc>
+    <loc>https://yiyaotan-site.vercel.app/contact/</loc>
     <lastmod>2023-07-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:56762/projects/computer-science/parallelized-sssp/</loc>
+    <loc>https://yiyaotan-site.vercel.app/projects/computer-science/parallelized-sssp/</loc>
     <lastmod>2023-05-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:56762/projects/computer-science/sparse-transformer-attention/</loc>
+    <loc>https://yiyaotan-site.vercel.app/projects/computer-science/sparse-transformer-attention/</loc>
     <lastmod>2023-03-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:56762/projects/computer-science/compiler/</loc>
+    <loc>https://yiyaotan-site.vercel.app/projects/computer-science/compiler/</loc>
     <lastmod>2022-12-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:56762/projects/mathematics/random-catalan-structures/</loc>
+    <loc>https://yiyaotan-site.vercel.app/projects/mathematics/random-catalan-structures/</loc>
     <lastmod>2022-12-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:56762/projects/computer-science/wikipedia-topic-embedding/</loc>
+    <loc>https://yiyaotan-site.vercel.app/projects/computer-science/wikipedia-topic-embedding/</loc>
     <lastmod>2021-12-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:56762/projects/bioinformatics/cdk2-protein-clustering/</loc>
+    <loc>https://yiyaotan-site.vercel.app/projects/bioinformatics/cdk2-protein-clustering/</loc>
     <lastmod>2021-09-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:56762/projects/mathematics/trinomial-tree-model/</loc>
+    <loc>https://yiyaotan-site.vercel.app/projects/mathematics/trinomial-tree-model/</loc>
     <lastmod>2021-05-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:56762/categories/</loc>
+    <loc>https://yiyaotan-site.vercel.app/categories/</loc>
   </url>
 </urlset>
