@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Entrepreneurial Projects on Yi Yao Tan</title>
+    <title>Passion Projects on Yi Yao Tan</title>
     <link>https://yiyaotan-site.vercel.app/projects/entrepreneurial/</link>
-    <description>Recent content in Entrepreneurial Projects on Yi Yao Tan</description>
+    <description>Recent content in Passion Projects on Yi Yao Tan</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 25 Jul 2024 00:00:00 +0100</lastBuildDate>
@@ -13,7 +13,7 @@
       <link>https://yiyaotan-site.vercel.app/projects/entrepreneurial/selftot/</link>
       <pubDate>Thu, 25 Jul 2024 00:00:00 +0100</pubDate>
       <guid>https://yiyaotan-site.vercel.app/projects/entrepreneurial/selftot/</guid>
-      <description>Education should be as free as possible. Today I taught myself flask and google api, soon I&amp;rsquo;ll have functioning self-taught app.&#xA;Project Repository </description>
+      <description>Education should be as free as possible. Today I taught myself flask and google api, soon I&amp;rsquo;ll have functioning self-taught app. (Coming soon)</description>
     </item>
   </channel>
 </rss>
