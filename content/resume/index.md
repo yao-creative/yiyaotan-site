@@ -19,7 +19,7 @@ featured_image: "/images/lake_horizontal.jpg"
   Courses: Chaos Theory, Algorithmic Foundations, Probabilistic Combinatorics, etc.
 
 - **BSc Mathematics and Computer Science, École Polytechnique** (Sept 2020 - Jun 2023)
-  Relevant Coursework: Measure and Integration Theory, Differential Geometry, Convex Optimization, etc.
+  Relevant Coursework: Measure and Integration Theory, Differential Geometry, Convex Optimization, Numerical Analysis, Compilers, Computer Architecture, Computer Networks, Machine Learning, Parallel and Distributed Computing etc.
 
 ## Research Experience
 - **Networks Analysis Research Master’s Thesis** (April 2024 — Sept 2024)
@@ -29,7 +29,7 @@ featured_image: "/images/lake_horizontal.jpg"
   **Location:** Oxford, United Kingdom
 
   **Advisors:** Renaud Lambiotte, François Lafond
-  
+
   Network Analysis on Production Networks: Developing a null model based on network geometry for national scale firm-level input-output networks.
 
 - **High Performance Machine Learning: Transformer Image Segmentation, NLP Research Intern** (Jun 2022 - Sept 2022 and Jan 2023 — Mar 2023 )
