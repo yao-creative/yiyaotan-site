@@ -10,7 +10,7 @@ Welcome to my blog. Here, you can find articles on various topics categorized fo
 
 - [Maths](/blog/maths/)
 - [Travel](/blog/travel/)
-- [Lifestyle](/blog/lifestyle/)
+- [Life](/blog/life/)
 - [Philosophy](/blog/philosophy/)
 - [Reading](/blog/reading/)
 - [Music](/blog/music/)
