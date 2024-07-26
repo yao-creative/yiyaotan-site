@@ -23,7 +23,7 @@ featured_image: "/images/lake_horizontal.jpg"
   **Relevant Coursework:** Measure and Integration Theory, Differential Geometry, Convex Optimization, Numerical Analysis, Compilers, Computer Architecture, Computer Networks, Machine Learning, Parallel and Distributed Computing, etc.
 
 ## Research Experience
-- <b>Networks Analysis Research Master’s Thesis</b> (April 2024 — Sept 2024)
+- <u><b>Networks Analysis Research Master’s Thesis</b></u> (April 2024 — Sept 2024)
 
   **Institution:** Oxford Mathematical Institute and Institute of New Economic Thinking
 
@@ -33,7 +33,7 @@ featured_image: "/images/lake_horizontal.jpg"
 
   Network Analysis on Production Networks: Developing a null model based on network geometry for national scale firm-level input-output networks.
 
-- <b>High Performance Machine Learning: Transformer Image Segmentation, NLP Research Intern</b> (Jun 2022 - Sept 2022 and Jan 2023 — Mar 2023)
+- <u><b>High Performance Machine Learning: Transformer Image Segmentation, NLP Research Intern</b></u> (Jun 2022 - Sept 2022 and Jan 2023 — Mar 2023)
 
   **Company:** Huawei Research Paris
 
@@ -43,7 +43,7 @@ featured_image: "/images/lake_horizontal.jpg"
 
   Created a complete Transformer Image Segmentation Encoder-Decoder pipeline on ADE20k and model from scratch in Mindspore.
 
-- <b>Combinatorics and Informatics Student</b> (Sept 2022 — Dec 2022)
+- <u><b>Combinatorics and Informatics Student</b></u> (Sept 2022 — Dec 2022)
 
   **Institution:** LiX
 
@@ -53,7 +53,7 @@ featured_image: "/images/lake_horizontal.jpg"
 
   Developed a library for the simulation of random uniform generation of combinatorial structures.
 
-- <b>Bioinformatics Research Intern</b> (Sept 2022 — Dec 2022)
+- <u><b>Bioinformatics Research Intern</b></u> (Sept 2022 — Dec 2022)
 
   **Institution:** BIOC
 
