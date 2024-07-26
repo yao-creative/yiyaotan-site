@@ -16,10 +16,10 @@ featured_image: "/images/lake_horizontal.jpg"
 ## Education
 - **MSc Mathematics and Foundations of Computer Science, University of Oxford** (Oct 2023 - Sept 2024)
   Interest in Probability and Networks.
-  Courses: Chaos Theory, Algorithmic Foundations, Probabilistic Combinatorics, etc.
+  Courses: Chaos Theory, Algorithmic Foundations of Collective Decision Making, Algorithmic Game Theory, Mathematical Networks, Information Theory, etc.
 
 - **BSc Mathematics and Computer Science, École Polytechnique** (Sept 2020 - Jun 2023)
-  Relevant Coursework: Measure and Integration Theory, Differential Geometry, Convex Optimization, Numerical Analysis, Compilers, Computer Architecture, Computer Networks, Machine Learning, Parallel and Distributed Computing etc.
+  Relevant Coursework: Measure and Integration Theory, Differential Geometry, Convex Optimization, Numerical Analysis, Compilers, Computer Architecture, Computer Networks, Machine Learning, Parallel and Distributed Computing, etc.
 
 ## Research Experience
 - **Networks Analysis Research Master’s Thesis** (April 2024 — Sept 2024)
