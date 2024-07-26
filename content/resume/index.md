@@ -14,16 +14,16 @@ featured_image: "/images/lake_horizontal.jpg"
 - [LinkedIn](https://www.linkedin.com/in/yi-yao-tan-9719301a3/)
 
 ## Education
-- **MSc Mathematics and Foundations of Computer Science, University of Oxford** (Oct 2023 - Sept 2024)
+- <u><b>MSc Mathematics and Foundations of Computer Science, University of Oxford</b></u> (Oct 2023 - Sept 2024)
 
   **Courses:** Chaos Theory, Algorithmic Foundations of Collective Decision Making, Algorithmic Game Theory, Mathematical Networks, Information Theory, etc.
 
-- **BSc Mathematics and Computer Science, École Polytechnique** (Sept 2020 - Jun 2023)
+- <u><b>BSc Mathematics and Computer Science, École Polytechnique</b></u> (Sept 2020 - Jun 2023)
 
   **Relevant Coursework:** Measure and Integration Theory, Differential Geometry, Convex Optimization, Numerical Analysis, Compilers, Computer Architecture, Computer Networks, Machine Learning, Parallel and Distributed Computing, etc.
 
 ## Research Experience
-- **Networks Analysis Research Master’s Thesis** (April 2024 — Sept 2024)
+- <b>Networks Analysis Research Master’s Thesis</b> (April 2024 — Sept 2024)
 
   **Institution:** Oxford Mathematical Institute and Institute of New Economic Thinking
 
@@ -33,7 +33,7 @@ featured_image: "/images/lake_horizontal.jpg"
 
   Network Analysis on Production Networks: Developing a null model based on network geometry for national scale firm-level input-output networks.
 
-- **High Performance Machine Learning: Transformer Image Segmentation, NLP Research Intern** (Jun 2022 - Sept 2022 and Jan 2023 — Mar 2023 )
+- <b>High Performance Machine Learning: Transformer Image Segmentation, NLP Research Intern</b> (Jun 2022 - Sept 2022 and Jan 2023 — Mar 2023)
 
   **Company:** Huawei Research Paris
 
@@ -43,7 +43,7 @@ featured_image: "/images/lake_horizontal.jpg"
 
   Created a complete Transformer Image Segmentation Encoder-Decoder pipeline on ADE20k and model from scratch in Mindspore.
 
-- **Combinatorics and Informatics Student** (Sept 2022 — Dec 2022)
+- <b>Combinatorics and Informatics Student</b> (Sept 2022 — Dec 2022)
 
   **Institution:** LiX
 
@@ -53,7 +53,7 @@ featured_image: "/images/lake_horizontal.jpg"
 
   Developed a library for the simulation of random uniform generation of combinatorial structures.
 
-- **Bioinformatics Research Intern** (Sept 2022 — Dec 2022)
+- <b>Bioinformatics Research Intern</b> (Sept 2022 — Dec 2022)
 
   **Institution:** BIOC
 
