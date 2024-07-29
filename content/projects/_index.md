@@ -7,7 +7,7 @@ featured_image: '/images/planetree10000.png'
 Welcome to my project portfolio. Here you will find detailed descriptions of my work in various fields.
 ## Passion Projects 
 
-- [Selftot](/projects/passion-porjects/selftot/)
+- [Selftot](/projects/passion-projects/selftot/)
 
 ## Economics Projects
 
