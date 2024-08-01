@@ -16,18 +16,18 @@
       <description>This year in brief Today I start a period of indefinite homelessness, staying at a friend&amp;rsquo;s place at Oxford, in a couple weeks with another friend in Hanover, perhaps beginning of September in Estonia, and then back for my thesis defense mid-September and then to who knows where else. Perhaps this is the sort of thing you embrace at 23.&#xA;Recently, I&amp;rsquo;ve been finishing up my thesis for Master&amp;rsquo;s degree in Mathematics and Foundations of Computer Science at Oxford.</description>
     </item>
     <item>
-      <title>Selftot</title>
-      <link>https://yiyaotan-site.vercel.app/projects/passion-projects/selftot/</link>
-      <pubDate>Thu, 25 Jul 2024 00:00:00 +0100</pubDate>
-      <guid>https://yiyaotan-site.vercel.app/projects/passion-projects/selftot/</guid>
-      <description>Education should be as free as possible and personalized. Today I taught myself flask and google api, soon I&amp;rsquo;ll have functioning self-taught app. (Coming soon)</description>
-    </item>
-    <item>
       <title>About Me</title>
       <link>https://yiyaotan-site.vercel.app/about/</link>
       <pubDate>Fri, 19 Jul 2024 12:00:00 +0100</pubDate>
       <guid>https://yiyaotan-site.vercel.app/about/</guid>
       <description>I&amp;rsquo;m the one on the left in the photo above :D!&#xA;My name Yao. Growing up I&amp;rsquo;ve lived in 5 countries, a total of three continents.&#xA;I am currently pursuing an MSc in Mathematics and Foundations of Computer Science at the University of Oxford. Previously, I graduated with a BSc in Mathematics and Computer Science in École Polytechnique (l&amp;rsquo;X) in Paris. My cohort was probably the most amazing group of people I&amp;rsquo;ve met.</description>
+    </item>
+    <item>
+      <title>Passion Projects</title>
+      <link>https://yiyaotan-site.vercel.app/projects/passion-projects/selftot/</link>
+      <pubDate>Fri, 19 Jul 2024 12:00:00 +0100</pubDate>
+      <guid>https://yiyaotan-site.vercel.app/projects/passion-projects/selftot/</guid>
+      <description>Education should be as free as possible and personalized. Taught myself Flask and Google API, hopefully I soon can create some type quickstart knowledge representation. Currently only curriculum generation works.&#xA;Selftot App Repo An example of networks query: Curriculum generation example: </description>
     </item>
     <item>
       <title>Resume</title>

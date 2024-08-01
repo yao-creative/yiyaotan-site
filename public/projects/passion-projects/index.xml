@@ -6,14 +6,14 @@
     <description>Recent content in Passion Projects on Yi Yao Tan</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jul 2024 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 12:00:00 +0100</lastBuildDate>
     <atom:link href="https://yiyaotan-site.vercel.app/projects/passion-projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Selftot</title>
+      <title>Passion Projects</title>
       <link>https://yiyaotan-site.vercel.app/projects/passion-projects/selftot/</link>
-      <pubDate>Thu, 25 Jul 2024 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 19 Jul 2024 12:00:00 +0100</pubDate>
       <guid>https://yiyaotan-site.vercel.app/projects/passion-projects/selftot/</guid>
-      <description>Education should be as free as possible and personalized. Today I taught myself flask and google api, soon I&amp;rsquo;ll have functioning self-taught app. (Coming soon)</description>
+      <description>Education should be as free as possible and personalized. Taught myself Flask and Google API, hopefully I soon can create some type quickstart knowledge representation. Currently only curriculum generation works.&#xA;Selftot App Repo An example of networks query: Curriculum generation example: </description>
     </item>
   </channel>
 </rss>
