@@ -4,10 +4,18 @@ date: 2024-07-19T12:00:00+01:00
 featured_image: '/images/planetree10000.png'
 ---
 
-Welcome to my project portfolio. Here you will find detailed descriptions of my work in various fields.
+Welcome to my project portfolio. Here you will find detailed descriptions of my work in various fields. 
+
+A quick guide, my main projects have been:
+
+1) Sparse Transformer Attention and Visual Image Transformer Segmentation
+2) Supply Chain Reconstruction (Currently)
+3) CDK-2 Protein Conformation Clustering
+
 ## Passion Projects 
 
 - [Selftot](/projects/passion-projects/selftot/)
+- [My Website](https://github.com/yao-creative/yiyaotan-site/tree/main)
 
 ## Economics Projects
 
