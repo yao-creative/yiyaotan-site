@@ -9,4 +9,4 @@ featured_image: '/images/oxford_spring.jpg'
 ---
 Pictured: Spring in Oxford!
 
-Every picture on this website I've either taken or is from one of my projects.
+The pictures from each section and landing pages on this website I've either taken or is from one of my projects, usually captioned on the page. Perhaps for book reviews and more abstract concepts in the blog some pictures are borrowed.
