@@ -9,7 +9,7 @@ featured_image: '/images/orchestra.jpg'
   
   I'm the one on the left in the photo above :D!
 
-  My name Yao. Growing up I've lived in 5 countries, a total of three continents. 
+  My name is Yao. Growing up I've lived in 5 countries, a total of three continents. 
 
   I am currently pursuing an MSc in Mathematics and Foundations of Computer Science at the University of Oxford. Previously, I graduated with a BSc in Mathematics and Computer Science in École Polytechnique (l'X) in Paris. My cohort was probably the most amazing group of people I've met. As a regularly curious person, I'm also passionate about personalizing, democratizing education, learning, and also breaking knowledge barriers. I've dabbled around with research in network analysis in supply chain reconstruction, transformer image segmentation and NLP, combinatorics, and high-performance computing for distributed Machine Learning. 
 
