@@ -9,7 +9,7 @@ featured_image: '/images/orchestra.jpg'
   
   I'm the one on the left in the photo above :D!
 
-  My name is Yao. Growing up I've lived in 5 countries, a total of three continents. 
+  My name is Yao. Growing up, I've lived in 5 countries, a total of three continents. 
 
   I am currently pursuing an MSc in Mathematics and Foundations of Computer Science at the University of Oxford. Previously, I graduated with a BSc in Mathematics and Computer Science in École Polytechnique (l'X) in Paris. My cohort was probably the most amazing group of people I've met. As a regularly curious person, I'm also passionate about personalizing, democratizing education, learning, and also breaking knowledge barriers. I've dabbled around with research in network analysis in supply chain reconstruction, transformer image segmentation and NLP, combinatorics, and high-performance computing for distributed Machine Learning. 
 
@@ -17,7 +17,7 @@ featured_image: '/images/orchestra.jpg'
   
   Aside from that, I'm vegetarian which I believe is important to me as it helps me make conscious decisions about my health and what I consume and also fits with my world view aligned as "sufficiency and sustainability as a consumer" perspective. In my free time enjoy listening to music, often classical but other times diverse such as Italian rap or Japanese City Pop. I also listen to a lot of podcasts and short book summaries.
   
-  Feel free to contact me on LinkedIn or fill the contact form! 
+  Feel free to contact me on LinkedIn or fill the [contact form](/contact/)! 
 
   You can find more about my work on [GitHub](https://github.com/yao-creative) and connect with me on [LinkedIn](https://www.linkedin.com/in/yi-yao-tan-9719301a3/).
   <img src="/images/profile.jpg" alt="Profile Image" class="profile-image">
