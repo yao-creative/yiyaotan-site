@@ -7,4 +7,4 @@ Welcome to the Life section of my blog. Here, I share articles about life and fi
 
 ## Journaling:
 
-<!-- - [Finishing Oxford and Entering a State of Indefinite Homeless](/blog/life/homelessness/) -->
+- [Finishing Oxford and Entering a State of Indefinite Homeless](/blog/life/homelessness/)
