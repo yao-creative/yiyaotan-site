@@ -15,7 +15,7 @@ featured_image: '/images/orchestra.jpg'
 
   Besides my work in mathematics and computer science, I enjoy playing in the orchestra and volleyball. At Oxford I played for Hertford and Turl Street Orchestras. I can get quite competitive for volleyball, but I've also coached middle school and highschool volleyball and enjoy teaching. I'm quite a diversely curious person. I love great conversations with strangers, travel, photography, and literature from various languages. I speak Mandarin and English natively, I've a working level of French (enough speak machine learning in the office and even to go on dates :P), studied a couple years of Russian, and now on an Italian duolingo streak of almost a year. 
   
-  Aside from that, I'm vegetarian which I believe is important to me as it helps me make conscious decisions about my health and what I consume and also fits with my world view aligned as "sufficiency and sustainability as a consumer" perspective. In my free time enjoy listening to music, often classical but other times diverse such as italian rap or japanese city pop. I also listen to a lot of podcasts and short book summaries.
+  Aside from that, I'm vegetarian which I believe is important to me as it helps me make conscious decisions about my health and what I consume on a daily basis and also fits with my world view aligned as "sufficiency and sustainability as a consumer" perspective. In my free time enjoy listening to music, often classical but other times diverse such as italian rap or japanese city pop. I also listen to a lot of podcasts and short book summaries.
   
   Feel free to contact me on LinkedIn or fill the [contact form](/contact/)! 
 
