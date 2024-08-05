@@ -9,7 +9,7 @@ Today I start a period of indefinite homelessness, staying at a friend's place a
 
 Recently, I've been finishing up my thesis for Master's degree in Mathematics and Foundations of Computer Science at Oxford. Writing about [supply chain topology](/projects/economics/supply-chain-reconstruction/). It's been a year which has been a bit chaotic but full of turns and unquantifiable lessons about life. For starters I entered thinking I'd want to do theoretical computer science, ended up trying to enter the economics and statistical physics sphere with neither a degree in economics and statistical physics but crashing courses in Oxford's Physics department with friends I've met in volleyball and revising with them for their finals to write my thesis on supply chains.
 
-## A sense of Agency
+## A sense of "Agency"
 
 Perhaps it's also just part being in our 20's. I believe that there are two types of people in the world those who know what they want to do and are deeply passionate about it and those who are still in the constant yet natural struggle of figuring out what they want to do with their skills. Deep down, I believe that perhaps it comes to the idea of "agency." We want to find work where we believe that we chose it ourselves and it's our true passion, something which unifies our values and interests and where we can feel valued all together. 
 

@@ -7,7 +7,6 @@ featured_image: "/images/lake_horizontal.jpg"
 ## Yi Yao Tan
 
 **Contact Information:**
-- Phone: +44 07919 688 382
 - Location: Oxford, UK
 - Email: yytanwork@gmail.com
 - [GitHub](https://github.com/yao-creative)
