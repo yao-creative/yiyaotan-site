@@ -1,26 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Mathematics Projects on Yi Yao Tan</title>
-    <link>https://yiyaotan-site.vercel.app/projects/mathematics/</link>
-    <description>Recent content in Mathematics Projects on Yi Yao Tan</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0100</lastBuildDate>
-    <atom:link href="https://yiyaotan-site.vercel.app/projects/mathematics/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Random Generation of Catalan Counted Simulations</title>
-      <link>https://yiyaotan-site.vercel.app/projects/mathematics/random-catalan-structures/</link>
-      <pubDate>Thu, 01 Dec 2022 00:00:00 +0100</pubDate>
-      <guid>https://yiyaotan-site.vercel.app/projects/mathematics/random-catalan-structures/</guid>
-      <description>Created a library for the simulation of random uniform generation of combinatorial structures counted by Catalan Numbers using natural bijections between different combinatorial objects in Mathematica and Python.&#xA;Project Repository </description>
-    </item>
-    <item>
-      <title>Trinomial Tree Model for Option Pricing</title>
-      <link>https://yiyaotan-site.vercel.app/projects/mathematics/trinomial-tree-model/</link>
-      <pubDate>Sat, 01 May 2021 00:00:00 +0100</pubDate>
-      <guid>https://yiyaotan-site.vercel.app/projects/mathematics/trinomial-tree-model/</guid>
-      <description>Studied the trinomial tree for options pricing of a martingale using backward induction. Responsible for numerical analysis and simulations.&#xA;Project Repository Preprint </description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mathematics Projects on Yi Yao Tan</title><link>https://yiyaotan-site.vercel.app/projects/mathematics/</link><description>Recent content in Mathematics Projects on Yi Yao Tan</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0100</lastBuildDate><atom:link href="https://yiyaotan-site.vercel.app/projects/mathematics/index.xml" rel="self" type="application/rss+xml"/><item><title>Random Generation of Catalan Counted Simulations</title><link>https://yiyaotan-site.vercel.app/projects/mathematics/random-catalan-structures/</link><pubDate>Thu, 01 Dec 2022 00:00:00 +0100</pubDate><guid>https://yiyaotan-site.vercel.app/projects/mathematics/random-catalan-structures/</guid><description>Created a library for the simulation of random uniform generation of combinatorial structures counted by Catalan Numbers using natural bijections between different combinatorial objects in Mathematica and Python.
+Project Repository</description></item><item><title>Trinomial Tree Model for Option Pricing</title><link>https://yiyaotan-site.vercel.app/projects/mathematics/trinomial-tree-model/</link><pubDate>Sat, 01 May 2021 00:00:00 +0100</pubDate><guid>https://yiyaotan-site.vercel.app/projects/mathematics/trinomial-tree-model/</guid><description>Studied the trinomial tree for options pricing of a martingale using backward induction. Responsible for numerical analysis and simulations.
+Project Repository Preprint</description></item></channel></rss>
