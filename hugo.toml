@@ -7,9 +7,21 @@ theme = "ananke"
   description = "Graduate student specializing in Mathematics and Computer Science with extensive research experience."
   author = "Yi Yao Tan"
   mode = "light" # Choose 'light' or 'dark' mode for the theme
+  mainSections = ["blog"]
+  featured_image = "/images/default-featured.jpg"
+  show_reading_time = true
+  recent_posts_number = 3
 
 [taxonomies]
   category = "categories"
+  tag = "tags"
+
+[permalinks]
+  blog = "/blog/:year/:month/:slug/"
+
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML", "RSS", "JSON"]
 
 [[menu.main]]
   name = "Home"

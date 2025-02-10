@@ -1,11 +1,17 @@
 {
-  "buildCommand": "HUGO_ENV=production hugo --gc --minify",
+  "buildCommand": "hugo --gc --minify",
   "outputDirectory": "public",
   "framework": "hugo",
   "cleanUrls": true,
+  "trailingSlash": true,
   "env": {
-    "HUGO_VERSION": "0.129.0",
+    "HUGO_VERSION": "0.121.1",
     "HUGO_ENV": "production",
     "HUGO_ENVIRONMENT": "production"
+  },
+  "build": {
+    "env": {
+      "HUGO_VERSION": "0.121.1"
+    }
   }
 } 

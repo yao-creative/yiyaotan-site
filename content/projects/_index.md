@@ -10,17 +10,14 @@ Welcome to my project portfolio. Here you will find detailed descriptions of my 
 A quick guide, my main projects have been:
 
 1) Sparse Transformer Attention and Visual Image Transformer Segmentation
-2) Supply Chain Reconstruction (Currently)
+2) Supply Chain Reconstruction using Hyperbolic Network Geometry
 3) CDK-2 Protein Conformation Clustering
 
-## Passion Projects 
 
-- [Selftot](/projects/passion-projects/selftot/)
-- [My Website](https://github.com/yao-creative/yiyaotan-site/tree/main)
 
-## Economics Projects
+## Complexity Economics Projects
 
-- [Supply Chain Reconstruction](/projects/economics/supply-chain-reconstruction/)
+- [Supply Chain Reconstruction using Hyperbolic Network Geometry](/projects/economics/supply-chain-reconstruction/)
 
 ## Mathematics Projects
 
@@ -37,3 +34,8 @@ A quick guide, my main projects have been:
 ## Bioinformatics Projects
 
 - [CDK-2 Protein Conformation Clustering](/projects/bioinformatics/cdk2-protein-clustering/)
+
+## Other Projects 
+
+- [Selftot](/projects/passion-projects/selftot/)
+- [My Website](https://github.com/yao-creative/yiyaotan-site/tree/main)
