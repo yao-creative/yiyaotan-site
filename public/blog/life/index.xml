@@ -1,2 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Life on Yi Yao Tan</title><link>https://yiyaotan-site.vercel.app/blog/life/</link><description>Recent content in Life on Yi Yao Tan</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2024 19:41:59 +0100</lastBuildDate><atom:link href="https://yiyaotan-site.vercel.app/blog/life/index.xml" rel="self" type="application/rss+xml"/><item><title>Finishing Oxford and Entering a State of Indefinite Homeless</title><link>https://yiyaotan-site.vercel.app/blog/2024/08/finishing-oxford-and-entering-a-state-of-indefinite-homeless/</link><pubDate>Thu, 01 Aug 2024 19:41:59 +0100</pubDate><guid>https://yiyaotan-site.vercel.app/blog/2024/08/finishing-oxford-and-entering-a-state-of-indefinite-homeless/</guid><description>This year in brief Today I start a period of indefinite homelessness, staying at a friend&amp;rsquo;s place at Oxford, in a couple weeks with another friend in Hanover, perhaps beginning of September in Estonia, and then back for my thesis defense mid-September and then to who knows where else. Perhaps this is the sort of thing you embrace at 23.
-Recently, I&amp;rsquo;ve been finishing up my thesis for Master&amp;rsquo;s degree in Mathematics and Foundations of Computer Science at Oxford.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Life on Yi Yao Tan</title>
+    <link>http://localhost:1313/blog/life/</link>
+    <description>Recent content in Life on Yi Yao Tan</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Aug 2024 19:41:59 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/life/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Finishing Oxford and Entering a State of Indefinite Homeless</title>
+      <link>http://localhost:1313/blog/2024/08/finishing-oxford-and-entering-a-state-of-indefinite-homeless/</link>
+      <pubDate>Thu, 01 Aug 2024 19:41:59 +0100</pubDate>
+      <guid>http://localhost:1313/blog/2024/08/finishing-oxford-and-entering-a-state-of-indefinite-homeless/</guid>
+      <description>This year in brief Today I start a period of indefinite homelessness, staying at a friend&amp;rsquo;s place at Oxford, in a couple weeks with another friend in Hanover, perhaps beginning of September in Estonia, and then back for my thesis defense mid-September and then to who knows where else. Perhaps this is the sort of thing you embrace at 23.&#xA;Recently, I&amp;rsquo;ve been finishing up my thesis for Master&amp;rsquo;s degree in Mathematics and Foundations of Computer Science at Oxford.</description>
+    </item>
+  </channel>
+</rss>

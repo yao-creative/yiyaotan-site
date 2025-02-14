@@ -1,5 +1,5 @@
 ---
-title: "Living in Riyadh Airport for 2 days"
+title: "2 Days in Riyadh Airport"
 date: 2023-07-31T12:00:00+01:00
 ---
 

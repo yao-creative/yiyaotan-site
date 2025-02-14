@@ -6,7 +6,7 @@ type: "section"
 layout: "section"
 ---
 
-Welcome to my blog. Here, you can find articles on various topics categorized for your convenience.
+Welcome to my blog. Some stuff are yet to be filled out. (The reading section is probably the most interesting right now)
 
 ## Categories
 
