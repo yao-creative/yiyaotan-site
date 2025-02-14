@@ -15,7 +15,7 @@ I believe that reading is such a powerful way to condense years of experience, s
 
 I believe that reading for the pure experience is a good exercise in empathy, if anything to convince someone that one can gain something from pure fiction. I enjoy in particular rich descriptive literature for example some magical realism from Murakami or a good piece of fiction from literature selection prizes such as the Prix Femina collections as they bring upon a sort of "presentness" during the process of reading as the author takes you along in long night rides in the forests of Japan walk conversing over their favorite Trios (Kafka on the Shore, also my personal favorite is Mendelsohn's Trio) or when he sits you by a highway as you watch each car described with the personality of their drivers tumbling out of the freeway and to wherever they may end up (Par les Routes).
 
-## A non-comprehensive I reads I enjoyed list or found meaningful
+## A non-comprehensive I reads I enjoyed list or found meaningful:
 
 - The Practicing Stoic (William Wordsworth)
   
@@ -37,10 +37,10 @@ I believe that reading for the pure experience is a good exercise in empathy, if
 
 - Le Pétit Prince (Saint Exupéry)
 
-- Flatland (Edwin Abbott Abbott)
+- Flatland (Edwin Abbott)
 
 
-## Want to Read/ Currently Reading list
+## Want to Read/ Currently Reading list:
 
 - Dune Trilogy (Frank Herbert) - I read the first book
 
