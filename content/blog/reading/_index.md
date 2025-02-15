@@ -9,7 +9,7 @@ Sometimes I read as a gateway to new ideas or culture other times I believe that
 
 ## Reading as a Gateway
 
-I believe that reading is such a powerful way to condense years of experience, sometimes entire lives, and even thousands of years of intellectual discourse into a couple hundred pages. One idiosyncratic thing I do when I read is I always pick a postcard, sometimes related to the them and use it as a bookmark and then at the end write a note to myself after finishing a book. To myself it's like collecting a little moment in life. I was once told "there's no such thing as shallow reading, in the sense of lightly read in a literature, only shallow reception" and it is important to interact with the intellectual medium or reflect on what I appreciate. 
+I believe that reading is such a powerful way to condense years of experience, sometimes entire lives, and even thousands of years of intellectual discourse into a couple hundred pages. One idiosyncratic thing I do when I read is I always pick a postcard, sometimes related to the them and use it as a bookmark and then at the end write a note to myself after finishing a book. To myself it's like collecting a little moment in life. I also cycle through reading multiple (up to 5 of different genres) to refresh my interest in a busy life. I was once told "there's no such thing as shallow reading, in the sense of lightly read in a literature, only shallow reception." I very much believe this as emphasis of interaction with the intellectual medium or reflection of aspects or experiences which one appreciates.
 
 ## Reading as an Experiential Exercise
 
@@ -19,9 +19,9 @@ I believe that reading for the pure experience is a good exercise in empathy, if
 
 - The Practicing Stoic (William Wordsworth)
   
-- Caves of Steel (Asimov)
+- Caves of Steel (Isaac Asimov)
   
-- Naked Sun (Asimov)
+- Naked Sun (Isaac Asimov)
   
 - The Prophet (Kahlil Gibran)
   
@@ -39,6 +39,12 @@ I believe that reading for the pure experience is a good exercise in empathy, if
 
 - Flatland (Edwin Abbott)
 
+- Meditations (Marcus Aurelius)
+
+- The Singapore Story (Lee Kuan Yew)
+
+- Outliers (Malcolm Gladwell)
+
 
 ## Want to Read/ Currently Reading list:
 
@@ -48,7 +54,7 @@ I believe that reading for the pure experience is a good exercise in empathy, if
   
 - Algorithms to Live By (Brian Christian and Tom Griffiths)
 
-- Foundation Trilogy (Asimov) - I've also read the first book
+- Foundation Trilogy (Isaac Asimov) - I've also read the first book
 
 - Absolutely on Music (Murakami & Ozawa)
   
@@ -59,6 +65,8 @@ I believe that reading for the pure experience is a good exercise in empathy, if
 - Arcades Project (Walter Benjamin)
 
 - On Heroes and Hero Worship (Walter Benjamin)
+
+- Anti-fragility (Nassim Taleb)
 
 - Bhagavad Gita - One day I'll learn Sanskrit to read this? (Recommend me if you have scholarly interpretations)
 
