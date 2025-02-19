@@ -11,6 +11,7 @@ Welcome to my blog. Some stuff are yet to be filled out. (The reading section is
 ## Categories
 
 - [Mathematics](/blog/maths/) - Mathematical concepts and their applications
+- [Economics](/blog/economics/) - Thoughts on economics and a complexity economist view.
 - [Travel](/blog/travel/) - I often get lost in random countries.
 - [Life](/blog/life/) - Personal experiences and reflections
 - [Philosophy](/blog/philosophy/) - Philosophical musings and discussions
