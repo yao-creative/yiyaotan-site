@@ -45,6 +45,7 @@ I believe that reading for the pure experience is a good exercise in empathy, if
 
 - Outliers (Malcolm Gladwell)
 
+- Proofs from the Book (Günter M. Ziegler and Martin Aigner)
 
 ## Want to Read/ Currently Reading list:
 
