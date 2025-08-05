@@ -27,9 +27,9 @@ featured_image: '/images/orchestra.jpg'
 
 ---
 
-<div style="text-align: center; margin: 2rem 0;">
   I think you'll find my [reading](/blog/reading/) section most interesting.
-</div>
+
+---
 
   You can find more about my work on [GitHub](https://github.com/yao-creative) and connect with me on [LinkedIn](https://www.linkedin.com/in/yi-yao-tan-9719301a3/).
   <img src="/images/profile.jpg" alt="Profile Image" class="profile-image">
