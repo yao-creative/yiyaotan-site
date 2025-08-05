@@ -27,7 +27,7 @@ I believe that reading for the pure experience is a good exercise in empathy, if
 
 
 
-## A non-comprehensive of reads I enjoyed list or found meaningful:
+## A non-comprehensive list of reads I enjoyed list or found meaningful:
 
 - The Practicing Stoic (William Wordsworth)
   
