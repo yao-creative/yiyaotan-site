@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Passion Projects on Yi Yao Tan</title>
-    <link>http://localhost:1313/projects/passion-projects/</link>
+    <link>https://yiyaotan-site.vercel.app/projects/passion-projects/</link>
     <description>Recent content in Passion Projects on Yi Yao Tan</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 19 Jul 2024 12:00:00 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/projects/passion-projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yiyaotan-site.vercel.app/projects/passion-projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Passion Projects</title>
-      <link>http://localhost:1313/projects/passion-projects/selftot/</link>
+      <link>https://yiyaotan-site.vercel.app/projects/passion-projects/selftot/</link>
       <pubDate>Fri, 19 Jul 2024 12:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/projects/passion-projects/selftot/</guid>
-      <description>Played around with Flask and Google API, maybe I can create some quick start generative ai app? Currently only curriculum generation works.&#xA;Selftot App Repo An example of networks query: Curriculum generation example: </description>
+      <guid>https://yiyaotan-site.vercel.app/projects/passion-projects/selftot/</guid>
+      <description>&lt;p&gt;Played around with Flask and Google API, maybe I can create some quick start generative ai app? Currently only curriculum generation works.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/yao-creative/selftot&#34;&gt;Selftot App Repo&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;An example of networks query:&#xA;&lt;img src=&#34;https://yiyaotan-site.vercel.app/images/projects/selftot/query-networks.jpg&#34; alt=&#34;Networks Query&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Curriculum generation example:&#xA;&lt;img src=&#34;https://yiyaotan-site.vercel.app/images/projects/selftot/curriculum-networks.jpg&#34; alt=&#34;Curriculum Generation&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

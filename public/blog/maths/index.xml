@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mathematics on Yi Yao Tan</title>
-    <link>http://localhost:1313/blog/maths/</link>
+    <link>https://yiyaotan-site.vercel.app/blog/maths/</link>
     <description>Recent content in Mathematics on Yi Yao Tan</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 09 Feb 2024 12:00:00 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/maths/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yiyaotan-site.vercel.app/blog/maths/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction to Mathematical Thinking</title>
-      <link>http://localhost:1313/blog/2024/02/introduction-to-mathematical-thinking/</link>
+      <link>https://yiyaotan-site.vercel.app/blog/2024/02/introduction-to-mathematical-thinking/</link>
       <pubDate>Fri, 09 Feb 2024 12:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/blog/2024/02/introduction-to-mathematical-thinking/</guid>
-      <description>Mathematics is not just about numbers and calculations; it&amp;rsquo;s a way of thinking that helps us understand patterns, solve problems, and make sense of the world around us.&#xA;In this post, I&amp;rsquo;ll share my thoughts on what makes mathematical thinking unique and how it can be applied to various aspects of life.&#xA;The Beauty of Abstract Thinking One of the most fascinating aspects of mathematics is its ability to abstract complex problems into simpler, more manageable components.</description>
+      <guid>https://yiyaotan-site.vercel.app/blog/2024/02/introduction-to-mathematical-thinking/</guid>
+      <description>&lt;p&gt;Mathematics is not just about numbers and calculations; it&amp;rsquo;s a way of thinking that helps us understand patterns, solve problems, and make sense of the world around us.&lt;/p&gt;&#xA;&lt;p&gt;In this post, I&amp;rsquo;ll share my thoughts on what makes mathematical thinking unique and how it can be applied to various aspects of life.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-beauty-of-abstract-thinking&#34;&gt;The Beauty of Abstract Thinking&lt;/h2&gt;&#xA;&lt;p&gt;One of the most fascinating aspects of mathematics is its ability to abstract complex problems into simpler, more manageable components. This process of abstraction allows us to see patterns and connections that might not be immediately obvious.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

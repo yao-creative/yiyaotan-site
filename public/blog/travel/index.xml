@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Travel Stories on Yi Yao Tan</title>
-    <link>http://localhost:1313/blog/travel/</link>
+    <link>https://yiyaotan-site.vercel.app/blog/travel/</link>
     <description>Recent content in Travel Stories on Yi Yao Tan</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 31 Jul 2023 12:00:00 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/travel/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yiyaotan-site.vercel.app/blog/travel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2 Days in Riyadh Airport</title>
-      <link>http://localhost:1313/blog/2023/07/2-days-in-riyadh-airport/</link>
+      <link>https://yiyaotan-site.vercel.app/blog/2023/07/2-days-in-riyadh-airport/</link>
       <pubDate>Mon, 31 Jul 2023 12:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/blog/2023/07/2-days-in-riyadh-airport/</guid>
-      <description>Part 1:&#xA;This was unexpected.&#xA;An airline that forgot to assign a crew, a 57 Euro ticket from Rome to Riyadh, and 2 hours with immigration officers scrolling tiktok later, I got stranded in Riyadh for 2 days. Land of car memes and also the craziest and most fascinating people I&amp;rsquo;ve ever met.&#xA;We arrived near midnight. Perhaps more than a hundred people from our flight missed their connecting flight. The airport was still under construction.</description>
+      <guid>https://yiyaotan-site.vercel.app/blog/2023/07/2-days-in-riyadh-airport/</guid>
+      <description>&lt;p&gt;Part 1:&lt;/p&gt;&#xA;&lt;p&gt;This was unexpected.&lt;/p&gt;&#xA;&lt;p&gt;An airline that forgot to assign a crew, a 57 Euro ticket from Rome to Riyadh, and 2 hours with immigration officers scrolling tiktok later, I got stranded in Riyadh for 2 days. Land of car memes and also the craziest and most fascinating people I&amp;rsquo;ve ever met.&lt;/p&gt;&#xA;&lt;p&gt;We arrived near midnight. Perhaps more than a hundred people from our flight missed their connecting flight. The airport was still under construction. 2 am, filled with shouting taxi drivers who even promised us a place to stay.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
