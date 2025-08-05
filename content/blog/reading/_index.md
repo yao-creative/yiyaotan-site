@@ -17,9 +17,9 @@ I believe that reading for the pure experience is a good exercise in empathy, if
 
 ## Some Philosophies about how I read:
 
-- "Not all books are for you, but there are definitely some which are" -- Books are like people don't let the ones you don't understand or click with discourage you from finding those which do.
+- "Not all books are for you, but there are definitely some which are" -- Books are like people don't let the ones you don't understand or click with discourage you from finding those which do, but the ones that you do you'll realize you connected with them more than you've expected.
 
-- "There nothing called shallowly-read only shallow reception." -- I believe 
+- "There nothing called shallowly-read only shallow reception." 
 
 - "Perhaps the goal of the Author is not for the reader to flip through their book from cover to cover, but that the reader might get something out of it, whether a learning direct or indirect, a message, an experience, or any enjoyment." -- More self explanatory, in Chinese there's this word call 收获 which can often signified something both concrete or abstract we gain, sometimes used to signify something gained from experience. I couldn't find a word which would precisely mean the connotations I wanted it to in English. This is also inspired by Walter Benjamin's "The Task of the Translator", where he explores how translations could be to shorten the distance between the "signifier and the signified."
 
