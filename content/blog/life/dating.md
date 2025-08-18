@@ -42,4 +42,18 @@ Some other thoughts I had about life:
 
 # Poisson
 
-Ok perhaps the null model above is a large simplification of the process of matching. Most often
+Ok perhaps the null model above is a large simplification of the process of matching. Most of the time it seems that we're throwing darts into the wild when dating in our 20s, especially after university or with online dating. We often tell ourselves I've been out with countless of dates and why have I not found the one for me, will I be get married in my mid 30s or 40s or even ever? We'd say "dating is just a numbers game."
+
+When we see statistics like oh you're expected to be married by around X because it says it in some online [statistics](https://en.wikipedia.org/wiki/List_of_countries_by_age_at_first_marriage), but more often an overarching societal narrative and fuzzy sense of your mid 20s to mid 30s seems reasonably the average based on your parents. We often dread if were on the far side of the statistics, and frantically try to date as much as possible or feel hopeless after Y amount of dates.
+
+Admittedly, there is emotional exhaustion in the mix. But sometimes I can't help to think that time sampling or using count and blaming it for misfortune or determination of success. And honestly, I'd beg to differ. Unless Tinder, Hinge, Bumble etc... whatever dating app is out to get you and the dates you meet all know each other and are conspiring against you and the world is so, each person you meet is "almost surely" (yay for my measure theory friends) independent of one another. Think the different people you've dated, especially if you feel as if you're one of the unlucky ones, each time the person didn't know the last and their feelings only depend on their current state and you.
+
+With the assumption independence of each date from each other, we'll bring this back to a crude approximation of Poisson, that in fact perhaps we should look at time X or count Y of dates which define our current success or future. Perhaps we should look at it with some self agency. That Poisson is parameterized by a variable lambda the rate, perhaps the rate at which we put ourselves out there to meet the next person who could be the one, each time we should at least learn from our past experiences, but since the next person is a stranger to your last, treat it with memoryless expectations. And this brings us back to self agency of lambda, which we can determine to make ourselves a target for luck
+
+## Other thoughts with Poisson
+
+1) Perhaps the same can be seen with consistent hard work beating talent
+
+2) Paul Graham also talks about consistently exploring, being curious, and trying makes us a target for luck in [How to Do Great Work](https://paulgraham.com/greatwork.html)
+
+3) Same applies everywhere in sports, music, research, career advancement, self improvement etc.
