@@ -35,7 +35,7 @@ Some other thoughts I had about life:
 
 1) In Meta's internal research they found it optimal that being accurate in their open positions led to more optimal self-selecting outcomes.
 
-2) People with self adjancency often find themselves in better places in society.
+2) People with self agency often find themselves in better places in society.
 
 3) Emotional Intelligence, self consciousness, knowing yourself and exactly what you want leads to more optimal outcomes.
 
@@ -51,7 +51,7 @@ Admittedly, there is emotional exhaustion in the mix. But sometimes I can't help
 
 ## Implications in Dating
 
-With the assumption independence of each date from each other, we'll bring this back to a crude approximation of Poisson, that in fact perhaps we should look at time X or count Y of dates which define our current success or future. Perhaps we should look at it with some self agency. That Poisson is parameterized by a variable lambda the rate, perhaps the rate at which we put ourselves out there to meet the next person who could be the one, each time we should at least learn from our past experiences, but since the next person is a stranger to your last, treat it with memoryless expectations. And this brings us back to self agency of lambda, which we can determine to make ourselves a target for luck.
+With the assumption independence of each date from each other, we'll bring this back to a crude approximation of Poisson, that in fact perhaps we should look at time X or count Y of dates which define our current success or future. Perhaps we should look at it with some self agency. That Poisson is parameterized by a variable $\lambda$ the rate, perhaps the rate at which we put ourselves out there to meet the next person who could be the one, each time we should at least learn from our past experiences, but since the next person is a stranger to your last, treat it with memoryless expectations. And this brings us back to self agency of $\lambda$, which we can determine to make ourselves a target for luck.
 
 ### Other thoughts with Poisson
 
