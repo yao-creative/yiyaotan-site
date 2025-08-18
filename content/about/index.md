@@ -9,7 +9,7 @@ featured_image: '/images/orchestra.jpg'
   
   I'm the one on the left in the photo above :D!
 
-  Most recent article if you're interested: [Dating, analogies from Gale–Shapley, Optimal Stopping and Poisson](/blog/life/dating).
+  Most recent article if you're interested: [Dating, analogies from Gale–Shapley, Optimal Stopping and Poisson](/blog/life/dating/).
 
   My name is Yao. Growing up, I've lived in 5 countries, a total of three continents. 
 
