@@ -55,5 +55,9 @@ Well in short no matter what AI does if humans have heterogenous preferences eve
 
 ## AI selling to AI can be the future of the market:
 
-If you think of economics as a supply chain, at one point a higher level AI sells to a human which is where the profit comes from, economics is human driven. Perhaps the efficiency is where AI gives another AI what it directly needs (Gale-Shapely) again, obfuscation of performance at highly elastic markets don't change stable outcomes. SEO and GEO if they were arbitrarily optimized to get into chat rather than what a user needs, becomes friction that trained llm models will have to shrug off. In the end, focusing directly on your business brings the biggest dividends, with optimization for maximal information transfer. In the end your content itself matters.
+If you think of economics as a supply chain, at one point a higher level AI sells to a human which is where the profit comes from, economics is human driven. Perhaps the efficiency is where AI gives another AI what it directly needs (Gale-Shapely) again, obfuscation of performance at highly elastic markets don't change stable outcomes. SEO and GEO if they were arbitrarily optimized to get into chat rather than what a user needs, becomes friction that trained llm models will have to shrug off. In the end, focusing directly on your business brings the biggest dividends, with optimization for maximal information transfer. In the end your content itself matters. 
+
+### Other thoughts
+
+1) Bezos always said what is good for the customers is good for the company, perhaps many layers down even AI automating AI automating AI will fundamentally be based on human value.
 
