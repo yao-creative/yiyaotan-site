@@ -7,4 +7,4 @@ Welcome to the Life section of my blog. Here, I share articles about life and ma
 
 ## :
 
-- [Dating, analogies from Gale–Shapley, Optimal Stopping and Poisson](https://www.scientificamerican.com/article/how-nature-breaks-the-second-law/).
+- [Dating, analogies from Gale–Shapley, Optimal Stopping and Poisson](/blog/life/dating).
