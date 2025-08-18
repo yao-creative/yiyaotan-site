@@ -1,7 +1,6 @@
 +++
 title = 'Dating, Gale–Shapley, Optimal stopping and Poisson'
 date = 2025-08-17T14:32:06+08:00
-draft = false
 +++
 
 # Dating, Gale–Shapley, Optimal stopping and Poisson
