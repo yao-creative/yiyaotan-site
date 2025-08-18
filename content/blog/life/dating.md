@@ -3,9 +3,7 @@ title = 'Dating, Gale–Shapley, Optimal stopping and Poisson'
 date = 2025-08-17T14:32:06+08:00
 +++
 
-# Dating, Gale–Shapley, Optimal stopping and Poisson
-
-Often we wonder who to date, will they be my life partner, why is dating so hard in our 20s and 30s. The short answer is there's no perfect matching for everyone on both sides, but most people don't exactly understand their preferences anyways.
+Often we wonder who to date: Will they be my life partner? Why is dating so hard in our 20s and 30s? The short answer is there's no perfect matching for everyone on both sides, but most people don't exactly understand their preferences anyways.
 
 ## [Gale–Shapley's Stable Matching Problem](https://en.wikipedia.org/wiki/Gale–Shapley_algorithm) as a Null Model
 
@@ -47,7 +45,9 @@ Ok perhaps the null model above is a large simplification of the process of matc
 
 When we see statistics like oh you're expected to be married by around X because it says it in some online [statistics](https://en.wikipedia.org/wiki/List_of_countries_by_age_at_first_marriage), but more often an overarching societal narrative and fuzzy sense of your mid 20s to mid 30s seems reasonably the average based on your parents. We often dread if were on the far side of the statistics, and frantically try to date as much as possible or feel hopeless after Y amount of dates.
 
-Admittedly, there is emotional exhaustion in the mix. But sometimes I can't help to think that time sampling or using count and blaming it for misfortune or determination of success. And honestly, I'd beg to differ. Unless Tinder, Hinge, Bumble etc... whatever dating app is out to get you and the dates you meet all know each other and are conspiring against you and the world is so, each person you meet is "almost surely" (yay for my measure theory friends) independent of one another. Think the different people you've dated, especially if you feel as if you're one of the unlucky ones, each time the person didn't know the last and their feelings only depend on their current state and you.
+Admittedly, there is emotional exhaustion in the mix. But sometimes I can't help to think that time sampling or using count and blaming it for misfortune or determination of success. And honestly, I'd beg to differ. Unless Tinder, Hinge, Bumble etc... whatever dating app is out to get you and the dates you meet all know each other and are conspiring against you and the world is so, each person you meet is "almost surely" (yay for my measure theory friends) independent of one another. Think of the different people you've dated, especially if you feel as if you're one of the unlucky ones, each time the person didn't know the last and their feelings only depend on their current state and you.
+
+## Implications in Dating
 
 With the assumption independence of each date from each other, we'll bring this back to a crude approximation of Poisson, that in fact perhaps we should look at time X or count Y of dates which define our current success or future. Perhaps we should look at it with some self agency. That Poisson is parameterized by a variable lambda the rate, perhaps the rate at which we put ourselves out there to meet the next person who could be the one, each time we should at least learn from our past experiences, but since the next person is a stranger to your last, treat it with memoryless expectations. And this brings us back to self agency of lambda, which we can determine to make ourselves a target for luck.
 
