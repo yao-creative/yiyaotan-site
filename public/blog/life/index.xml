@@ -6,14 +6,14 @@
     <description>Recent content in Life on Yi Yao Tan</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Aug 2024 19:41:59 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 17 Aug 2025 14:32:06 +0800</lastBuildDate>
     <atom:link href="https://yiyaotan-site.vercel.app/blog/life/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Finishing Oxford and Entering a State of Indefinite Homeless</title>
-      <link>https://yiyaotan-site.vercel.app/blog/2024/08/finishing-oxford-and-entering-a-state-of-indefinite-homeless/</link>
-      <pubDate>Thu, 01 Aug 2024 19:41:59 +0100</pubDate>
-      <guid>https://yiyaotan-site.vercel.app/blog/2024/08/finishing-oxford-and-entering-a-state-of-indefinite-homeless/</guid>
-      <description>&lt;h2 id=&#34;this-year-in-brief&#34;&gt;This year in brief&lt;/h2&gt;&#xA;&lt;p&gt;Today I start a period of indefinite homelessness, staying at a friend&amp;rsquo;s place at Oxford, in a couple weeks with another friend in Hanover, perhaps beginning of September in Estonia, and then back for my thesis defense mid-September and then to who knows where else. Perhaps this is the sort of thing you embrace at 23.&lt;/p&gt;&#xA;&lt;p&gt;Recently, I&amp;rsquo;ve been finishing up my thesis for Master&amp;rsquo;s degree in Mathematics and Foundations of Computer Science at Oxford. Writing about &lt;a href=&#34;https://yiyaotan-site.vercel.app/projects/economics/supply-chain-reconstruction/&#34;&gt;supply chain topology&lt;/a&gt;. It&amp;rsquo;s been a year which has been a bit chaotic but full of turns and unquantifiable lessons about life. For starters I entered thinking I&amp;rsquo;d want to do theoretical computer science, ended up trying to enter the economics and statistical physics sphere with neither a degree in economics and statistical physics but crashing courses in Oxford&amp;rsquo;s Physics department with friends I&amp;rsquo;ve met in volleyball and revising with them for their finals to write my thesis on supply chains.&lt;/p&gt;</description>
+      <title>Dating, Gale–Shapley, Optimal stopping and Poisson</title>
+      <link>https://yiyaotan-site.vercel.app/blog/2025/08/dating-galeshapley-optimal-stopping-and-poisson/</link>
+      <pubDate>Sun, 17 Aug 2025 14:32:06 +0800</pubDate>
+      <guid>https://yiyaotan-site.vercel.app/blog/2025/08/dating-galeshapley-optimal-stopping-and-poisson/</guid>
+      <description>&lt;h1 id=&#34;dating-galeshapley-optimal-stopping-and-poisson&#34;&gt;Dating, Gale–Shapley, Optimal stopping and Poisson&lt;/h1&gt;&#xA;&lt;p&gt;Often we wonder who to date, will they be my life partner, why is dating so hard in our 20s and 30s. The short answer is there&amp;rsquo;s no perfect matching for everyone on both sides, but most people don&amp;rsquo;t exactly understand their preferences anyways.&lt;/p&gt;&#xA;&lt;h2 id=&#34;galeshapley-as-a-null-model&#34;&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Gale%E2%80%93Shapley_algorithm&#34;&gt;Gale–Shapley&amp;rsquo;s Stable Matching Problem&lt;/a&gt; as a Null Model&lt;/h2&gt;&#xA;&lt;p&gt;Gale–Shapley&amp;rsquo;s Stable Matching Problem serves as a reasonable null model with the most generic assumptions on the population (the large majority I&amp;rsquo;d be addressing). Firstly, assumes two same-sized sets of binary gender each oriented towards the opposite gender and each individual knows exactly their preference ranking of the opposite gender in a discrete sense, maximal self information. For simplicity we write M and F as these binary gender sets.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
