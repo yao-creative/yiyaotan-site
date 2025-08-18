@@ -17,7 +17,8 @@ theme = "ananke"
   tag = "tags"
 
 [permalinks]
-  blog = "/blog/:year/:month/:slug/"
+  # Use section + slug (e.g. /blog/life/dating/) just like the-prophet
+  blog = "/:sections/:slug/"
 
 [outputs]
   home = ["HTML", "RSS"]

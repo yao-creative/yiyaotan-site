@@ -1,6 +1,7 @@
 +++
 title = 'The Prophet by Kahlil Gibran'
 date = 2024-07-01T19:41:59+01:00
+slug = 'the-prophet'
 +++
 
 The Prophet by Kahlil Gibran is a 26 prose poetry by the Lebanese American Poet, the 16th most translated book in history by the number of languages even more than Harry Potter and The Hobbit. Many elements of Islamic culture can be drawn from the way he incites many metaphors things such as “Life,” “Earth,” and “God” as an anthropomorphized universal guiding entity but it also contains a touch of more contemporary streams of thought. Al Mustafa is the prophet in the story and as he leaves the city of Orphalese the locals ask him to speak about different core concepts of humanity such as love, marriage, children, giving, work, punishment, laws, beauty, friendship, pleasure, and pain and many more. Many sequences of beautiful metaphors and some which I believe are deeply true. Amongst my favorites:

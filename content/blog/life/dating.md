@@ -1,6 +1,8 @@
 +++
 title = 'Dating, Gale–Shapley, Optimal stopping and Poisson'
 date = 2025-08-17T14:32:06+08:00
+slug = 'dating'
+aliases = ["/blog/2025/08/dating/"]
 +++
 
 Often we wonder who to date: Will they be my life partner? Why is dating so hard in our 20s and 30s? The short answer is there's no perfect matching for everyone on both sides, but most people don't exactly understand their preferences anyways.
