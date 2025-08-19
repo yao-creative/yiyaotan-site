@@ -1,5 +1,5 @@
 +++
-title = 'Ai-Society. Math Perspective, Qalms about fears'
+title = 'Ai-Society. Math Perspective, Qalms about Fears'
 date = 2025-08-17T14:32:06+08:00
 slug = 'dating'
 aliases = ["/blog/2025/08/aisociety"]
