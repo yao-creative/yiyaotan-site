@@ -6,7 +6,7 @@ slug = 'aisociety'
 
 ## Intro
 
-I've many qalms with fear driven marketing of AI. Will it replace humans, will it replace all workers? Is it the last moment in time to get rich (YC Startup School)? The First 10-person, $100B Company. The disappearance of seed funding. None of it seems logically complete. A short opinion is economics is human-centric, the markets is currently searching for a new stationary point (multi dimensional oscillating, after de-trended), economics works in comparative advantage with respect to transactions not absolute productivity, everything is relative to everything else, actually a beautiful equalizing factor of capitalism (well-regulated) itself.
+I've many qalms with fear driven reactions of AI. Will it replace humans, will it replace all workers? Is it the last moment in time to get rich (YC Startup School)? The First 10-person, $100B Company. The disappearance of seed funding. None of it seems logically complete. A short opinion is economics is human-centric, the markets is currently searching for a new stationary point (multi dimensional oscillating, after de-trended), economics works in comparative advantage with respect to transactions not absolute productivity, everything is relative to everything else, actually a beautiful equalizing factor of capitalism (well-regulated) itself.
 
 I'll give a couple null-models, thoughts and mathematical analogies with respect to each of them. Please contact me if you'd like to contribute in the formalism or give a critique. [My LinkedIn](https://www.linkedin.com/in/yi-yao-t-9719301a3)
 
