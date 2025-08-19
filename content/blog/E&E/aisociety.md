@@ -2,7 +2,6 @@
 title = 'Ai-Society. Math Perspective, Qalms about Fears'
 date = 2025-08-17T14:32:06+08:00
 slug = 'aisociety'
-aliases = ["/blog/2025/08/aisociety"]
 +++
 
 ## Intro
