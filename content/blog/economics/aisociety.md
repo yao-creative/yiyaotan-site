@@ -13,6 +13,8 @@ I'll give a couple null-models, thoughts and mathematical analogies with respect
 
 At the end of the day, I think long run the world is positive sum and consumers are the ultimate winners of increased productivity and innovation which do well when they serve to reduce the asymmetry of flow between what everyone want and what everyone can have (over the topology and locality of the market). The consumer is the long term winner.
 
+In a world with over-burdened workforces and demographic timebombs, increased labor productivity.
+
 ## Is it the last moment in time to get rich (YC Startup School)?
 
 Ok but this assumes a specific configuration blah blah blah, in the end no one knows exactly what they want which is what AGI can't guess, even if so it modifying it's own input by guessing the first step would lead to exponential drift. And also talk about gender imbalance in population will mean that there is a configuration where dating apps will always be a market and locality of our interactions which there's like 1000 B2B same niche copies of each service like telephone, oil, electricity, gas stations, pharmacies, food chains in the world which can all be profitable at teh same time.
@@ -20,6 +22,23 @@ Ok but this assumes a specific configuration blah blah blah, in the end no one k
 What about deep tech will a company run away with AGI? The world works in a cycle right: one company has a competitive edge (eg. Intel) and monopolizes pricing for a single vertical integration. Another company comes in TSMC hyper focuses on the fabrication layer and beats it over a focused resource allocation and time, starting on very small niches (story of all startups) and becomes profitable. The same reason which leads venture capital to take risk in investing in the underdog is the same monopoly of pricing which raises the pay out of the VC firms in investing in patience of another company to over take the first. Unless one company could dominate all of the talent resources and physical resources in the world, perhaps through sheer force, monopolization of technology is only part of a cycle. Thus competitors always have incentives to hire, no jobs aren't going to disappear.
 
 Easy example: Openai vs a gazillion competitors.
+
+
+## We should fear young people not being able to find jobs in the advent of AI
+
+Based on observation (insert citation here). Zuckberg once said young people are just smarter. There's a reason behind the Thiel Fellowship targetted towards highschool and university students and Y Combinator having a large youth demographic. Ok Perhaps just smarter is contextually inaccurate. In the renewal process of the work force, the fresh graduate labor force vs mature labor force actually is a trade off between the untrained but malleable and the well trained but for their epoch. Recently, many markets have heated up over the fight for experienced workers and cooled for inexperience. Perhaps in the technology bifurcation, people are waiting to watch what technologies get made, skill which are needed to hire. But perhaps its better to hire the untrained than the wrongly trained, untraining and retraining is harder than teaching, that of a previous technology status quo to figure out where the world is moving to next. It is true that the trained with new tools will be exponentially more productive in the current cases they're working on, however, the nature of technology is always premium of the shifting of comparative advantage not absolute productivity. 
+
+Lee Kuan Yew noticed this in 1968 when he took a leave of absence in Harvard, he was told this by an economist, and from there he only meant to make the clothing industry of Singapore a stepping stone to manufactoring and that to finance, from one to another for Singapore. It's a process where each part is important the whole transition is important.
+
+My intuition is that we should look over to the distribution the topology landscape of innovation and hiring instead of a top down generalization. At the same time the fresh labor force are the least productive they'll probably be the most creative, which is why of the heavy tail entrepreneurs, founders of Mag 7 started their first companies in their early 20s (consumer/semi-consumer) or for deeper tech in their 30s. Their naiveté and creativity given hardwork is baseline for success perhaps gave them outlier results. But on the flip side talking about the most average distribution who enters the labor market to be hired, they definitely lose with respect to the trained during times of market uncertainty. This however changes as the status quo moves to the new equillibrium, in this case AI oriented architectures, and also education shifts accordingly and youth hiring will be status quo again.
+
+In reality, perhaps that's why companies should hire a mix of both. But in a contextually aware sense, this person for that and that person for this, both specific and dynamic just like the process of business and technology.
+
+## People focusing on no-code/ vibe-code replacing code or the one versus the other battle and the end of software-engineers.
+
+The economy works on comparative advantage as always. This description is a very inaccurate way to frame what is important to think about. There's probably one foundational truth expertise vs. non expertise and expertise always wins. Successful vibecoders understand what they're doing. Successful startups are hitting the correct new market and not trying to arbitrage old markets. If building frontend is cheap and we declare that engineers are needed no more and stop hiring people, then the Baumol effect will bring the pricing of our industry down. Hire engineers to solve new and intresting hard challenges and don't frame it as stop hiring to solve old niches, technology was never about that, at one point the cotton gin, the steam engine, the automobile were all cutting edge technology and everyone was interested investing in them. 
+
+Yes AI means increased productivity and output and thus value per employee, at the sametime the scaling laws of companies will always arrive at a similar size as they're competing against other companies with the same base technology and not 10 years ago.
 
 ### Random secondary thoughts:
 
@@ -62,4 +81,5 @@ If you think of economics as a supply chain, at one point a higher level AI sell
 ### Other thoughts
 
 1) Bezos always said what is good for the customers is good for the company, perhaps many layers down even AI automating AI automating AI will fundamentally be based on human value.
+
 
