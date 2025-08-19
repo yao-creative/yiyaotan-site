@@ -16,7 +16,7 @@ In a world with over-burdened workforces and demographic timebombs, increased la
 
 ## Is it the last moment in time to get rich (YC Startup School)?
 
-This often assumes that there are no more problems/ niches to solve. However, maybe one day Musk will build an intergalatic tourism agency and it'll only be for the ultra-wealthy. Then there'll be profits to be made for making it affordable for at least just the wealthy if it becomes advertised as the quintessential human experience. If we've not reached that yet and not solved that problem, there's still a whole space and much work to do before the economic stops my friend.
+This often assumes that there are no more problems/ niches to solve. However, maybe one day Musk will build an intergalatic tourism agency and it'll only be for the ultra-wealthy. Then there'll be profits to be made for making it affordable for at least just the wealthy if it becomes advertised as the quintessential human experience. If we've not reached that yet and not solved that problem, there's still a whole space and much work to do before the economics stops.
 
 Aside from that perhaps we're worried that one company will solve all problems with AGI and then no jobs will be left as the market works on comparative advantage.
 
@@ -25,6 +25,8 @@ So we ask ourselves: What about deep tech will a company run away with AGI?
 The world works in a cycle: one company has a competitive edge (eg. Intel) and slowly builds and expands monopology over pricing as it eats up the cutting edge for its full vertical integration. Another company comes in TSMC hyper focuses on the fabrication layer and beats it over a focused resource allocation and time, starting on very small niches (story of all startups) and becomes profitable. The same reason which leads venture capital to take risk in investing in the underdog is the same monopoly of pricing which raises the pay out of the VC firms in investing in patience of another company to over take the first. Unless one company could dominate all of the talent resources, physical resources in the world, and have a dominant vertical technological edge monopolization, it could perhaps runaway through sheer force. Monopolization of technology is only part of a cycle before bifurcation. Thus competitors always have incentives to hire, more jobs will be made in tech, and thus: No, jobs aren't going to disappear.
 
 Easy example: Openai vs a gazillion competitors.
+
+Actually, healthy market competition and capitalism is not to blame in the AI transition, it's also a democratizing factor that people would have incentives to create alternatives to a single model, hire people to solve more and an increasing diversifying set of problems. We just have to figure it out.
 
 ### Random secondary thoughts:
 
