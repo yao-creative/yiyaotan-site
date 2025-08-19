@@ -23,23 +23,6 @@ What about deep tech will a company run away with AGI? The world works in a cycl
 
 Easy example: Openai vs a gazillion competitors.
 
-
-## We should fear young people not being able to find jobs in the advent of AI
-
-Based on observation (insert citation here). Zuckberg once said young people are just smarter. There's a reason behind the Thiel Fellowship targetted towards highschool and university students and Y Combinator having a large youth demographic. Ok Perhaps just smarter is contextually inaccurate. In the renewal process of the work force, the fresh graduate labor force vs mature labor force actually is a trade off between the untrained but malleable and the well trained but for their epoch. Recently, many markets have heated up over the fight for experienced workers and cooled for inexperience. Perhaps in the technology bifurcation, people are waiting to watch what technologies get made, skill which are needed to hire. But perhaps its better to hire the untrained than the wrongly trained, untraining and retraining is harder than teaching, that of a previous technology status quo to figure out where the world is moving to next. It is true that the trained with new tools will be exponentially more productive in the current cases they're working on, however, the nature of technology is always premium of the shifting of comparative advantage not absolute productivity. 
-
-Lee Kuan Yew noticed this in 1968 when he took a leave of absence in Harvard, he was told this by an economist, and from there he only meant to make the clothing industry of Singapore a stepping stone to manufactoring and that to finance, from one to another for Singapore. It's a process where each part is important the whole transition is important.
-
-My intuition is that we should look over to the distribution the topology landscape of innovation and hiring instead of a top down generalization. At the same time the fresh labor force are the least productive they'll probably be the most creative, which is why of the heavy tail entrepreneurs, founders of Mag 7 started their first companies in their early 20s (consumer/semi-consumer) or for deeper tech in their 30s. Their naiveté and creativity given hardwork is baseline for success perhaps gave them outlier results. But on the flip side talking about the most average distribution who enters the labor market to be hired, they definitely lose with respect to the trained during times of market uncertainty. This however changes as the status quo moves to the new equillibrium, in this case AI oriented architectures, and also education shifts accordingly and youth hiring will be status quo again.
-
-In reality, perhaps that's why companies should hire a mix of both. But in a contextually aware sense, this person for that and that person for this, both specific and dynamic just like the process of business and technology.
-
-## People focusing on no-code/ vibe-code replacing code or the one versus the other battle and the end of software-engineers.
-
-The economy works on comparative advantage as always. This description is a very inaccurate way to frame what is important to think about. There's probably one foundational truth expertise vs. non expertise and expertise always wins, the basic argument is a no brainer and universal constant but with nuance to the previous section. Successful vibecoders understand what they're doing. Successful startups are hitting the correct new market and not trying to arbitrage old markets. If building frontend is cheap and we declare that engineers are needed no more and stop hiring people, then the Baumol effect will bring the pricing of our industry down. Hire engineers to solve new and intresting hard challenges and don't frame it as stop hiring to solve old niches, technology was never about that, at one point the cotton gin, the steam engine, the automobile were all cutting edge technology and everyone was interested investing in them. 
-
-Yes AI means increased productivity and output and thus value per employee, at the sametime the scaling laws of companies will always arrive at a similar size as they're competing against other companies with the same base technology and not 10 years ago.
-
 ### Random secondary thoughts:
 
 1) Buffett and Munger recommends picking only a few stocks to invest in to diversify one's profolio, when you start investing in the 8th or 9th or 20th diversification your taking money out of your most profitable revenue maker. Unless Openai can monopolize their talent resources which hasn't been the case, focusing on 5 core profit drivers is basic business sense. 
@@ -59,6 +42,24 @@ Candidate 2 : (1 , 2)
 Candidate 3 : (1 , 2)
 
 I can be a third party service with a employer oriented business model and optimize sending 1 to 1, 2 to 2 and leave 3 unemployed, and you'd say the employers are happy. But what if a new business model with a second service oriented towards candidate 2 and 3. Where 3 is willing to pay a lot for matching (assuming everyone has cash). The second service there for has the right to play and found it's market niche even though it's inefficient. This analogy aside, there can be multiple market winners solving the same market from different perspectives.
+
+## We should fear young people not being able to find jobs in the advent of AI
+
+Based on observation (insert citation here). Zuckberg once said young people are just smarter. There's a reason behind the Thiel Fellowship targetted towards highschool and university students and Y Combinator having a large youth demographic. Ok Perhaps just smarter is contextually inaccurate. In the renewal process of the work force, the fresh graduate labor force vs mature labor force actually is a trade off between the untrained but malleable and the well trained but for their epoch. Recently, many markets have heated up over the fight for experienced workers and cooled for inexperience. Perhaps in the technology bifurcation, people are waiting to watch what technologies get made, skill which are needed to hire. But perhaps its better to hire the untrained than the wrongly trained, untraining and retraining is harder than teaching, that of a previous technology status quo to figure out where the world is moving to next. It is true that the trained with new tools will be exponentially more productive in the current cases they're working on, however, the nature of technology is always premium of the shifting of comparative advantage not absolute productivity. 
+
+Lee Kuan Yew noticed this in 1968 when he took a leave of absence in Harvard, he was told this by an economist, and from there he only meant to make the clothing industry of Singapore a stepping stone to manufactoring and that to finance, from one to another for Singapore. It's a process where each part is important the whole transition is important.
+
+My intuition is that we should look over to the distribution the topology landscape of innovation and hiring instead of a top down generalization. At the same time the fresh labor force are the least productive they'll probably be the most creative, which is why of the heavy tail entrepreneurs, founders of Mag 7 started their first companies in their early 20s (consumer/semi-consumer) or for deeper tech in their 30s. Their naiveté and creativity given hardwork is baseline for success perhaps gave them outlier results. But on the flip side talking about the most average distribution who enters the labor market to be hired, they definitely lose with respect to the trained during times of market uncertainty. This however changes as the status quo moves to the new equillibrium, in this case AI oriented architectures, and also education shifts accordingly and youth hiring will be status quo again.
+
+In reality, perhaps that's why companies should hire a mix of both. But in a contextually aware sense, this person for that and that person for this, both specific and dynamic just like the process of business and technology.
+
+## People focusing on no-code/ vibe-code replacing code or the one versus the other battle and the end of software-engineers.
+
+The economy works on comparative advantage as always. This description is a very inaccurate way to frame what is important to think about. There's probably one foundational truth expertise vs. non expertise and expertise always wins, the basic argument is a no brainer and universal constant but with nuance to the previous section. Successful vibecoders understand what they're doing. Successful startups are hitting the correct new market and not trying to arbitrage old markets. If building frontend is cheap and we declare that engineers are needed no more and stop hiring people, then the Baumol effect will bring the pricing of our industry down. Hire engineers to solve new and intresting hard challenges and don't frame it as stop hiring to solve old niches, technology was never about that, at one point the cotton gin, the steam engine, the automobile were all cutting edge technology and everyone was interested investing in them. 
+
+Yes AI means increased productivity and output and thus value per employee, at the sametime the scaling laws of companies will always arrive at a similar size as they're competing against other companies with the same base technology and not 10 years ago.
+
+
 
 ## AI will replace lawyers and law makers?
 **To rewrite
