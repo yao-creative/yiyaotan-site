@@ -16,9 +16,13 @@ In a world with over-burdened workforces and demographic timebombs, increased la
 
 ## Is it the last moment in time to get rich (YC Startup School)?
 
-Ok but this assumes a specific configuration blah blah blah, in the end no one knows exactly what they want which is what AGI can't guess, even if so it modifying it's own input by guessing the first step would lead to exponential drift. And also talk about gender imbalance in population will mean that there is a configuration where dating apps will always be a market and locality of our interactions which there's like 1000 B2B same niche copies of each service like telephone, oil, electricity, gas stations, pharmacies, food chains in the world which can all be profitable at teh same time.
+This often assumes that there are no more problems/ niches to solve. However, maybe one day Musk will build an intergalatic tourism agency and it'll only be for the ultra-wealthy. Then there'll be profits to be made for making it affordable for at least just the wealthy if it becomes advertised as the quintessential human experience. If we've not reached that yet and not solved that problem, there's still a whole space and much work to do before the economic stops my friend.
 
-What about deep tech will a company run away with AGI? The world works in a cycle right: one company has a competitive edge (eg. Intel) and monopolizes pricing for a single vertical integration. Another company comes in TSMC hyper focuses on the fabrication layer and beats it over a focused resource allocation and time, starting on very small niches (story of all startups) and becomes profitable. The same reason which leads venture capital to take risk in investing in the underdog is the same monopoly of pricing which raises the pay out of the VC firms in investing in patience of another company to over take the first. Unless one company could dominate all of the talent resources and physical resources in the world, perhaps through sheer force, monopolization of technology is only part of a cycle. Thus competitors always have incentives to hire, no jobs aren't going to disappear.
+Aside from that perhaps we're worried that one company will solve all problems with AGI and then no jobs will be left as the market works on comparative advantage.
+
+So we ask ourselves: What about deep tech will a company run away with AGI? 
+
+The world works in a cycle: one company has a competitive edge (eg. Intel) and slowly builds and expands monopology over pricing as it eats up the cutting edge for its full vertical integration. Another company comes in TSMC hyper focuses on the fabrication layer and beats it over a focused resource allocation and time, starting on very small niches (story of all startups) and becomes profitable. The same reason which leads venture capital to take risk in investing in the underdog is the same monopoly of pricing which raises the pay out of the VC firms in investing in patience of another company to over take the first. Unless one company could dominate all of the talent resources, physical resources in the world, and have a dominant vertical technological edge monopolization, it could perhaps runaway through sheer force. Monopolization of technology is only part of a cycle before bifurcation. Thus competitors always have incentives to hire, more jobs will be made in tech, and thus: No, jobs aren't going to disappear.
 
 Easy example: Openai vs a gazillion competitors.
 
@@ -41,6 +45,8 @@ Candidate 2 : (1 , 2)
 Candidate 3 : (1 , 2)
 
 I can be a third party service with a employer oriented business model and optimize sending 1 to 1, 2 to 2 and leave 3 unemployed, and you'd say the employers are happy. But what if a new business model with a second service oriented towards candidate 2 and 3. Where 3 is willing to pay a lot for matching (assuming everyone has cash). The second service there for has the right to play and found it's market niche even though it's inefficient. This analogy aside, there can be multiple market winners solving the same market from different perspectives.
+
+Ok but this assumes a specific configuration blah blah blah, in the end no one knows exactly what they want which is what AGI can't guess, even if so it modifying it's own input by guessing the first step would lead to exponential drift. And also talk about gender imbalance in population will mean that there is a configuration where dating apps will always be a market and locality of our interactions which there's like 1000 B2B same niche copies of each service like telephone, oil, electricity, gas stations, pharmacies, food chains in the world which can all be profitable at teh same time.
 
 ## We should fear young people not being able to find jobs in the advent of AI
 
