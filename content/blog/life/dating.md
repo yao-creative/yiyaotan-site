@@ -22,7 +22,7 @@ Perhaps this is why:
 
 1) Dating apps like to say "We've found that being the most 'yourself' on your dating profile" leads to the best outcomes.
 
-2) Don't play-games has a fundamental mathematical grounding. Exploiting information asymmetry in games are don't work as well if the person you're pairing with has access to other options (elasticity of dating apps).
+2) Doing opposite as you intend, for example inefficiency of the push-pull dynamic, has a fundamental mathematical grounding. Exploiting information asymmetry in games are don't work as well if the person you're pairing with has access to other options (elasticity of dating apps).
 
 3) You should be confident to swipe right and not just wait on those who find you even if you think you're lucky.
 
