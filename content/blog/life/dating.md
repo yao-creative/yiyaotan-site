@@ -52,7 +52,7 @@ With the assumption independence of each date from each other, we'll bring this 
 
 ### Other thoughts with Poisson
 
-1) Perhaps the same can be seen with consistent hard work beating talent
+1) Perhaps the same can be seen with consistent hard work oriented around a domain beating talent.
 
 2) Paul Graham also talks about consistently exploring, being curious, and trying makes us a target for luck in [How to Do Great Work](https://paulgraham.com/greatwork.html)
 
