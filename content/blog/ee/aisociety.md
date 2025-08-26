@@ -30,6 +30,7 @@ Actually, healthy market competition and capitalism is not to blame in the AI tr
 
 Finally, Human + AI > AI, unless the human is counter productive, philosophically the human can choose to run autopilot or do some creative or corrective procedure, now when everyone is standing on top of the same giants naturally made affordable by competition in free market tech, comparative advantage is what drives economies.
 
+
 ### Random secondary thoughts:
 
 1) Buffett and Munger recommends picking only a few stocks to invest in to diversify one's profolio, when you start investing in the 8th or 9th or 20th diversification your taking money out of your most profitable revenue maker. Unless Openai can monopolize their talent resources which hasn't been the case, focusing on 5 core profit drivers is basic business sense. 
@@ -55,6 +56,8 @@ Ok but this assumes a specific configuration blah blah blah, in the end no one k
 3) Vertical integration and choosing next development path is actually a more nuanced decision matrix. But for a 0.01% company, for starters: How important is this new market I'm entering going to be and how important is this new integration going to be if I want to continue to dominate my cash-cow market (assuming that it keeps growing)? And secondly if it's upstream innovation, deeper in tech supply chain, going from nearer to consumer to resource/ energy extraction (yes this is a hypothetical full range), are there any upstream suppliers b2(my b) I'm using that I'd be genuinely afraid of competing with and will they be better than me or can I hire and excute to be better than them? If not then move up the vertical.
 
 4) A paper by McNerney et al. at Harvard's growth lab [How Production Networks Amplify Economic Growth](https://arxiv.org/pdf/1810.07774) found that technological improvements propagated along supply chains, "longer productions chains in an industry bias it toward faster price reduction". ASML makes a break through in their laser fabrication accuracy, TSMC makes a break through in energy and size of transitors, Nvidia makes a break through in Cuda, SK Hynix makes a HBM break through, Azure makes some massive load balancing saving algorithm, OpenAI benefits from all of them with a multiplier effect on each layer, hence why price reduction and progress in tech is exponential, specialization when allocated right, with correct talent and incentives, is a feature not a flaw. Finally, the consumer is the ultimate winner.
+
+
 
 ## We should fear young people not being able to find jobs in the advent of AI
 
@@ -97,3 +100,8 @@ If you think of economics as a supply chain, at one point a higher level AI sell
 1) Bezos always said what is good for the customers is good for the company, perhaps many layers down even AI automating AI automating AI will fundamentally be based on human value.
 
 
+## AI is not bad capitalism is.
+
+A circle of chain effects:
+
+Capitalism is the full cycle which keeps AI in check optimal resource allocation that no one AGI dominates everyone and replaces all jobs, because this AGI system would cost too much without drawing profits from being democratized and also drawing from talent pools/ educating the market which understand it. Now with badly regulated capitalism, the system just becomes inefficient but then that becomes a national security threat, governments are naturally incentivised either regulate it better or be left behind. Thank goodness for the heterogeneity of the world.
