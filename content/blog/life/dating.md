@@ -31,15 +31,12 @@ Perhaps this is why:
 
 ### Other Implications 
 
-Some other thoughts I had about life:
+Some other thoughts I had:
 
 1) In Meta's internal research they found it optimal that being accurate in their open positions led to more optimal self-selecting outcomes.
 
-2) People with self agency often find themselves in better places in society.
+2) Emotional Intelligence, self consciousness, knowing yourself and exactly what you want leads to more optimal outcomes. (To prove/solidify)
 
-3) Emotional Intelligence, self consciousness, knowing yourself and exactly what you want leads to more optimal outcomes.
-
-4) For consumer niche companies such as platforms, it's important that they have a single business model serving a single side: Meta, Google are all B2B. Focus on a niche 
 
 ## Poisson
 
