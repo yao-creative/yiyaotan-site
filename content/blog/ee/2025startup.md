@@ -85,7 +85,7 @@ There's an interesting interview between [Huberman -- Marc Andressen](https://op
 ### Physical View of Startup
 <img src="/images/physics-of-startup-diagram.png" alt="Physical View of Startup">
 
-AI transition is confusing if you look at it from the 0th order view, no one knows "what" is the future of AI what to develop/ invest.
+AI transition is confusing if you look at it from the zeroth order view, no one knows "what" is the future of AI what to develop/ invest.
 
 But first order is more obvious we know we should learn AI related skills
 
