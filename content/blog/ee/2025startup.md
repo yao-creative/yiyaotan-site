@@ -85,6 +85,13 @@ There's an interesting interview between [Huberman -- Marc Andressen](https://op
 ### Physical View of Startup
 <img src="/images/physics-of-startup-diagram.png" alt="Physical View of Startup">
 
+AI transition is confusing if you look at it from the 0th order view, no one knows "what" is the future of AI what to develop.
+
+But first order is more obvious we know we should learn AI related skills
+
+Second order has never changed, it's why the Stoics have lasted 2000+ years. Positive sum of technology over the long run is consistent. Market always grows in the long run. The value in AI is not in doing but perhaps it's ability to learn and replicate, the value of AI talent is perhaps on teaching it how to meta learn better and better towards specified values.
+
+
 ### How to spot a good tech founder/ leader
 
 Signaling:
