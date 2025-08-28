@@ -9,7 +9,7 @@ featured_image: '/images/orchestra.jpg'
   
   I'm the one on the left in the photo above :D!
 
-  Most recent article if you're interested: [2025 Startup. Good Startup? Intuitions, mathematical perspective](/blog/ee/2025startup).
+  Most recent article if you're interested: [2025 Startup. Good Startup? Intuitions, mathematical perspective](blog/ee/2025startup).
 
   My name is Yao. Growing up, I've lived in 5 countries, a total of three continents. 
 

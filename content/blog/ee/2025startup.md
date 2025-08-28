@@ -1,6 +1,6 @@
 +++
 title = '2025 Startup. Good Startup? Intuitions, mathematical perspective'
-date = 2025-08-28T14:32:06+08:00
+date = 2025-08-28T13:50:00+08:00
 slug = '2025startup'
 +++
 
@@ -74,12 +74,11 @@ There's an interesting interview between [Huberman -- Marc Andressen](https://op
 5) Musk once said the only truths are physics, question the requirements and why they're there.
 
 6) For judgement and intuition growth 2 Buffett used to read a every single paper and catelog on businesses since he was a child. 
-
 7) At scale, innovation is a mix of explore and exploit, curiosity. [Hyejin Youn](http://hyoun.me/research/#innovation). Biggest innovations are often the connections between two vastly different fields. Bezos and Musk and also Google run this style of innovation.
 
-<img src="/images/innovation-diagram.jpg" alt="Low Dimensional View of Innovation Space">
+<img src="/images/innovation-diagram.png" alt="Low Dimensional View of Innovation Space">
 
-<img src="/images/startup-diagram.jpg" alt="Low Dimensional View of Startup">
+<img src="/images/startup-diagram.png" alt="Low Dimensional View of Startup">
 
 
 
