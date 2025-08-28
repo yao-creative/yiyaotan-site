@@ -80,7 +80,7 @@ There's an interesting interview between [Huberman -- Marc Andressen](https://op
 
 <img src="/images/startup-diagram.jpg" alt="Low Dimensional View of Startup">
 
-<img src="/images/physics-of-startup-diagram.jpg" alt="Physical View of Startup">
+<img src="/images/physics-of-startup-diagram.png" alt="Physical View of Startup">
 
 ### How to spot a good tech founder/ leader
 
