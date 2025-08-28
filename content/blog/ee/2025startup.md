@@ -1,7 +1,7 @@
 +++
 title = '2025 Startup. Good Startup? Intuitions, mathematical perspective'
 date = 2025-08-28T14:32:06+08:00
-slug = '2025Startup'
+slug = '2025startup'
 +++
 
 Status: in-construction
