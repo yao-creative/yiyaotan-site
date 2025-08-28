@@ -76,10 +76,13 @@ There's an interesting interview between [Huberman -- Marc Andressen](https://op
 6) For judgement and intuition growth 2 Buffett used to read a every single paper and catelog on businesses since he was a child. 
 7) At scale, innovation is a mix of explore and exploit, curiosity. [Hyejin Youn](http://hyoun.me/research/#innovation). Biggest innovations are often the connections between two vastly different fields. Bezos and Musk and also Google run this style of innovation.
 
+### Low Dimensional View of Innovation Space
 <img src="/images/innovation-diagram.png" alt="Low Dimensional View of Innovation Space">
 
+### Low Dimensional View of Startup
 <img src="/images/startup-diagram.jpg" alt="Low Dimensional View of Startup">
 
+### Physical View of Startup
 <img src="/images/physics-of-startup-diagram.png" alt="Physical View of Startup">
 
 ### How to spot a good tech founder/ leader
