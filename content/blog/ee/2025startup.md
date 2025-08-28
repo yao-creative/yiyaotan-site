@@ -87,7 +87,7 @@ There's an interesting interview between [Huberman -- Marc Andressen](https://op
 
 AI transition is confusing if you look at it from the zeroth order view, no one knows "what" is the future of AI what to develop/ invest.
 
-But first order is more obvious we know we should learn AI related skills
+But first order is more obvious we know we should learn AI related skills because they're frontier.
 
 Second order has never changed, it's why the Stoics have lasted 2000+ years. Positive sum of technology over the long run is consistent. Dale Carnegie's "How to Win Friends and Influence People" is still on the shelves. The value in AI is not in doing but perhaps it's ability to learn and replicate, the value of AI talent is perhaps on teaching it how to meta learn better and better towards specified values.
 
