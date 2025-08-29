@@ -136,8 +136,7 @@ Talent matters more when your foundation is algorithmic, design, infrastructure,
 
 
 # Conclusion
-
-The fundamental laws of the university and society never change, however, it's the depth and ability to understand this nuance.
+Fundamental behaviors and patterns of the individual and the aggregate of society never changes, there are a few clear constants to navigate by. The rest is understanding nuance. Success comes from navigating this nuance and complexity.
 
 
 
