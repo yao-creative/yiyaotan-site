@@ -29,21 +29,21 @@ Mathematically, if startups are a process of constant innovation and being on th
 
 There's an interesting interview between [Huberman -- Marc Andressen](https://open.spotify.com/episode/0qkK5lNuRFJq0o11Js5Hvl)
 
-1) Technically Smart. Comparative advantage wins technology races, economic transactions are opportunity costs/ slight disassortative in the manner. Everyone builds on an almost a similar absolute advantage, it's optimal for your downstream suppliers. (Eg. basic access to LLMs and cloud compute is universal expectation in 2025).
+1) Technically Strong. Comparative advantage wins technology races, economic transactions are opportunity costs/ slight disassortative in the manner. Everyone builds on top of an almost a similar absolute advantage, it's optimal for your upstream suppliers. (Eg. basic access to LLMs and cloud compute is universal expectation in 2025).
 
-2) Self-Conscious/ Deep thinker. Ability to understand nuance, high-frequency iterative self correction and alignment.
+2) Self-Conscious. Ability to understand nuance, high-frequency iterative self correction and alignment.
 
 3) Socially Intelligent.
 
 4) Directness, firmness, and clarity/ pragmatism of vision- People often say disagreability, however, I think it's inaccurate to it's cause. The ability to get something done even if people don't understand it why it matters. Admittedly this is hard to phrase. 
 
-5) Grit: success in PMF or dominating the market works in a non linear manner when one hits a bifurication in the market or technology, the only way to build a strong market edge is to walk towards it for a long time.
+5) Grit: success in PMF or dominating the market works in a non linear manner when one hits a bifurication in the market or technology, the only way to build a strong market edge is to walk towards it for a long time. 
 
-6) Hardworking: I'd prefer to say continously consistent with (highly) above average effort, this is related to Poisson analogy I've made in dating [Dating, analogies from Gale–Shapley, Optimal Stopping and Poisson](/blog/life/dating/). Since this maximizes exposure to luck by controlling the controllable.
+6) Optimistic: World is a positive sum game, usually the visionaries, Dell, Jack Ma, Musk, Page, Brin think of more of a world which could be bigger. Zero sum games have finite markets by their definition, negative sum has decreasing market size. History has shown quality of life over the long run progressively better since the scientific revolution, it's fundamental and obvious truth. Also continuous forward movement is a dynamic process more likely to hit optimal outcomes, being a continously a target for luck.
 
-7) Optimistic: World is a positive sum game, usually the visionaries, Dell, Jack Ma, Musk, Page, Brin think of more of a world which could be bigger. Zero sum games have finite markets by their definition, negative sum has decreasing market size. History has shown quality of life over the long run progressively better since the scientific revolution, it's fundamental and obvious truth. Also continuous forward movement is a dynamic process more likely to hit optimal outcomes, being a continously a target for luck.
+7) Creativity.
 
-8) Creativity.
+8) Solution oriented. Challenges are to be navigated not to label and worked-around.
 
 
 ### Some extras
@@ -54,7 +54,6 @@ There's an interesting interview between [Huberman -- Marc Andressen](https://op
 
 11) Growth oriented. This also factors under point 2 too.
 
-12) Solution-oriented thinking.
 
 
 
@@ -89,40 +88,38 @@ AI transition is confusing if you look at it from the zeroth order view, no one 
 
 But first order is more obvious we know we should learn AI related skills because they're frontier.
 
-Second order has never changed, it's why the Stoics have lasted 2000+ years. Positive sum of technology over the long run is consistent. Dale Carnegie's "How to Win Friends and Influence People" is still on the shelves. The value in AI is not in doing but perhaps it's ability to learn and replicate, the value of AI talent is perhaps on teaching it how to meta learn better and better towards specified values.
+Second order has never changed, it's why the Stoics have lasted 2000+ years. Positive sum of technology over the long run is consistent. Dale Carnegie's "How to Win Friends and Influence People" is still on the shelves. The value in AI is not in doing but perhaps it's ability to learn and replicate, the value of AI talent is perhaps on teaching it how to meta learn better and better towards specified values. 
 
 
-### How to spot a good tech founder/ leader
+### How to spot technical talent
 
 Signaling:
 
-1) Technically smart (any tehnical field of interest will do)
+1) Has specific technical opinions/ tastes, taste is developped over time and from doing, the strong tastes signifies that they care or are passionate about it with the ability.
 
-2) Consistent
+2) Consistent/ large scale projects finished end to end.
 
-3) Hard worker
+3) Reader, similar idea to technical opinions/ tastes, probe the depth of their opinions.
 
-4) Reader
+4) Self-reflective in conversations 
 
-5) Self-reflective in conversations 
+5) Constructive conversations
 
-6) Constructive conversations
+6) Comfort with directness
 
-7) Comfort with directness
-
-8) Draw towards purpose which seems fundamental and meaningful to a human
+7) Draw towards purpose which seems fundamental and meaningful to a human
 
 What a recruiter can do:
 
-1) Conversations, relationship, read if the person writes.
+1) Conversations, relationship, read if the person writes. 
 
-2) Read concrete history, what they've done exactly the projects (project based hiring, signaling is more accurate the resume based due to abstraction)
+2) Read concrete history, what they've done exactly the projects and if they're followed through comprehensively (project based hiring, signaling is more accurate the resume based due to abstraction).
 
-3) What unique insights might they have?
+3) Learn about their field (20 hour rule) and probe their technical and specific opinions.
 
-4) Has a narrative of attempting some goal (either abstract towards meaning/ vision or concrete) for a long time.
+4) Self-Improvement. By assortativity of social relationships/ understanding the only way to meet, understand, and retain talent is by growing into this space yourself.
 
-5) Self-Improvement towards the goal above. By assortativity of social relationships/ understanding the only way to meet, understand, and retain talent is by growing into this space yourself.
+5) Learn about the people they surround themselves with, talent is highly assortative. 
 
 
 ## Why Vision Matters
