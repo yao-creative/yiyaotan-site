@@ -91,9 +91,9 @@ But first order is more obvious we know we should learn AI related skills becaus
 Second order has never changed, it's why the Stoics have lasted 2000+ years. Positive sum of technology over the long run is consistent. Dale Carnegie's "How to Win Friends and Influence People" is still on the shelves. The value in AI is not in doing but perhaps it's ability to learn and replicate, the value of AI talent is perhaps on teaching it how to meta learn better and better towards specified values. 
 
 
-### How to spot technical talent
+### How to spot technical founders/ or recruit a founding team.
 
-Signaling:
+Signaling on their side:
 
 1) Has specific technical opinions/ tastes, taste is developped over time and from doing, the strong tastes signifies that they care or are passionate about it with the ability.
 
