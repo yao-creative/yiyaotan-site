@@ -41,7 +41,7 @@ There's an interesting interview between [Huberman -- Marc Andressen](https://op
 
 6) Optimistic: World is a positive sum game, usually the visionaries, Dell, Jack Ma, Musk, Page, Brin think of more of a world which could be bigger. Zero sum games have finite markets by their definition, negative sum has decreasing market size. History has shown quality of life over the long run progressively better since the scientific revolution, it's fundamental and obvious truth. Also continuous forward movement is a dynamic process more likely to hit optimal outcomes, being a continously a target for luck.
 
-7) Creativity.
+7) Creativity/ Curiosity. Innovation can only come from trying and building something new. This opens up the upper positive sum space. [Nat Friedman: "Working on raising the ceiling not the floor"](https://nat.org)
 
 8) Solution oriented. Challenges are to be navigated not to label and worked-around.
 
@@ -50,9 +50,7 @@ There's an interesting interview between [Huberman -- Marc Andressen](https://op
 
 9) Pragmatism. The only truth is the product, numbers, progress, physics. There might be a lot of conflicting idealogies on the way forward or on the what to do. There are many requirements, regulations, and conventions but where set for different times and different goals and purposes. This feeds as a factor self-consciousness too point 2.
 
-10) Curiousity. 
-
-11) Growth oriented. This also factors under point 2 too.
+10) Growth oriented. This also factors under point 2 too.
 
 
 
