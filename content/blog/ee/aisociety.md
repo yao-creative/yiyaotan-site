@@ -107,7 +107,7 @@ A circle of chain effects:
 Capitalism is the full cycle which keeps AI in check optimal resource allocation that no one AGI dominates everyone and replaces all jobs, because this AGI system would cost too much without drawing profits from being democratized and also drawing from talent pools/ educating the market which understand it. Now with badly regulated capitalism, the system just becomes inefficient but then that becomes a national security threat, governments are naturally incentivised either regulate it better or be left behind. Thank goodness for the heterogeneity of the world.
 
 
-## Debunking 10 People 10 Trillion Dollar Startup (YC Combinator 25 F call for Startups)?
+## Debunking 10 People 10 Trillion Dollar Startup (YC Combinator 25 F call for Startups).
 
 Simply put the Baumol effect where costs of goods are dependent on their relative productivity costs and the market advantage and also the fact that economic transactions are inherently slightly disassortative, that people buy or want what they don't have, opportunity costs of service/ goods.
 
