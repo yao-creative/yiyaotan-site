@@ -105,3 +105,16 @@ If you think of economics as a supply chain, at one point a higher level AI sell
 A circle of chain effects:
 
 Capitalism is the full cycle which keeps AI in check optimal resource allocation that no one AGI dominates everyone and replaces all jobs, because this AGI system would cost too much without drawing profits from being democratized and also drawing from talent pools/ educating the market which understand it. Now with badly regulated capitalism, the system just becomes inefficient but then that becomes a national security threat, governments are naturally incentivised either regulate it better or be left behind. Thank goodness for the heterogeneity of the world.
+
+
+## Debunking 10 People 10 Trillion Dollar Startup (YC Combinator 25 F call for Startups)?
+
+Simply put the Baumol effect where costs of goods are dependent on their relative productivity costs and the market advantage and also the fact that economic transactions are inherently slightly disassortative, that people buy or want what they don't have, opportunity costs of service/ goods.
+
+If a unit of goods were producable by 10 people then the likelihood of finding an aggregation of another 10 people of similar equal talent and edge is way more likely the next business model which can support 50,000 employees with a high revenue per employee multiple, due to inherent difficulty of business model, implementation hardness, and ability to retain and organize talent at such scale. 10 people needed for entry means many entries, since 10 Trillion dollar is a big market to bite a share of the pie, hence rapid price drop if the goods were equivalent to everyone. Futhermore, even with algorithmic advantage, only profession consumers are able to tell the difference which narrows the market.
+
+Windsurf was acquired by Cognition during the AI race. Cursor, OpenAI, Anthropic, Perplexity hiring all balooned.
+
+So why do we still fancy ourselves with these ideas? Because they happened. Lovable, Cursor, Cognition. They're great stories, however, to hit return on capital which is a more accurate heurstic on the venture capital sense, market dominance is required that society has accepted these tools as universal basis as stable market equilibrium. (eg. in technology Docker, Redis, Amazon for store).
+
+However, a plausible explanation was that the literal technology bifurication (in the dynamic systems sense) of large language models was so large that the industry was shaken up, and in the midst of transition first mover change gains rapid traction. That literally, and perhaps even now, many markets are still moving to find a new stationary distribution (in the ergodic sence). However, open markets breed competition and the fundamental nature of startups, is that during this competition they need to continuously raise money to earn market dominance, which perhaps only happens when their niche hits a new equilibrium/ stationary distribution (of winners and loser and market use/need) before investment is able to bring stable returns.
