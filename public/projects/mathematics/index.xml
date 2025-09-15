@@ -1,145 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mathematics Projects on Yi Yao Tan</title><link>https://yiyaotan-site.vercel.app/projects/mathematics/</link><description>Recent content in Mathematics Projects on Yi Yao Tan</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0100</lastBuildDate><atom:link href="https://yiyaotan-site.vercel.app/projects/mathematics/index.xml" rel="self" type="application/rss+xml"/><item><title>Random Generation of Catalan Counted Simulations</title><link>https://yiyaotan-site.vercel.app/projects/mathematics/random-catalan-structures/</link><pubDate>Thu, 01 Dec 2022 00:00:00 +0100</pubDate><guid>https://yiyaotan-site.vercel.app/projects/mathematics/random-catalan-structures/</guid><description>&lt;p>
-
-
-
-
-
-
-
-
-
- 
-
- 
-
- 
-
- 
-
- 
-
-
-&lt;div class="embed-link">
- &lt;div class="embed-caption">&lt;a href="https://yiyaotan-site.vercel.app/projects/mathematics/" >Mathematics&lt;/a>&lt;/div>
- 
-&lt;/div>
-
-
 &lt;/p>
 &lt;p>Created a library for the simulation of random uniform generation of combinatorial structures counted by Catalan Numbers using natural bijections between different combinatorial objects in Mathematica and Python.&lt;/p>
 &lt;ul>
 &lt;li>
-
-
-
-
-
-
-
-
-
- 
-
- 
-
- 
-
- 
-
- 
-
-
-&lt;div class="embed-link">
- &lt;div class="embed-caption">&lt;a href="https://github.com/yao-creative/trinomial_basic" >Project Repository&lt;/a>&lt;/div>
- 
-&lt;/div>
-
-
 &lt;/li>
 &lt;/ul></description></item><item><title>Trinomial Tree Model for Option Pricing</title><link>https://yiyaotan-site.vercel.app/projects/mathematics/trinomial-tree-model/</link><pubDate>Sat, 01 May 2021 00:00:00 +0100</pubDate><guid>https://yiyaotan-site.vercel.app/projects/mathematics/trinomial-tree-model/</guid><description>&lt;p>
-
-
-
-
-
-
-
-
-
- 
-
- 
-
- 
-
- 
-
- 
-
-
-&lt;div class="embed-link">
- &lt;div class="embed-caption">&lt;a href="https://yiyaotan-site.vercel.app/projects/mathematics/" >Mathematics&lt;/a>&lt;/div>
- 
-&lt;/div>
-
-
 &lt;/p>
 &lt;p>Studied the trinomial tree for options pricing of a martingale using backward induction. Responsible for numerical analysis and simulations.&lt;/p>
 &lt;ul>
 &lt;li>
-
-
-
-
-
-
-
-
-
- 
-
- 
-
- 
-
- 
-
- 
-
-
-&lt;div class="embed-link">
- &lt;div class="embed-caption">&lt;a href="https://github.com/yao-creative/trinomial_basic" >Project Repository&lt;/a>&lt;/div>
- 
-&lt;/div>
-
-
 &lt;/li>
 &lt;li>
-
-
-
-
-
-
-
-
-
- 
-
- 
-
- 
-
- 
-
- 
-
-
-&lt;div class="embed-link">
- &lt;div class="embed-caption">&lt;a href="https://github.com/yao-creative/trinomial_basic" >Preprint&lt;/a>&lt;/div>
- 
-&lt;/div>
-
-
 &lt;/li>
 &lt;/ul></description></item></channel></rss>
