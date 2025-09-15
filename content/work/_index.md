@@ -21,7 +21,7 @@ Connect with me via my [LinkedIn](https://www.linkedin.com/in/yi-yao-t-9719301a3
 
 ## LLM
 
-- [Substack AI-Engineering technical blogs - Cameron Wolfe](https://cameronrwolfe.substack.com)
+- [Substack AI technical blogs - Cameron Wolfe](https://cameronrwolfe.substack.com)
 
 
 ## Software Engineering 
