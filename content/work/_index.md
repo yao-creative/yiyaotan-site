@@ -2,6 +2,8 @@
 title: "Work"
 date: 2025-09-15T00:00:00+00:00
 featured_image: '/images/planetree10000.png'
+type: "section"
+layout: "section"
 ---
 
 I'm currently working on my startup as CTO, since October 2024, in the Creator Industry.
@@ -11,7 +13,7 @@ They say you can tell a lot about a person by the type of content they consume.
 Connect with me via my [LinkedIn](https://www.linkedin.com/in/yi-yao-t-9719301a3) if you find any of this interesting.
 
 
-# Some resources I find interesting or resourceful and inspire my work.
+# Some resources I find interesting or resourceful and inspire my work:
 
 ## Machine Learning
 
