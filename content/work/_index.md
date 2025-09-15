@@ -11,7 +11,7 @@ They say you can tell a lot about a person by the type of content they consume.
 Connect with me via my [LinkedIn](https://www.linkedin.com/in/yi-yao-t-9719301a3) if you find any of this interesting.
 
 
-# Some resources I find interesting or resourceful
+# Some resources I find interesting or resourceful and inspire my work.
 
 ## Machine Learning
 
