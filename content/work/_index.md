@@ -4,7 +4,12 @@ date: 2025-09-15T00:00:00+00:00
 featured_image: '/images/planetree10000.png'
 ---
 
-I'm currently working on my startup, since October 2024, in the Creator Industry. Connect with me via my [LinkedIn](https://www.linkedin.com/in/yi-yao-t-9719301a3) if you find any of this interesting.
+I'm currently working on my startup as CTO, since October 2024, in the Creator Industry.
+
+They say you can tell a lot about a person by the type of content they consume.
+
+Connect with me via my [LinkedIn](https://www.linkedin.com/in/yi-yao-t-9719301a3) if you find any of this interesting.
+
 
 # Some resources I find interesting or resourceful
 
@@ -40,3 +45,21 @@ I've been going through these research areas for inspiration. I'm curious if you
 - [Computational Algebraic Topology - Vidit Nanda](https://people.maths.ox.ac.uk/nanda/cat)
 
 - [Geometric Deep Learning - Michael M. Bronstein](https://geometricdeeplearning.com/book)
+
+- [Complexity Science Hub Vienna](https://csh.ac.at)
+
+# Podcasts
+
+## Entrepreneurship:
+
+- [Acquired -	Ben Gilbert and David Rosenthal](https://open.spotify.com/show/7Fj0XEuUQLUqoMZQdsLXqp?si=faf7685645654529)
+    <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/show/7Fj0XEuUQLUqoMZQdsLXqp?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+- [Grit - Kleiner Perkins] (https://open.spotify.com/show/2wzQBQcj5qMOMSVK1eJ00q?si=38db2860a746447b)
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/show/2wzQBQcj5qMOMSVK1eJ00q/video?utm_source=generator" width="624" height="351" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+- [Training Data - Sequoia Capital](https://open.spotify.com/show/3UrDMnInpYog0hc2QCHAXk?si=86f90a4f5c6748e2)
+
+## Complexity Science
+
+- [Complexity - Sante Fe Institute](https://open.spotify.com/show/2YRNavdimPddYFaNvQDU7I?si=09c4b800004c44a0)
