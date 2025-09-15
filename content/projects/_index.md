@@ -5,9 +5,7 @@ featured_image: '/images/planetree10000.png'
 ---
 Above: Random Plane tree generation with 10000 nodes (Random Generation of Catalan Counted Simulations)
 
-Welcome to my project portfolio. Here you will find detailed descriptions of my work in various fields. 
-
-A quick guide, my main projects have been:
+A quick guide to my old projects, the largest ones in order:
 
 1) Sparse Transformer Attention and Visual Image Transformer Segmentation
 2) Supply Chain Reconstruction using Hyperbolic Network Geometry
