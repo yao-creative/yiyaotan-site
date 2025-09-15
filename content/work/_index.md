@@ -10,7 +10,7 @@ I'm currently working on my startup, since October 2024, in the Creator Industry
 
 ## Machine Learning
 
-- [Machine Learning Systems in Industry-  Eugene Yan](https://eugeneyan.com/start-here)
+- [Machine Learning Systems in Industry - Eugene Yan](https://eugeneyan.com/start-here)
 
 ## LLM
 
