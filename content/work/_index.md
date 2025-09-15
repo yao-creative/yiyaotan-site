@@ -10,12 +10,18 @@ I'm currently working on my startup, since October 2024, in the Creator Industry
 
 ## Machine Learning
 
-- [Machine Learning Systems in Industry](https://eugeneyan.com/start-here)
+- [Machine Learning Systems in Industry-  Eugene Yan](https://eugeneyan.com/start-here)
+
+## LLM
+
+- [Substack AI-Engineering technical blogs - Cameron Wolfe](https://cameronrwolfe.substack.com)
 
 
 ## Software Engineering 
 
 - [Designing Web Crawlers](https://www.hellointerview.com/learn/system-design/problem-breakdowns/web-crawler)
+
+- [Tiktok Monolotih Recommendation Systems - Jordan has no life](https://jordanhasnolife.substack.com/p/tiktok-monolith)
 
 ## Research Related Reading:
 
