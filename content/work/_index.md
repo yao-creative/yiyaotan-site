@@ -19,7 +19,7 @@ I'm currently working on my startup, since October 2024, in the Creator Industry
 
 ## Research Related Reading:
 
-I've been going through these research areas for inspiration. I'm curious if you know anything about them.
+I've been going through these research areas for inspiration. I'm curious if you know anything about them or are interested.
 
 - [Algorithmic Game Theory - Roughgarden-Nissan](https://www.columbia.edu/~ck2945/files/algorithmic-game-theory.pdf)
 
@@ -27,7 +27,7 @@ I've been going through these research areas for inspiration. I'm curious if you
 
 - [Stanford CS224W, Graph Neural Networks - Jure Leskovec](https://web.stanford.edu/class/cs224w)
 
-- [MIT 6.S184: Introduction to Flow MAtching and Diffusion Models](https://diffusion.csail.mit.edu)
+- [MIT 6.S184: Introduction to Flow Matching and Diffusion Models](https://diffusion.csail.mit.edu)
 
 - [Stochastic Calculus](https://www.math.uchicago.edu/~lawler/finbook.pdf)
 
