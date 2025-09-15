@@ -15,11 +15,11 @@ Perhaps I find most meaningful Paul Graham, Jeff Bezos, Buffett and Lee Hsien Lo
 ## Categories fuzzy ranked with what I think are most interesting.
 
 - [Economics & Entrepreneurship](/blog/ee/) - Thoughts on economics and a complexity economist view. I believe Heterogenous, Dynamic (even equilibriums are multidimensional and can be oscillatory), Adaptive, Boundedly rational at the individual level, aggregately (macro-level x time) positive sum, the microscopic level over large scale observations have patterns which are repetitive. I believe consistency, self-consciousness, short-term and long-term clarity and mid-term flexibility, accuracy and precision to concrete truth lead to optimal business outcomes. 
-- [Life](/blog/life/) - Personal experiences and reflections
+- [Life](/blog/life/) - Universal topics of the individual.
 - [Reading](/blog/reading/) - Book reviews and literary thoughts
 - [Mathematics](/blog/maths/) - Mathematical concepts and their applications
 - [Travel](/blog/travel/) - I often get lost in random countries.
-- [Philosophy](/blog/philosophy/) - Philosophical musings and discussions
-- [Music](/blog/music/) - Musical experiences and analysis
-- [Art](/blog/art/) - Artistic expressions and appreciation
+- [Philosophy](/blog/philosophy/) - Deep thinking :O.
+- [Music](/blog/music/) - Musical experiences and analysis.
+- [Art](/blog/art/) - Artistic expressions and appreciation.
 
