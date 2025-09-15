@@ -1,4 +1,4 @@
-{{/* On Work index: show link text, then try to embed as iframe unless blocked by domain or file type. */}}
+<!-- {{/* On Work index: show link text, then try to embed as iframe unless blocked by domain or file type. */}}
 {{ $dest := .Destination }}
 {{ $isWorkIndex := or (eq .Page.RelPermalink "/work/") (strings.HasSuffix (lower .Page.File.Path) "/content/work/_index.md") }}
 {{ $isPDF := or (strings.HasSuffix (lower $dest) ".pdf") (in (lower $dest) ".pdf?") }}
@@ -22,4 +22,4 @@
   {{ end }}
 </div>
 
-
+ -->
