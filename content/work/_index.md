@@ -19,7 +19,7 @@ Connect with me via my [LinkedIn](https://www.linkedin.com/in/yi-yao-t-9719301a3
 
 - [Machine Learning Systems in Industry - Eugene Yan](https://eugeneyan.com/start-here)
 
-## LLM / RLt 
+## LLM / RL
 
 - [Substack AI technical blogs - Cameron Wolfe](https://cameronrwolfe.substack.com)
 
