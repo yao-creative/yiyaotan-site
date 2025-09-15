@@ -1,0 +1,13 @@
+{{/* On Work index only: auto-embed non-Spotify, non-PDF links as iframes. Else, render normal links. */}}
+{{ $dest := .Destination }}
+{{ $isWorkIndex := or (eq .Page.RelPermalink "/work/") (strings.HasSuffix (lower .Page.File.Path) "/content/work/_index.md") }}
+{{ $isPDF := or (strings.HasSuffix (lower $dest) ".pdf") (in (lower $dest) ".pdf?") }}
+{{ $isSpotify := in $dest "open.spotify.com" }}
+
+{{ if and $isWorkIndex (not $isPDF) (not $isSpotify) }}
+  <iframe style="border-radius:12px;border:none;" src="{{ $dest }}" width="100%" height="480" loading="lazy" referrerpolicy="no-referrer-when-downgrade" sandbox="allow-scripts allow-same-origin allow-popups allow-forms"></iframe>
+{{ else }}
+  <a href="{{ .Destination }}" {{ with .Title}}title="{{ . }}"{{ end }}>{{ .Text | safeHTML }}</a>
+{{ end }}
+
+
