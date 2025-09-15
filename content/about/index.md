@@ -21,8 +21,6 @@ featured_image: '/images/orchestra.jpg'
 
   I'm vegetarian which I believe is important to me as it helps me make conscious decisions about my health and what I consume on a daily basis. In my free time enjoy listening to music, often classical but other times diverse such as italian rap or japanese city pop. I also listen to a lot of podcasts and short book summaries mostly on philosophy (Camus, Walter Benjamin, Sean Kelly), history, and some scifi fiction (Asimov), magical realism (Murakami), poetry (Khalil Gibran). You can also find me crashing at my friends' places in different subcontinents, I spent 110 days on the couch/ air-mattress in 4 countries last year.
 
-
-
 ---
 
   I think you'll find my [reading](/blog/reading/) section most interesting.
