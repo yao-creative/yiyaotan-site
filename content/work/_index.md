@@ -6,12 +6,13 @@ type: "section"
 layout: "section"
 ---
 
-I'm currently working on my startup as CTO, since October 2024, in the Creator Industry.
+I'm currently working on my startup as CTO, since October 2024, in the Creator Industry, interested in recommendation systems, pricing mechanisms, and AI architectures.
 
 They say you can tell a lot about a person by the type of content they consume.
 
 Connect with me via my [LinkedIn](https://www.linkedin.com/in/yi-yao-t-9719301a3) if you find any of this interesting.
 
+Also a recent article if you're interested [2025 Startup. Good Startup? Intuitions, mathematical perspective](/blog/ee/2025startup).
 
 # Some resources I find interesting or resourceful and inspire my work:
 

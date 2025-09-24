@@ -12,7 +12,7 @@ Perhaps 2025 just meant definition of startup has changed. The technical will al
 
 Any large major technology company has always had some algorithmic or infrastructure edge, even down to Google founded about 30 years ago. Otherwise they're partially driven like Linear and Notion, however, the problem of this is that visual taste doesn't always appeal to everyone. Nonetheless YC has been searching for this in 2025.
 
-We can go back again to the core principles of startup, which have never changed. That's assuming that we agree to be talking about real less than 1% world movers.
+I'll believe that the core principles of startup, which have never changed. That's assuming that agree that the subject real less than 1% world movers edge of the long tailed distribution.
 
 # Principles 
 
@@ -23,7 +23,7 @@ YC talks about this, execution not just idea. Simply put, companies are dynamic 
 
 ## Why People Matter
 
-Mathematically, if startups are a process of constant innovation and being on the edge. If we think of the actions a startup takes as a sum individuals represented by Markov decision processes with new states. The only universally controllable common prior behind every action/ change is the person you hire. They might be self-evolving themselves, that's a contextual caveat, but picking the correct one for the process. 
+Mathematically, if startups are a process of constant innovation and being on the edge. If we think of the actions a startup takes as a sum individuals represented by Markov decision processes with new states. The only universally controllable common prior behind every action/ change is the person you hire. They might be self-evolving themselves, that's a contextual caveat, but picking the correct one for the process. But also by observation almost all of the most successful startups without fail were spawned out of the most talented cofounding teams, by universality it's probably an assumed bare minimum. The Paypal Mafia, OpenAI, the fabled "Google Engineer" etc. just to name a few.
 
 ### What makes a good founder?
 
@@ -73,24 +73,11 @@ There's an interesting interview between [Huberman -- Marc Andressen](https://op
 6) For judgement and intuition growth 2 Buffett used to read a every single paper and catelog on businesses since he was a child. 
 7) At scale, innovation is a mix of explore and exploit, curiosity. [Hyejin Youn](http://hyoun.me/research/#innovation). Biggest innovations are often the connections between two vastly different fields. Bezos and Musk and also Google run this style of innovation.
 
-### Low Dimensional View of Innovation Space
-<img src="/images/innovation-diagram.png" alt="Low Dimensional View of Innovation Space">
-
-### Low Dimensional View of Startup
-<img src="/images/startup-diagram.jpg" alt="Low Dimensional View of Startup">
-
-### Physical View of Startup
-<img src="/images/physics-of-startup-diagram.png" alt="Physical View of Startup">
-
-AI transition is confusing if you look at it from the zeroth order view, no one knows "what" is the future of AI what to develop/ invest.
-
-But first order is more obvious we know we should learn AI related skills because they're frontier.
-
-Second order has never changed, it's why the Stoics have lasted 2000+ years. Positive sum of technology over the long run is consistent. Dale Carnegie's "How to Win Friends and Influence People" is still on the shelves. The value in AI is not in doing but perhaps it's ability to learn and replicate, the value of AI talent is perhaps on teaching it how to meta learn better and better towards specified values. 
 
 
-### How to spot technical founders/ or recruit a founding team.
+###How to spot technical founders/ or recruit a founding team.
 
+###
 Signaling on their side:
 
 1) Has specific technical opinions/ tastes, taste is developped over time and from doing, the strong tastes signifies that they care or are passionate about it with the ability.
@@ -119,22 +106,47 @@ What a recruiter can do:
 
 5) Learn about the people they surround themselves with, talent is highly assortative. 
 
+### Tangible Signals:
+
+Collecting Thano's ring for successful founding teeam
+
+1) Unique Market Insight - 
+
+2) Unique Technical Insight - Eric Schmidt used to ask each engineer over the new project they were working on this question (more broadly unique insight)
+
+3) Consistent/ large scale projects finished end to end.
 
 ## Why Vision Matters
 
 If technology solves individual problems, once the process/ product is done with one problem a company has to decide where to go. Vision drives the continuity of innovation. Downstream effects on hiring.
 
+
+
+
+# Low Dimensional View of Innovation Space
+<img src="/images/innovation-diagram.png" alt="Low Dimensional View of Innovation Space">
+
+### Low Dimensional View of Startup
+<img src="/images/startup-diagram.jpg" alt="Low Dimensional View of Startup">
+
+### Physical View of Startup
+<img src="/images/physics-of-startup-diagram.png" alt="Physical View of Startup">
+
+AI transition is confusing if you look at it from the zeroth order view, no one knows "what" is the future of AI what to develop/ invest.
+
+But first order is more obvious we know we should learn AI related skills because they're frontier.
+
+Second order has never changed, it's why the Stoics have lasted 2000+ years. Positive sum of technology over the long run is consistent. Dale Carnegie's "How to Win Friends and Influence People" is still on the shelves. The value in AI is not in doing but perhaps it's ability to learn and replicate, the value of AI talent is perhaps on teaching it how to meta learn better and better towards specified values. 
+
+
 # Caveats 
 
 ## Speed
 
-Speed as in time to market matters when the end outcome is objectively clear, you know when you have a successful product when it does exactly XYZ. Industries: Automation, B2B entreprise/ management CRUD/ flows.
+Speed as in time to market matters when the end outcome is objectively clear, you know when you have a successful product when it does exactly XYZ. Industries: Automation, B2B entreprise/ management CRUD/ flows. And speed often requires an ordinal direction.
 
-Talent matters more when your foundation is algorithmic, design, infrastructure, technological, or consumer taste ~ however, these are hard edges to win and requires consistency of innovation and taste, only provided by the people you hire. Lovable was by far not the first website/ full stack code free platform, neither was cursor code editor, Tiktok and Instagram not the first consumer tech products. TSMC not the first semi-conductor foundry, BYD the first electric vechicle.
+Talent matters more when your market edge is algorithmic, design, infrastructure, technological, or consumer taste ~ however, these are hard edges to win and requires consistency of innovation and taste, only provided by the people you hire. Lovable was by far not the first website/ full stack code free platform, neither was cursor code editor, Tiktok and Instagram not the first consumer tech products. TSMC not the first semi-conductor foundry, BYD the first electric vechicle. 
 
 
 # Conclusion
-Fundamental behaviors and patterns of the individual and the aggregate of society never changes, there are a few clear constants to navigate by. The rest is understanding nuance. Success comes from navigating this nuance and complexity.
-
-
-
+Fundamental behaviors and patterns of the individual and the aggregate of society never changes, there are a few clear constants to navigate by. The rest is understanding nuance. 
