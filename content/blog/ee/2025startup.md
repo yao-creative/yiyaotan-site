@@ -4,7 +4,7 @@ date = 2025-08-28T13:50:00+08:00
 slug = '2025startup'
 +++
 
-Status: in-construction
+Status: in-construction (Sept 2025)
 
 2025 seems to have brought a lot of confusion to the way tech builds startups. Perhaps vibe-coding and automation has made us re-question the need for technical founders. The short answer is no, nothing much has changed. Perhaps the exact action the what and what has, but the technicality of engineering has always been a universal constant. Perhaps it's shifted into deeper tech or more AI/ML based engineering and not the tradition apps that was true to be so 5 years ago. 
 
