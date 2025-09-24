@@ -108,13 +108,22 @@ What a recruiter can do:
 
 ### Tangible Signals:
 
-Collecting Thano's ring for successful founding teeam
+Collecting Thano's ring for successful founding team. Just like the ordinal rule of a startup is to focus on the tangible knowable and controllable with respect to their customer. The recruiter/ investor will need the same. Below are way cleaner.
 
-1) Unique Market Insight - 
+1) Unique Market Insight.
 
 2) Unique Technical Insight - Eric Schmidt used to ask each engineer over the new project they were working on this question (more broadly unique insight)
 
-3) Consistent/ large scale projects finished end to end.
+3) Formal / Informal Experience in the field. My intuition is mimimal of 6-8 years of hard presistence or learning before the point of exponential success (needed to achieve points 1 and 2 above). The 10,000 hour rule doesn't lie for the bare minimum of 1 percent outcomes: Reading the success of: Larry Page, Sergey Brin, Elon Musk, Mark Zuckerberg, Bill Gates, Warren Buffet by their childhood. Or Bezos to turn Amazon burn rate around, Zhang Yiming going from recommendation systems in real estate to social media to Tiktok. (Also from my experience of friends landing quant/ other high paying jobs jobs post bachelors / masters without fail).
+
+4) Innate curiosity and desire to question history and the status quo. The only people who dare to rewrite history is those who question it. You can find this by their reading and writing
+
+5) Intelligence, hard intelligence. You can find hard intelligence through degree signaling through educational experience, multiple second hand recommendations from people who you think are intelligent and trust (aggregate truthful social mechanisms), or project/ work experince (formal or informal). (this one is is a bit more innate).
+
+6) Self-consciousness and world-consciousness: intuition for the tangible knowlable and controllable (Ability to find ordinal direction and clarity in uncertainty, decision space for things to solve is large but focusing on what matters is important). Probably have to talk to them on this or read what they write. 
+
+What if you can't collect any of above? Or can't tell? Perhaps resolution to soft signals that they might collect the bare minimum of the 5 above at one point in time due to problem-founder fit coupled with presistence, either the technical or the market issue is interesting to them, best case both, that innately this is "them" being themselves to solve. But patience is needed to wait for that.
+
 
 ## Why Vision Matters
 
