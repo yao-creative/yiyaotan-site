@@ -130,7 +130,7 @@ What if above is hard to collect? Or can't tell? Perhaps resolution to soft sign
 
 How to know if it's the correct thing to wait and bet on? Two simple questions:
 
-1. Does it bring intrinsic value to "human-oriented" society? (Economics is just a web of multi-step transaction of human values)
+1. Does it bring intrinsic value to "human-oriented" society? (Economics is just a web of multi-step transaction of human values, further away, the more abstraction and fuzziness)
 
 2. Is it hard and the technology to do it required is frontier? (Transactions reward comparative advantage)
 
