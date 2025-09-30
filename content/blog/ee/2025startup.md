@@ -133,7 +133,7 @@ How to know if it's the correct thing to wait and bet on? Three simple questions
 
 2. Is it hard and the technology to do it required is frontier? (Transactions reward comparative advantage)
 
-3. Does it make the world a bigger place? (Are we trying to reimplement solutions with technology to old problems and take their market share, or solve the problem that the market or the value to consumer is higher?)
+3. Does it make the world a bigger place? (Are we trying to reimplement solutions with technology to old problems and take their market share, or solve the problem that the market becomes a larger place or the value to consumer is higher?)
 
 The combination of optimizing the hell out of very specifically their uniqueness and the controllable is what can make them successful, comparative advantage again not absolute units of productivity, transactions are by nature disassortative, everyone wants either what they admire or don't have. Find one thing and do it like no one else. Mark Zuckerberg said this to Josh Miller (Arc Broswer) in the Browser Company Podcast.
 
