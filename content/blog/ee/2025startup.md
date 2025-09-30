@@ -79,9 +79,8 @@ There's an interesting interview between [Huberman -- Marc Andressen](https://op
 
 
 
-###How to spot technical founders/ or recruit a founding team.
+### How to spot technical founders/ or recruit a founding team.
 
-###
 Signaling on their side:
 
 1) Has specific technical opinions/ tastes, taste is developped over time and from doing, the strong tastes signifies that they care or are passionate about it with the ability.
