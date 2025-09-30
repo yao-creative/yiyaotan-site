@@ -8,11 +8,15 @@ Status: in-construction (Sept 2025)
 
 2025 seems to have brought a lot of confusion to the way tech builds startups. Perhaps vibe-coding and automation has made us re-question the need for technical founders. The short answer is no, nothing much has changed. Perhaps the exact action the what and what has, but the technicality of engineering has always been a universal constant. Perhaps it's shifted into deeper tech or more AI/ML based engineering and not the tradition apps that was true to be so 5 years ago. 
 
-Perhaps 2025 just meant definition of startup has changed. The technical will always have a comparative advantage over the non and to build any moat. "Startup" is always something hard for it's time, doing something a normal person can do perhaps means it's a 2025 business. Technology also pays premium over the frontiers like Nvidia, OpenAI etc... If a non technical can build and MVP than perhaps it's just a product not a startup. That being said, what makes a startup decent at the MVP stage doesn't mean it'll keep being the best moving forward, the whole thing is a process. First, eg: copilot, doesn't guarantee future profits, it's continuously being on the edge. Apps perhaps aren't the definition of startup any more Satya Nadella mentioned CRUD is no longer the "thing" to go for, very early on in this race.
+Perhaps 2025 just meant definition of startup has changed. The technical will always have a comparative advantage over the non and to build any moat. "Startup" is always something hard for it's time, doing something a normal person can do perhaps means it's a 2025 business. Technology also pays premium over the frontiers like Nvidia, OpenAI etc... The ordinal rule of economics is transaction is measured by opportunity costs, comparative advantage not absolute productivity, thus the tackling of the difficult is a universal constant.
 
-Any large major technology company has always had some algorithmic or infrastructure edge, even down to Google founded about 30 years ago. Otherwise they're partially driven like Linear and Notion, however, the problem of this is that visual taste doesn't always appeal to everyone. Nonetheless YC has been searching for this in 2025.
+If a non technical can build and MVP than perhaps it's just a product not a startup. That being said, what makes a startup decent at the MVP stage doesn't mean it'll keep being the best moving forward, the whole thing is a process. First, eg: copilot, doesn't guarantee future profits, it's continuously being on the edge. Apps perhaps aren't the definition of startup any more Satya Nadella mentioned CRUD is no longer the "thing" to go for, very early on in this race.
+
+Any large major technology company has always had some algorithmic or infrastructure edge, even down to Google founded about 30 years ago. Otherwise they're partially design driven like Linear and Notion, however, the problem of this is that visual taste doesn't always appeal to everyone. Nonetheless YC has been searching for this in 2025.
 
 I'll believe that the core principles of startup, which have never changed. That's assuming that agree that the subject real less than 1% world movers edge of the long tailed distribution.
+
+Name any successful product from this given category we talk about and one can always pinpoint almost exactly something they do relatively better than everyone.
 
 # Principles 
 
@@ -23,13 +27,13 @@ YC talks about this, execution not just idea. Simply put, companies are dynamic 
 
 ## Why People Matter
 
-Mathematically, if startups are a process of constant innovation and being on the edge. If we think of the actions a startup takes as a sum individuals represented by Markov decision processes with new states. The only universally controllable common prior behind every action/ change is the person you hire. They might be self-evolving themselves, that's a contextual caveat, but picking the correct one for the process. But also by observation almost all of the most successful startups without fail were spawned out of the most talented cofounding teams, by universality it's probably an assumed bare minimum. The Paypal Mafia, OpenAI, the fabled "Google Engineer" etc. just to name a few.
+Mathematically, if startups are a process of constant innovation and being on the edge. If we think of the actions a startup takes as a sum individuals represented by Markov decision processes with new states. The only universally controllable common prior behind every action/ change is the person hired. They might be self-evolving themselves, that's a contextual caveat, but picking the correct one for the process. But also by observation almost all of the most successful startups without fail were spawned out of the most talented cofounding teams, by universality it's probably an assumed bare minimum. The Paypal Mafia, OpenAI, the fabled "Google Engineer" etc. just to name a few.
 
 ### What makes a good founder?
 
 There's an interesting interview between [Huberman -- Marc Andressen](https://open.spotify.com/episode/0qkK5lNuRFJq0o11Js5Hvl)
 
-1) Technically Strong. Comparative advantage wins technology races, economic transactions are opportunity costs/ slight disassortative in the manner. Everyone builds on top of an almost a similar absolute advantage, it's optimal for your upstream suppliers. (Eg. basic access to LLMs and cloud compute is universal expectation in 2025).
+1) Technically Strong. Comparative advantage wins technology races, economic transactions are opportunity costs/ slight disassortative in the manner. Everyone builds on top of an almost a similar absolute advantage, it's optimal for one's upstream suppliers. (Eg. basic access to LLMs and cloud compute is universal expectation in 2025).
 
 2) Self-Conscious. Ability to understand nuance, high-frequency iterative self correction and alignment.
 
@@ -102,13 +106,13 @@ What a recruiter can do:
 
 3) Learn about their field (20 hour rule) and probe their technical and specific opinions.
 
-4) Self-Improvement. By assortativity of social relationships/ understanding the only way to meet, understand, and retain talent is by growing into this space yourself.
+4) Self-Improvement. By assortativity of social relationships/ understanding the only way to meet, understand, and retain talent is by growing into this space oneself.
 
 5) Learn about the people they surround themselves with, talent is highly assortative. 
 
-### Tangible Signals:
+### Tangible Signals Strong Startup Founding:
 
-Collecting Thano's ring for successful founding team. Just like the ordinal rule of a startup is to focus on the tangible knowable and controllable with respect to their customer. The recruiter/ investor will need the same. Below are way cleaner.
+(Inverse Engineered from Sequoia and YC applications)
 
 1) Unique Market Insight.
 
@@ -116,13 +120,13 @@ Collecting Thano's ring for successful founding team. Just like the ordinal rule
 
 3) Formal / Informal Experience in the field. My intuition is mimimal of 6-8 years of hard presistence or learning before the point of exponential success (needed to achieve points 1 and 2 above). The 10,000 hour rule doesn't lie for the bare minimum of 1 percent outcomes: Reading the success of: Larry Page, Sergey Brin, Elon Musk, Mark Zuckerberg, Bill Gates, Warren Buffet by their childhood. Or Bezos to turn Amazon burn rate around, Zhang Yiming going from recommendation systems in real estate to social media to Tiktok. (Also from my experience of friends landing quant/ other high paying jobs jobs post bachelors / masters without fail).
 
-4) Innate curiosity and desire to question history and the status quo. The only people who dare to rewrite history is those who question it. You can find this by their reading and writing
+4) Innate curiosity and desire to question history and the status quo. The only people who dare to rewrite history is those who question it. One can find this by their reading and writing
 
-5) Intelligence, hard intelligence. You can find hard intelligence through degree signaling through educational experience, multiple second hand recommendations from people who you think are intelligent and trust (aggregate truthful social mechanisms), or project/ work experince (formal or informal). (this one is is a bit more innate).
+5) Intelligence, hard intelligence. One can find hard intelligence through degree signaling through educational experience, multiple second hand recommendations from people who one think are intelligent and trust (aggregate truthful social mechanisms), or project/ work experince (formal or informal). (this one is is a bit more innate).
 
 6) Self-consciousness and world-consciousness: intuition for the tangible knowlable and controllable (Ability to find ordinal direction and clarity in uncertainty, decision space for things to solve is large but focusing on what matters is important). Probably have to talk to them on this or read what they write. 
 
-What if you can't collect any of above? Or can't tell? Perhaps resolution to soft signals that they might collect the bare minimum of the 5 above at one point in time due to problem-founder fit coupled with presistence, either the technical or the market issue is interesting to them, best case both, that innately this is "them" being themselves to solve. But patience is needed to wait for that.
+What if above is hard to collect? Or can't tell? Perhaps resolution to soft signals that they might collect the bare minimum of the 5 above at one point in time due to problem-founder fit coupled with presistence, either the technical or the market issue is interesting to them, visible by well-founded opinions, best case both, that innately this is "them" being themselves to solve. But patience is needed to wait for that. The combination of optimizing the hell out of very specifically their uniqueness and the controllable is what can make them successful, comparative advantage again not absolute units of productivity, transactions are by nature disassortative, everyone wants either what they admire or don't have.
 
 
 ## Why Vision Matters
@@ -141,20 +145,11 @@ If technology solves individual problems, once the process/ product is done with
 ### Physical View of Startup
 <img src="/images/physics-of-startup-diagram.png" alt="Physical View of Startup">
 
-AI transition is confusing if you look at it from the zeroth order view, no one knows "what" is the future of AI what to develop/ invest.
+AI transition is confusing if one looks at it from the zeroth order view, no one knows "what" is the future of AI what to develop/ invest.
 
 But first order is more obvious we know we should learn AI related skills because they're frontier.
 
 Second order has never changed, it's why the Stoics have lasted 2000+ years. Positive sum of technology over the long run is consistent. Dale Carnegie's "How to Win Friends and Influence People" is still on the shelves. The value in AI is not in doing but perhaps it's ability to learn and replicate, the value of AI talent is perhaps on teaching it how to meta learn better and better towards specified values. 
-
-
-# Caveats 
-
-## Speed
-
-Speed as in time to market matters when the end outcome is objectively clear, you know when you have a successful product when it does exactly XYZ. Industries: Automation, B2B entreprise/ management CRUD/ flows. And speed often requires an ordinal direction.
-
-Talent matters more when your market edge is algorithmic, design, infrastructure, technological, or consumer taste ~ however, these are hard edges to win and requires consistency of innovation and taste, only provided by the people you hire. Lovable was by far not the first website/ full stack code free platform, neither was cursor code editor, Tiktok and Instagram not the first consumer tech products. TSMC not the first semi-conductor foundry, BYD the first electric vechicle. 
 
 
 # Conclusion
