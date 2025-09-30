@@ -59,23 +59,22 @@ There's an interesting interview between [Huberman -- Marc Andressen](https://op
 
 
 
-
-
-
 ### Side notes and implications:
 
 1) In social structures there's a strong positive assortativity of human interactions with other humans. Similar to collaborative filtering can best used to tell if a product is good between two friends. People want to work with people similar to themselves, hiring matters, founder matters. Non-linear effect goes both ways, smart people can hire their smarter friends and average people could hire people more mediocre than them, causing a non-linear decay in talent. 
 
-2) In the [The Mathematics of Love | Hannah Fry](https://www.youtube.com/watch?v=yFVXsjVdvmY), Hannah Fry talks in the 3rd point about how avoidance of addressing problems/ suppression leads to suboptimal outcomes in multi-agent games from Gottmann-Mathematical equations. Analogously 2 Self-conscious solves internal conflicts, 3 Social intelligence and 4 are for in office, person-person conflict. Elon Musk was notably direct, however he was also socially intelligent to stay in good terms with the Founders Fund and people who ousted him out of paypal to later save his other companies 10+ years down the road. (Objective self optimization).
+2) For point 4 above. And then there's the what if employees or senior managers try to influence the company in a non-optimal/ short-term direction? This requires exactly above, to know the vision and the be able to be firm. 
 
-3) For point 4 above. And then there's the what if employees or senior managers try to influence the company in a non-optimal/ short-term direction? This requires exactly above, to know the vision and the be able to be firm. 
+3) An interesting book [The Tipping Point, Malcolm Gladwell](https://en.wikipedia.org/wiki/The_Tipping_Point) which talks about the nonlinear effects epidemic spread of products or things which happen over night, with massive, wow/ aha factor. But before that it often seems like crickets for a long time. But by the topology how society works and inequality of weight of events which happens to us that's just what is true. (Nvidia, SpaceX, OpenAI). 
 
-4) An interesting book [The Tipping Point, Malcolm Gladwell](https://en.wikipedia.org/wiki/The_Tipping_Point) which talks about the nonlinear effects epidemic spread of products or things which happen over night, with massive, wow/ aha factor. But before that it often seems like crickets for a long time. But by the topology how society works and inequality of weight of events which happens to us that's just what is true. (Nvidia, SpaceX, OpenAI). 
+4) Musk once said the only truths are physics, question the requirements and why they're there.
 
-5) Musk once said the only truths are physics, question the requirements and why they're there.
+5) For judgement and intuition growth 2 Buffett used to read a every single paper and catelog on businesses since he was a child. 
 
-6) For judgement and intuition growth 2 Buffett used to read a every single paper and catelog on businesses since he was a child. 
-7) At scale, innovation is a mix of explore and exploit, curiosity. [Hyejin Youn](http://hyoun.me/research/#innovation). Biggest innovations are often the connections between two vastly different fields. Bezos and Musk and also Google run this style of innovation.
+6) At scale, innovation is a mix of explore and exploit, curiosity. [Hyejin Youn](http://hyoun.me/research/#innovation). Biggest innovations are often the connections between two vastly different fields. Bezos and Musk and also Google run this style of innovation.
+
+
+
 
 
 
