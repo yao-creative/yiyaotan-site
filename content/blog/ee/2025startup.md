@@ -27,7 +27,7 @@ YC talks about this, execution not just idea. Simply put, companies are dynamic 
 
 ## Why People Matter
 
-Mathematically, if startups are a process of constant innovation and being on the edge. If we think of the actions a startup takes as a sum individuals represented by Markov decision processes with new states. The only universally controllable common prior behind every action/ change is the person hired. They might be self-evolving themselves, that's a contextual caveat, but picking the correct one for the process. But also by observation almost all of the most successful startups without fail were spawned out of the most talented cofounding teams, by universality it's probably an assumed bare minimum. The Paypal Mafia, OpenAI, the fabled "Google Engineer" etc. just to name a few.
+Mathematically, if startups are a process of constant innovation and being on the edge, in 1968, Lee Kuan Yew visited Harvard on a sabbatical, he realized this fact and made textile and then manufacturing all stepping stones of Singapore's economy in 1970s and 1990s transitions respectively. If we think of the actions a startup takes as a sum individuals represented by Markov decision processes with new states. The only universally controllable common prior behind every action/ change is the person hired. They might be self-evolving themselves, that's a contextual caveat, but picking the correct one for the process. But also by observation almost all of the most successful startups without fail were spawned out of the most talented cofounding teams, by universality it's probably an assumed bare minimum. The Paypal Mafia, OpenAI, the fabled "Google Engineer" etc. just to name a few.
 
 ### What makes a good founder?
 
@@ -126,7 +126,15 @@ What a recruiter can do:
 
 6) Self-consciousness and world-consciousness: intuition for the tangible knowlable and controllable (Ability to find ordinal direction and clarity in uncertainty, decision space for things to solve is large but focusing on what matters is important). Probably have to talk to them on this or read what they write. 
 
-What if above is hard to collect? Or can't tell? Perhaps resolution to soft signals that they might collect the bare minimum of the 5 above at one point in time due to problem-founder fit coupled with presistence, either the technical or the market issue is interesting to them, visible by well-founded opinions, best case both, that innately this is "them" being themselves to solve. But patience is needed to wait for that. The combination of optimizing the hell out of very specifically their uniqueness and the controllable is what can make them successful, comparative advantage again not absolute units of productivity, transactions are by nature disassortative, everyone wants either what they admire or don't have.
+What if above is hard to collect? Or can't tell? Perhaps resolution to soft signals that they might collect the bare minimum of the 5 above at one point in time due to problem-founder fit coupled with presistence, either the technical or the market issue is interesting to them, visible by well-founded opinions, best case both, that innately this is "them" being themselves to solve. But patience is needed to wait for that. 
+
+How to know if it's the correct thing to wait and bet on? Two simple questions:
+
+1. Does it bring intrinsic value to "human-oriented" society? (Economics is just a web of multi-step transaction of human values)
+
+2. Is it hard and the technology to do it required is frontier? (Transactions reward comparative advantage)
+
+The combination of optimizing the hell out of very specifically their uniqueness and the controllable is what can make them successful, comparative advantage again not absolute units of productivity, transactions are by nature disassortative, everyone wants either what they admire or don't have. Find one thing and do it like no one else. Mark Zuckerberg said this to Josh Miller (Arc Broswer) in the Browser Company Podcast.
 
 
 ## Why Vision Matters
