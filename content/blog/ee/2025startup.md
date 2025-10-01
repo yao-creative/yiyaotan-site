@@ -30,11 +30,11 @@ YC talks about this, execution not just idea. Simply put, companies are dynamic 
 Mathematically, if startups are a process of constant innovation and being on the edge, in 1968, Lee Kuan Yew visited Harvard on a sabbatical, he realized this fact and made textile and then manufacturing all stepping stones of Singapore's economy in 1970s and 1990s transitions respectively. If we think of the actions a startup takes as a sum individuals represented by Markov decision processes with new states. The only universally controllable common prior behind every action/ change is the person hired. They might be self-evolving themselves, that's a contextual caveat, but picking the correct one for the process. But also by observation almost all of the most successful startups without fail were spawned out of the most talented cofounding teams, by universality it's probably an assumed bare minimum. The Paypal Mafia, OpenAI, the fabled "Google Engineer" etc. just to name a few.
 
 
-There's an interesting interview between [Huberman -- Marc Andressen](https://open.spotify.com/episode/0qkK5lNuRFJq0o11Js5Hvl) which highlights the traits of good founders in a concise manner: self-conscious, disagreable, patient, hardworking, and creative.
+There's an interesting interview between [Huberman -- Marc Andressen](https://open.spotify.com/episode/0qkK5lNuRFJq0o11Js5Hvl) which highlights the traits of good founders in a concise manner: self-conscious, disagreable, patient, hardworking, and creative. I'd like to add: optimistic and realistic too.
 
 
 
-### How to spot technical founders/ or recruit a founding team.
+## How to spot technical founders/ or recruit a founding team.
 
 Signaling on their side:
 
@@ -46,7 +46,7 @@ Signaling on their side:
 
 4) Self-reflective in conversations 
 
-5) Constructive conversations
+5) Constructive conversations, the role of a conversation is solution oriented, they way a founder always moves is upwards.
 
 6) Comfort with directness
 
