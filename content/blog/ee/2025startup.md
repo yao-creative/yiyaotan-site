@@ -119,4 +119,4 @@ Second order has never changed, it's why the Stoics have lasted 2000+ years. Pos
 
 
 # Conclusion
-Fundamental behaviors and patterns of the individual and the aggregate of society never changes, there are a few clear constants to navigate by. The rest is understanding nuance. 
+Fundamental behaviors and patterns of the individual and the aggregate of society never changes, there are a few clear constants to navigate by. The rest is understanding nuance. Why do we say history doesn't repeat but rhymes? Situations will never be the same but human behavior and economics is always the same.
