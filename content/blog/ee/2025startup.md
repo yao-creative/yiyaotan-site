@@ -38,7 +38,7 @@ There's an interesting interview between [Huberman -- Marc Andressen](https://op
 
 Signaling on their side:
 
-1) Has specific technical opinions/ tastes, taste is developped over time and from doing, the strong tastes signifies that they care or are passionate about it with the ability.
+1) Has specific technical opinions/ tastes, taste is developped over time and from doing, the strong and specific tastes signifies that they care or are passionate about it and have experience.
 
 2) Consistent/ large scale projects finished end to end.
 
@@ -88,9 +88,9 @@ How to know if it's the correct thing to wait and bet on? Four simple questions:
 
 2. Is it hard and the technology to do it required is frontier? (Transactions reward comparative advantage)
 
-3. Does it make the world a bigger place? (Are we trying to reimplement solutions with technology to old problems and take their market share, or solve the problem that the market becomes a larger place or the value to consumer is higher?)
+3. Does it make the world a bigger place? (Arbitraging efficiency of either distribution, law, or operation of other companies; or creating new markets, new opportunities, higher efficiency of old market?)
 
-4. Do you know the **specific** customer base and will this still be important to them when it launches?
+4. Do you know the **specific** customer base and is solving the problem intrinsically meaning.
 
 The combination of optimizing the hell out of very specifically their uniqueness and the controllable is what can make them successful, comparative advantage again not absolute units of productivity, transactions are by nature disassortative, everyone wants either what they admire or don't have. The price they'd pay can be roughly estimated by the distance between the value and difficulty of obtaining the wanted and the want-er. Find one thing and do it like no one else. Mark Zuckerberg said this to Josh Miller (Arc Broswer) in the Browser Company Podcast.
 
