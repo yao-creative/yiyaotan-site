@@ -126,7 +126,7 @@ What a recruiter can do:
 
 What if above is hard to collect? Or can't tell? Perhaps resolution to soft signals that they might collect the bare minimum of the 5 above at one point in time due to problem-founder fit coupled with presistence, either the technical or the market issue is interesting to them, visible by well-founded opinions, best case both, that innately this is "them" being themselves to solve. But patience is needed to wait for that. 
 
-How to know if it's the correct thing to wait and bet on? Three simple questions:
+How to know if it's the correct thing to wait and bet on? Four simple questions:
 
 1. Does it bring intrinsic value to "human-oriented" society? (Economics is just a web of multi-step transaction of human values, further away, the more abstraction and fuzziness)
 
@@ -134,7 +134,9 @@ How to know if it's the correct thing to wait and bet on? Three simple questions
 
 3. Does it make the world a bigger place? (Are we trying to reimplement solutions with technology to old problems and take their market share, or solve the problem that the market becomes a larger place or the value to consumer is higher?)
 
-The combination of optimizing the hell out of very specifically their uniqueness and the controllable is what can make them successful, comparative advantage again not absolute units of productivity, transactions are by nature disassortative, everyone wants either what they admire or don't have. Find one thing and do it like no one else. Mark Zuckerberg said this to Josh Miller (Arc Broswer) in the Browser Company Podcast.
+4. Do you know the **specific** customer base and will this still be important to them when it launches?
+
+The combination of optimizing the hell out of very specifically their uniqueness and the controllable is what can make them successful, comparative advantage again not absolute units of productivity, transactions are by nature disassortative, everyone wants either what they admire or don't have. The price they'd pay can be roughly estimated by the distance between the value and difficulty of obtaining the wanted and the want-er. Find one thing and do it like no one else. Mark Zuckerberg said this to Josh Miller (Arc Broswer) in the Browser Company Podcast.
 
 
 ## Why Vision Matters
