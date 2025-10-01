@@ -72,7 +72,7 @@ What a recruiter can do:
 
 2) Unique Technical Insight - Eric Schmidt used to ask each engineer over the new project they were working on this question (more broadly unique insight)
 
-3) Formal / Informal Experience in the field. My intuition is mimimal of 6-8 years of hard presistence or learning before the point of exponential success (needed to achieve points 1 and 2 above). The 10,000 hour rule doesn't lie for the bare minimum of 1 percent outcomes: Reading the success of: Larry Page, Sergey Brin, Elon Musk, Mark Zuckerberg, Bill Gates, Warren Buffet by their childhood. Or Bezos to turn Amazon burn rate around, Zhang Yiming going from recommendation systems in real estate to social media to Tiktok. (Also from my experience of friends landing quant/ other high paying jobs jobs post bachelors / masters without fail).
+3) Formal / Informal Experience in the field. My intuition is mimimal of 6-8 years of hard presistence or learning before the point of exponential success (needed to achieve points 1 and 2 above). The 10,000 hour rule doesn't lie for the bare minimum of 1 percent outcomes: Reading the success of: Larry Page, Sergey Brin, Elon Musk, Mark Zuckerberg, Bill Gates, Warren Buffet by their childhood. Zhang Yiming going from recommendation systems in real estate to social media to Tiktok. (Also from my experience of friends landing quant/ other high paying jobs jobs post bachelors / masters without fail).
 
 4) Innate curiosity and desire to question history and the status quo. The only people who dare to rewrite history is those who question it. One can find this by their reading and writing
 
