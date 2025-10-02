@@ -16,7 +16,7 @@ Any large major technology company has always had some algorithmic or infrastruc
 
 I'll believe that the core principles of startup, which have never changed. That's assuming that agree that the subject real less than 1% world movers edge of the long tailed distribution.
 
-Name any successful product from this given category we talk about and one can always pinpoint almost exactly something they do relatively better than everyone. Try this: for any of you subscriptions or products you use personally free and especially paid, personal or entreprise, you can say "I use X because of Y" in one clear sequential line of thought. 
+Name any successful product from this given category we talk about and one can always pinpoint almost exactly something they do relatively better than everyone. Try this: for any of your subscriptions or products you use: personally free and especially paid, personal or entreprise, you can say "I use X because of Y" in one clear sequential line of thought. 
 
 # Principles 
 
