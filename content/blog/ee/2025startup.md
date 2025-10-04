@@ -78,7 +78,7 @@ What a recruiter can do:
 
 6) Self-consciousness and world-consciousness: intuition for the tangible knowlable and controllable (Ability to find ordinal direction and clarity in uncertainty, decision space for things to solve is large but focusing on what matters is important). Probably have to talk to them on this or read what they write. 
 
-7) Abundance mindset. More problems = more value to provide. Choppy upwards and into the right, most things aren't perfect, if they were they'd be too easy and then added value margin would be low, the only correct answer is to figure them out.
+7) Abundance mindset/ solution oriented mindset. More problems = more value to provide. Choppy upwards and into the right, most things aren't perfect, if they were they'd be too easy and then added value margin would be low, the only correct answer is to figure them out.
 
 8) Persistence/ patience, this one is hard, I'm still figuring out how to tell as a lot of the time it's contextual to a person finding what they want to do and sureness about it. 99% of one's investment gains will be in the future, Jim Simons, Buffett, Bezos, because the business compounds, as in tech the value added is always incremental as infra is always built on top of itself or refactored, and the world's gdp growth is measured by compound not absolute value, transactions and value are again relative not absolute.
 
