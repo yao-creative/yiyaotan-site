@@ -32,8 +32,6 @@ Mathematically, if startups are a process of constant innovation and being on th
 
 There's an interesting interview between [Huberman -- Marc Andressen](https://open.spotify.com/episode/0qkK5lNuRFJq0o11Js5Hvl) which highlights the traits of good founders in a concise manner: self-conscious, disagreable, patient, hardworking, and creative. I'd like to add: optimistic and realistic too.
 
-
-
 ## How to spot technical founders/ or recruit a founding team.
 
 Signaling on their side:
@@ -79,6 +77,10 @@ What a recruiter can do:
 5) Intelligence, hard intelligence. One can find hard intelligence through degree signaling through educational experience, multiple second hand recommendations from people who one think are intelligent and trust (aggregate truthful social mechanisms), or project/ work experince (formal or informal). (this one is is a bit more innate).
 
 6) Self-consciousness and world-consciousness: intuition for the tangible knowlable and controllable (Ability to find ordinal direction and clarity in uncertainty, decision space for things to solve is large but focusing on what matters is important). Probably have to talk to them on this or read what they write. 
+
+7) Abundance mindset. More problems = more value to provide. Choppy upwards and into the right, most things aren't perfect, if they were they'd be too easy and then added value margin would be low, the only correct answer is to figure them out.
+
+8) Persistence/ patience, this one is hard, I'm still figuring out how to tell as a lot of the time it's contextual to a person finding what they want to do and sureness about it. 99% of one's investment gains will be in the future, Jim Simons, Buffett, Bezos, because the business compounds, as in tech the value added is always incremental as infra is always built on top of itself or refactored, and the world's gdp growth is measured by compound not absolute value, transactions and value are again relative not absolute.
 
 What if above is hard to collect? Or can't tell? Perhaps resolution to soft signals that they might collect the bare minimum of the 5 above at one point in time due to problem-founder fit coupled with presistence, either the technical or the market issue is interesting to them, visible by well-founded opinions, best case both, that innately this is "them" being themselves to solve. But patience is needed to wait for that. 
 
