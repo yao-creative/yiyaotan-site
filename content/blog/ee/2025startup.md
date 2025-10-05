@@ -6,6 +6,8 @@ slug = '2025startup'
 
 Status: in-construction (Sept 2025)
 
+Philsophically: I'd hope to maximize I(Success, Points in this Article) averaged over the dimensional conditioning of cumulative reader attention.
+
 2025 seems to have brought a lot of confusion to the way tech builds startups. Perhaps vibe-coding and automation has made us re-question the need for technical founders. The short answer is no, nothing much has changed. Perhaps the exact action the what and what has, but the technicality of engineering has always been a universal constant. Perhaps it's shifted into deeper tech or more AI/ML based engineering and not the tradition apps that was true to be so 5 years ago. 
 
 Perhaps 2025 just meant definition of startup has changed. The technical will always have a comparative advantage over the non and to build any moat. "Startup" is always something hard for it's time, doing something a normal person can do perhaps means it's a 2025 business. Technology also pays premium over the frontiers like Nvidia, OpenAI etc... The ordinal rule of economics is transaction is measured by opportunity costs, comparative advantage not absolute productivity, thus the tackling of the difficult is a universal constant.
