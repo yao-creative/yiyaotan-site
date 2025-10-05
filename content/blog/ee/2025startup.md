@@ -82,7 +82,7 @@ What a recruiter can do:
 
 8) Persistence/ patience and focus and optimizing the hell out of a singular frontier. 6-9 years again is my intuition of minimum number of years it takes to hit powerlaw growth of products within companies. This is before even creating secondary products or expanding. Facebook, Google search of Google, Tiktok algorithm, Notion, Tesla, Space X resusable rockets, OpenAI on GPTs, Amazon in Ecommerce, Figma in Design, Nvidia, and Vercel's framework oriented web development.
 
-
+9) Outsized bias with human oriented values - Bias over time furthers the difference market and startup differential. But how do thread the fineline between genius and absurdity? If the mission/ vision seems remotely useful for society anchors the correct ordinal direction of bias.
 
 What if above is hard to collect? Or can't tell? Perhaps resolution to soft signals that they might collect the bare minimum of the 5 above at one point in time due to problem-founder fit coupled with presistence, either the technical or the market issue is interesting to them, visible by well-founded opinions, best case both, that innately this is "them" being themselves to solve. But patience is needed to wait for that. 
 
