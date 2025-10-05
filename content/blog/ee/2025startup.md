@@ -70,7 +70,7 @@ What a recruiter can do:
 
 2) Unique Technical Insight - Eric Schmidt used to ask each engineer over the new project they were working on this question (more broadly unique insight)
 
-3) Formal / Informal Experience in the field. My intuition is mimimal of 6-8 years of hard presistence or learning before the point of exponential success (needed to achieve points 1 and 2 above). The 10,000 hour rule doesn't lie for the bare minimum of 1 percent outcomes: Reading the success of: Larry Page, Sergey Brin, Elon Musk, Mark Zuckerberg, Bill Gates, Warren Buffet by their childhood. Zhang Yiming going from recommendation systems in real estate to social media to Tiktok. (Also from my experience of friends landing quant/ other high paying jobs jobs post bachelors / masters without fail).
+3) Formal / Informal Experience in the field which has to be frontier. My intuition is mimimal of 6-8 years of hard presistence or learning before the point of exponential success (needed to achieve points 1 and 2 above). The 10,000 hour rule doesn't lie for the bare minimum of 1 percent outcomes: Reading the success of: Larry Page, Sergey Brin, Elon Musk, Mark Zuckerberg, Bill Gates, Warren Buffet by their childhood. Zhang Yiming going from recommendation systems in real estate to social media to Tiktok. (Also from my experience of friends landing quant/ other high paying jobs jobs post bachelors / masters without fail).
 
 4) Innate curiosity and desire to question history and the status quo. The only people who dare to rewrite history is those who question it. One can find this by their reading and writing
 
@@ -80,11 +80,13 @@ What a recruiter can do:
 
 7) Abundance mindset/ solution oriented mindset. More problems = more value to provide. Choppy upwards and into the right, most things aren't perfect, if they were they'd be too easy and then added value margin would be low, the only correct answer is to figure them out.
 
-8) Persistence/ patience, this one is hard, I'm still figuring out how to tell as a lot of the time it's contextual to a person finding what they want to do and sureness about it. 99% of one's investment gains will be in the future, Jim Simons, Buffett, Bezos, because the business compounds, as in tech the value added is always incremental as infra is always built on top of itself or refactored, and the world's gdp growth is measured by compound not absolute value, transactions and value are again relative not absolute.
+8) Persistence/ patience and focus and optimizing the hell out of a singular frontier. 6-9 years again is my intuition of minimum number of years it takes to hit powerlaw growth of products within companies. This is before even creating secondary products or expanding. Facebook, Google search of Google, Tiktok algorithm, Notion, Tesla, Space X resusable rockets, OpenAI on GPTs, Amazon in Ecommerce, Figma in Design, Nvidia, and Vercel's framework oriented web development.
+
+
 
 What if above is hard to collect? Or can't tell? Perhaps resolution to soft signals that they might collect the bare minimum of the 5 above at one point in time due to problem-founder fit coupled with presistence, either the technical or the market issue is interesting to them, visible by well-founded opinions, best case both, that innately this is "them" being themselves to solve. But patience is needed to wait for that. 
 
-How to know if it's the correct thing to wait and bet on? Perhaps it's down to consumer nichee understanding: Who's the customer and will the solution solve the problem and still be a meaningful one to solve with my solution when I launch?
+How to know if it's the correct thing to wait and bet on? Perhaps it's down to consumer nichee understanding: Who's the customer and will the solution solve the problem and still be a meaningful one to solve when I launch?
 
 But more accurately Sequoia's Arc has a better framework explanation in: [Sequoia PMF](https://medium.com/@sharanharsoor/the-complete-guide-to-embeddings-and-rag-from-theory-to-production-758a16d747ac)
 
