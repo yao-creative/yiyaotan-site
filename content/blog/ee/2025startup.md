@@ -6,7 +6,7 @@ slug = '2025startup'
 
 Status: in-construction (Sept 2025)
 
-Philsophically: I'd hope to maximize I(Success, Points in this Article) averaged over the dimensional conditioning of cumulative reader attention.
+Philsophically: I'd hope to maximize I(Late Stage Power Law Success, Points in this Article, Early Stage) averaged over the dimensional conditioning of cumulative reader attention.
 
 2025 seems to have brought a lot of confusion to the way tech builds startups. Perhaps vibe-coding and automation has made us re-question the need for technical founders. The short answer is no, nothing much has changed. Perhaps the exact action the what and what has, but the technicality of engineering has always been a universal constant. Perhaps it's shifted into deeper tech or more AI/ML based engineering and not the tradition apps that was true to be so 5 years ago. 
 
@@ -82,7 +82,7 @@ What a recruiter can do:
 
 7) Abundance mindset/ solution oriented mindset. More problems = more value to provide. Choppy upwards and into the right, most things aren't perfect, if they were they'd be too easy and then added value margin would be low, the only correct answer is to figure them out.
 
-8) Persistence/ patience and focus and optimizing the hell out of a singular frontier. 6-9 years again is my intuition of minimum number of years it takes to hit powerlaw growth of products within companies. This is before even creating secondary products or expanding. Facebook, Google search of Google, Tiktok algorithm, Notion, Tesla, Space X resusable rockets, OpenAI on GPTs, Amazon in Ecommerce, Figma in Design, Nvidia, and Vercel's framework oriented web development.
+8) Persistence/ patience and focus and optimizing the hell out of a singular frontier. 6-9 years again is my intuition of minimum number of years it takes to hit powerlaw growth of products within companies. This is before even creating secondary products or expanding. Facebook, Google search of Google, Tiktok algorithm, Notion, Tesla, Space X resusable rockets, OpenAI on GPTs, Amazon in Ecommerce, Figma in Design, Nvidia, and Vercel's framework oriented web development. It matters in growing towards the oriental direction and minimizing the variance of luck and misfortune with higher dependence on one's work/ consistency. (CLT on super martingales)
 
 9) Outsized bias with human oriented values - Bias over time furthers the difference market and startup differential. But how do thread the fineline between genius and absurdity? If the mission/ vision seems remotely useful for society anchors the correct ordinal direction of bias as the global loss function.
 
