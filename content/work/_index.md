@@ -16,7 +16,7 @@ Also a recent article if you're interested [2025 Startup. Good Startup? Intuitio
 
 # Some random theories I have relating to my work:
 
-0. If I were to generalize: the role of the entrepreneur would be to make the world a bigger place for people. But admittedly this isn't measurable, but perhaps measuring revealed preferences is an easier way. Most other goals and values are valid but are approximating metrics with incomplete mutual information with this or sometimes multi step abstracted but relevant.
+0. If I were to generalize: the role of the entrepreneur would be to make the world a bigger place for people. But admittedly this isn't measurable, but perhaps measuring revealed preferences is an easier way. Most other goals and values are valid but are approximating metrics with incomplete mutual information with this or sometimes multi-step abstracted but relevant.
 
 1. Small world's is nature's way of self organization, information efficiency with energy constraints through heterogeneous and dynamic systems. Balances the growth of the collective as knowledge/ information compounds, with locality bias for innovation. Gossip Protocols, Pandemic Spread, Supply Chain Resilience, Sparse Transformers.
 
@@ -26,7 +26,7 @@ Also a recent article if you're interested [2025 Startup. Good Startup? Intuitio
 
 4. Economic transactions (I guess applicable for the individual because it's all of what we can control.) Are all opportunity cost pricing (thus "comparative advantage" priced on disassortativity) on a heterogenous topology that every individual is a finite being in a larger world. We want what we don't have. Want - can achieve or have = provider profit
 
-5. Locality bias is what builds the Differential gradient between the want and can't have in point 4
+5. Locality bias of the tech-entrepreneur's belief of what to work-on is what builds the differential gap of value between the customer and the service they receive.
 
 6. Businesses who accurately approximate the value they bring into the market are more stable. Those with inaccurate business models or serve for max arbitrage over short term attract competition or regulation. Thinking Amazon and Stripe counter intuitive pricing to traditional max profits optimizing over the closed systems of their own platforms and access to users through Meta and Google running on truthful mechanisms are also included. Non big but non dominant market players. This includes both business model and continuous innovation for the consumer. But due to the locality of information and finiteness of compute we can only try our best.
 
