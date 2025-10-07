@@ -14,6 +14,24 @@ Connect with me via my [LinkedIn](https://www.linkedin.com/in/yi-yao-t-9719301a3
 
 Also a recent article if you're interested [2025 Startup. Good Startup? Intuitions, mathematical perspective](/blog/ee/2025startup).
 
+# Some random theories I have relating to my work:
+
+0. If I were to generalize: the role of the entrepreneur would be to make the world a bigger place for people. But admittedly this isn't measurable, but perhaps measuring revealed preferences is an easier way. Most other goals and values are valid but are approximating metrics with incomplete mutual information with this or sometimes multi step abstracted but relevant.
+
+1. Small world's is nature's way of self organization, information efficiency with energy constraints through heterogeneous and dynamic systems. Balances the growth of the collective as knowledge/ information compounds, with locality bias for innovation. Gossip Protocols, Pandemic Spread, Supply Chain Resilience, Sparse Transformers.
+
+2. Software is an abstraction of point 1 as its the fastest mode of information transfer. Even LLMs in their information compression which is what makes them so attractive.
+
+3. Well designed Monetary mechanisms are more efficient as they provide continous approximation of human preferences (Voting Systems, Arrow's impossibility theorem and relaxations). Which is why businesses processes, decisions and innovation moves exponentially faster than governments. Their pitfall is their incentives dependent on their business model /vision where everything else is optimized on. Innately they can only be pseudometrics and have to be locally biased due to the fundamental constraints of incomplete information of preferences and chaotic nature of society. Also necessary to build comparative advantage for better margins. First principles thinking is a semantic way approximate this.
+
+4. Economic transactions (I guess applicable for the individual because it's all of what we can control.) Are all opportunity cost pricing (thus "comparative advantage" priced on disassortativity) on a heterogenous topology that every individual is a finite being in a larger world. We want what we don't have. Want - can achieve or have = provider profit
+
+5. Locality bias is what builds the Differential gradient between the want and can't have in point 4
+
+6. Businesses who accurately approximate the value they bring into the market are more stable. Those with inaccurate business models or serve for max arbitrage over short term attract competition or regulation. Thinking Amazon and Stripe counter intuitive pricing to traditional max profits optimizing over the closed systems of their own platforms and access to users through Meta and Google running on truthful mechanisms are also included. Non big but non dominant market players. This includes both business model and continuous innovation for the consumer. But due to the locality of information and finiteness of compute we can only try our best.
+
+7. History rhymes but never repeats itself because physical laws are constant. Human-societal behavior has patterns causes ergodicity. Absolute position is time and path dependent. History is a function of itself and so are societal reactions.
+
 # Some resources I find interesting or resourceful and inspire my work:
 
 ## Machine Learning
