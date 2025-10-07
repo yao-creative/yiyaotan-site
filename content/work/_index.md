@@ -32,6 +32,8 @@ Also a recent article if you're interested [2025 Startup. Good Startup? Intuitio
 
 7. History rhymes but never repeats itself because physical laws are constant. Human-societal behavior has patterns causes ergodicity. Absolute position is time and path dependent. History is a function of itself and so are societal reactions.
 
+8. Arbitrage is caused by information asymmetry. Technology speeds up how information is transfered: books, telegraph, cameras, phone, television, computers, duplication of pdfs, internet, websearch, mobile phones, increasingly robust stock market for price discovery, AI make it hard to hold aribtrage in these asymmetries in society and democratizes access, causing for more efficient innovation and more accurate tracking of societal progress.
+
 # Some resources I find interesting or resourceful and inspire my work:
 
 ## Machine Learning
