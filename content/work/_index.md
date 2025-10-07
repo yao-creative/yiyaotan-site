@@ -26,7 +26,7 @@ Also a recent article if you're interested [2025 Startup. Good Startup? Intuitio
 
 4. Economic transactions (I guess applicable for the individual because it's all of what we can control.) Are all opportunity cost pricing (thus "comparative advantage" priced on disassortativity) on a heterogenous topology that every individual is a finite being in a larger world. We want what we don't have. Want - can achieve or have = provider profit
 
-5. Locality bias of the tech-entrepreneur's belief of what to work-on is what builds the differential gap of value between the customer and the service they receive.
+5. Locality bias of the tech-entrepreneur's belief of what to work-on is what builds the differential gap of value between the customer and the service/ value they receive.
 
 6. Businesses who accurately approximate the value they bring into the market are more stable. Those with inaccurate business models or serve for max arbitrage over short term attract competition or regulation. Thinking Amazon and Stripe counter intuitive pricing to traditional max profits optimizing over the closed systems of their own platforms and access to users through Meta and Google running on truthful mechanisms are also included. Non big but non dominant market players. This includes both business model and continuous innovation for the consumer. But due to the locality of information and finiteness of compute we can only try our best.
 
