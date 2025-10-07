@@ -34,6 +34,8 @@ Also a recent article if you're interested [2025 Startup. Good Startup? Intuitio
 
 8. Arbitrage is caused by information asymmetry. Technology speeds up how information is transfered: books, telegraph, cameras, phone, television, computers, duplication of pdfs, internet, websearch, mobile phones, increasingly robust stock market for price discovery, AI make it hard to hold aribtrage in these asymmetries in society and democratizes access, causing for more efficient innovation and more accurate tracking of societal progress although these two processes are stochastic.
 
+9. Actions and reactions the only things fully controllable by the conscious mind, perhaps understanding them and optimizing the hell out of these crazy metrics is what drives people far.
+
 # Some resources I find interesting or resourceful and inspire my work:
 
 ## Machine Learning
