@@ -36,7 +36,7 @@ Also a recent article if you're interested [2025 Startup. Good Startup? Intuitio
 
 9. Actions and reactions the only things fully controllable by the conscious mind, perhaps understanding them and optimizing the hell out of these crazy metrics is what drives people far.
 
-10. Economic complexity is the ultimate end game that niches get nicher, development is compounding or exponential, power laws get longer. Perhaps to topology of innovation grows along the polar axis of Poincare disk in a sense.
+10. Economic complexity is the ultimate end game that niches get nicher due to specialization for economic margins, development is compounding or exponential, power laws get longer. Perhaps to topology of innovation grows along the polar axis of Poincare disk in a sense.
 
 
 
