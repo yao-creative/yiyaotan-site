@@ -24,7 +24,7 @@ Also a recent article if you're interested [2025 Startup. Good Startup? Intuitio
 
 3. Well designed Monetary mechanisms are problem-oriented-optimization-efficient as they provide continous approximation of human preferences (Voting Systems, Arrow's impossibility theorem and relaxations). Which is why businesses processes, decisions and innovation moves exponentially faster than governments. Although with fuzzy objectives, I'm not as sure. Their pitfall is their incentives dependent on their business model /vision where everything else is optimized on. Innately they can only be pseudometrics and have to be locally biased due to the fundamental constraints of local incomplete information of preferences and chaotic nature of society. Also necessary to build comparative advantage for better margins. First principles thinking is a linguistic way approximate this.
 
-4. B2B Economic transactions are highly anchored on "comparative advantage" priced on disassortativity on a heterogenous topology that every individual is a finite with boundedly rational preferences in a larger world. Want - can achieve or have ~ provider profit.
+4. B2B Economic transactions are highly anchored on "comparative advantage" priced on disassortativity on a heterogenous topology that every individual or company is embedded in a larger world with elasticity function of search speed. Want - can achieve or have ~ provider profit.
 
 5. Locality bias of the tech-entrepreneur's belief of what to work-on is what builds the differential gap of value between the customer and the service/ value they receive.
 
