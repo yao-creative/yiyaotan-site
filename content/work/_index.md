@@ -32,7 +32,7 @@ Also a recent article if you're interested [2025 Startup. Good Startup? Intuitio
 
 7. History rhymes but never repeats itself because physical laws are constant. Human-societal behavior has patterns causes ergodicity. Absolute position is time and path dependent. History is a function of itself and so are societal reactions.
 
-8. Arbitrage is just local optimization over information asymmetry. Technology speeds up how information is transfered: books, telegraph, cameras, phone, television, computers, duplication of pdfs, internet, websearch, mobile phones, increasingly robust stock market for price discovery, and AI. Thus technology smoothens these asymmetries in society and democratizes access, causing for more efficient innovation and more accurate tracking of societal progress, with a caveat that these two processes are fuzzy and stochastic.
+8. Arbitrage is just local optimization over information asymmetry. Technology speeds up how information is transfered: books, telegraph, cameras, phone, television, computers, duplication of pdfs, internet, websearch, mobile phones, increasingly robust stock market for price discovery, and AI. More importantly, society has a bias towards speeding up this information diffusion. Thus technology smoothens these asymmetries in society and democratizes access, causing for more efficient innovation and more accurate tracking of societal progress, with a caveat that these two processes are fuzzy and stochastic.
 
 9. Actions and reactions the only things fully controllable by the conscious mind, perhaps understanding them and optimizing the hell out of these crazy metrics is what drives people far.
 
