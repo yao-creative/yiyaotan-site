@@ -28,7 +28,7 @@ Also a recent article if you're interested [2025 Startup. Good Startup? Intuitio
 
 5. Locality bias of the tech-entrepreneur's belief of what to work-on is what builds the differential gap of value between the customer and the service/ value they receive.
 
-6. Businesses who accurately approximate the value they bring into the market are more stable. Those with inaccurate business models or serve for max arbitrage over short term attract competition or regulation. Thinking Amazon and Stripe counter intuitive pricing to traditional short-term profit maximizing. This includes both business model and continuous innovation for the consumer in the market. But due to the locality of information and finiteness of compute we can only try our best.
+6. Businesses who accurately approximate the value they bring into the market are more stable. Those with inaccurate business models or serve for max arbitrage over short term attract competition or regulation. Thinking Amazon and Stripe counter intuitive pricing to traditional short-term profit maximizing. This includes both business model and continuous innovation for the consumer in the market. But due to the locality of information and finiteness of compute we can only try our best. Squeeze the market and one attracts enemies, tracking the growing the market brings stability and passive revenue. 
 
 7. History rhymes but never repeats itself because physical laws are constant. Human-societal behavior has patterns causes ergodicity. Absolute position is time and path dependent. History is a function of itself and so are societal reactions.
 
