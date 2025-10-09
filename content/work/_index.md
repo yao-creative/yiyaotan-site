@@ -36,7 +36,7 @@ Also a recent article if you're interested [2025 Startup. Good Startup? Intuitio
 
 9. Actions and reactions the only things fully controllable by the conscious mind, perhaps understanding them and optimizing the hell out of these crazy metrics is what drives people far.
 
-10. Economic complexity is the ultimate end game that niches get nicher due to specialization for economic margins, development is compounding or exponential, power laws get longer. Perhaps to topology of innovation grows hyperbolicly if the world's knowledge coudl be drawn like a Poincaré disk.
+10. Economic complexity is the ultimate end game that niches get nicher due to specialization for economic margins, development is compounding or exponential, power laws get longer. Perhaps to topology of innovation grows hyperbolicly if the world's knowledge could be described in a geometric figure like a Poincaré disk.
 
 11. Perhaps in a world of generative AI, in 2025 and onwards, that the world's knowledge is expanding at an exponential rate, the bringing value for creativity embracing continous learning. Creating things from pure imagination which you'd not think possible. Perhaps that's the fun of it :D.
 
