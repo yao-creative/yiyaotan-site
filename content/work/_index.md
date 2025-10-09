@@ -6,7 +6,7 @@ type: "section"
 layout: "section"
 ---
 
-I'm currently working on my startup as CTO, since October 2024, in the Creator Industry, interested in recommendation systems, pricing mechanisms, and AI architectures.
+I'm currently working on my startup as CTO, since October 2024, in the Creator Industry, interested in recommendation systems, pricing mechanisms, and AI architectures. In the midst of the craziness, good things come when we figure out complicate things, and the world is always growing.
 
 They say you can tell a lot about a person by the type of content they consume.
 
@@ -16,7 +16,7 @@ Also a recent article if you're interested [2025 Startup. Good Startup? Intuitio
 
 # Some random theories I have relating to my work:
 
-0. If I were to generalize: the role of the entrepreneur would be to make the world a bigger place for people. But admittedly this isn't measurable, but perhaps measuring revealed preferences is an easier way. Most other goals and values are valid but are approximating metrics with incomplete mutual information with this or sometimes multi-step abstracted but relevant. In the midst of the craziness, good things come when we figure out complicate things, and the world is always growing.
+0. If I were to generalize: the role of the entrepreneur would be to make the world a bigger place for people. But admittedly this isn't measurable, but perhaps measuring revealed preferences is an easier way. Most other goals and values are valid but are approximating metrics with incomplete mutual information with point or sometimes multi-step abstracted but relevant. 
 
 1. Small world's is nature's way of self organization, information efficiency with energy constraints through heterogeneous and dynamic systems. Balances the growth of the collective as knowledge/ information compounds, with locality bias for innovation. Gossip Protocols, Pandemic Spread, Supply Chain Resilience, Sparse Transformers.
 
