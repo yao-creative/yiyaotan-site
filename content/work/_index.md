@@ -107,3 +107,5 @@ For reference, I don't think "AI Agent" is a buzzword just because of the card a
 
 - [Philosophize This! - Steven West](https://open.spotify.com/episode/4EBu2qJEmWzIxgOfj58Hy5?si=64fb302523ad4be2)
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/4EBu2qJEmWzIxgOfj58Hy5?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+The task of the translator inspires my theory of the role of an entrepeneur, making the world larger but in parallel shortening the distance between us and our wants (In a positive sum way).
