@@ -9,8 +9,6 @@ featured_image: '/images/orchestra.jpg'
   
   I'm the one on the left in the photo above :D!
 
-  <!-- Most recent article if you're interested: [2025 Startup. Good Startup? Intuitions, mathematical perspective](/blog/ee/2025startup). -->
-
   My name is Yao. Growing up, I've lived in 5 countries, a total of three continents. 
 
   I've recently finished a MSc in Mathematics and Foundations of Computer Science at the University of Oxford working in the Complexity Economics group led by Doyne Farmer (Inventor of the first wearable computer, founder of the Prediction Company, and Econo-physicist) and supervised by Renaud Lambiotte (Network Community Detection Researcher - Louvain Method). Previously, I graduated with a BSc in Mathematics and Computer Science in École Polytechnique (l'X) in Paris. My cohort was probably the most amazing group of people I've met. I previously also did research in Huawei creating their sparse distributed attention library for NLP and Image Segmentation and Classification in the framework Mindspore.
@@ -24,6 +22,8 @@ featured_image: '/images/orchestra.jpg'
 ---
 
   I think you'll find my [reading](/blog/reading/) section most interesting.
+
+  Most recent article if you're interested: [2025 Startup. Good Startup? Intuitions, mathematical perspective](/blog/ee/2025startup).
 
 ---
 

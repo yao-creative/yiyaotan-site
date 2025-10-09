@@ -12,11 +12,11 @@ They say you can tell a lot about a person by the type of content they consume.
 
 Connect with me via my [LinkedIn](https://www.linkedin.com/in/yi-yao-t-9719301a3) if you find any of this interesting.
 
-<!-- Also a recent article if you're interested [2025 Startup. Good Startup? Intuitions, mathematical perspective](/blog/ee/2025startup). -->
+Also a recent article if you're interested [2025 Startup. Good Startup? Intuitions, mathematical perspective](/blog/ee/2025startup).
 
 # Some random theories I have relating to my work:
 
-0. If I were to generalize: the role of the entrepreneur would be to make the world a bigger place for people. But admittedly this isn't measurable, but perhaps measuring revealed preferences is an easier way. Most other goals and values are valid but are approximating metrics with incomplete mutual information with this or sometimes multi-step abstracted but relevant.
+0. If I were to generalize: the role of the entrepreneur would be to make the world a bigger place for people. But admittedly this isn't measurable, but perhaps measuring revealed preferences is an easier way. Most other goals and values are valid but are approximating metrics with incomplete mutual information with this or sometimes multi-step abstracted but relevant. In the midst of the craziness, good things come when we figure out complicate things, and the world is always growing.
 
 1. Small world's is nature's way of self organization, information efficiency with energy constraints through heterogeneous and dynamic systems. Balances the growth of the collective as knowledge/ information compounds, with locality bias for innovation. Gossip Protocols, Pandemic Spread, Supply Chain Resilience, Sparse Transformers.
 
@@ -32,12 +32,13 @@ Connect with me via my [LinkedIn](https://www.linkedin.com/in/yi-yao-t-9719301a3
 
 7. History rhymes but never repeats itself because physical laws are constant. Human-societal behavior has patterns causes ergodicity. Absolute position is time and path dependent. History is a function of itself and so are societal reactions.
 
-8. Arbitrage is just local optimization over information asymmetry. Technology speeds up how information is transfered: books, telegraph, cameras, phone, television, computers, duplication of pdfs, internet, websearch, mobile phones, increasingly robust stock market for price discovery, and AI. More importantly, society has a bias towards speeding up this information diffusion. Thus technology smoothens these asymmetries in society and democratizes access, causing for more efficient innovation and more accurate tracking of societal progress, with a caveat that these two processes are fuzzy and stochastic.
+8. Arbitrage is just local optimization over information asymmetry. Technology speeds up how information is transfered: books, telegraph, cameras, phone, television, computers, duplication of pdfs, internet, websearch, mobile phones, increasingly robust stock market for price discovery, and LLMs. More importantly, society has a bias towards speeding up this information diffusion. Thus technology smoothens these asymmetries in society and democratizes access, causing for more efficient innovation and more accurate tracking of societal progress, with a caveat that these two processes are fuzzy and stochastic.
 
 9. Actions and reactions the only things fully controllable by the conscious mind, perhaps understanding them and optimizing the hell out of these crazy metrics is what drives people far.
 
 10. Economic complexity is the ultimate end game that niches get nicher due to specialization for economic margins, development is compounding or exponential, power laws get longer. Perhaps to topology of innovation grows hyperbolicly if the world's knowledge coudl be drawn like a Poincaré disk.
 
+11. Perhaps in a world of generative AI, in 2025 and onwards, that the world's knowledge is expanding at an exponential rate, the bringing value for creativity embracing continous learning. Creating things from pure imagination which you'd not think possible. Perhaps that's the fun of it :D.
 
 # Some resources I find interesting or resourceful and inspire my work:
 
