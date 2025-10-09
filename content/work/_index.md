@@ -88,7 +88,9 @@ I've been going through these research areas for inspiration. I'm curious if you
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/1XPiDZIzzZDW8FlBVIY8sR/video?utm_source=generator" width="624" height="351" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 - [Training Data - Sequoia Capital](https://open.spotify.com/show/3UrDMnInpYog0hc2QCHAXk?si=86f90a4f5c6748e2)
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/0sPK6udY4abeL7zuIymptA/video?utm_source=generator" width="624" height="351" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/0sPK6udY4abeL7zuIymptA/video?utm_source=generator" width="624" height="351" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> 
+
+For reference I don't think AI Agents are buzzword just because of the card above, Ivan Zhao is an interesting philosopher entrepreneur. I think AI agents are tools, necessary but not ultimate just like all the other layers of technology we've built on top of throughout all of human history.
 
 - [Founders - David Senra](https://open.spotify.com/show/7txiovdzPARhjm18NwMUYj?si=a8318624f9204b8d)
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/47t4mFYbqPy4uZWag2iO8m?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
