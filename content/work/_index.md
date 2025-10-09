@@ -38,7 +38,7 @@ Also a recent article if you're interested [2025 Startup. Good Startup? Intuitio
 
 10. Economic complexity is the ultimate end game that niches get nicher due to specialization for economic margins, development is compounding or exponential, power laws get longer. Perhaps to topology of innovation grows hyperbolicly if the world's knowledge could be described in a geometric figure like a Poincaré disk.
 
-11. Perhaps in a world of generative AI, in 2025 and onwards, that the world's knowledge is expanding at an exponential rate, the bringing value for creativity embracing continous learning. Creating things from pure imagination which you'd not think possible. Perhaps that's the fun of it :D.
+11. Perhaps in a world of generative AI, in 2025 and onwards, that the world's knowledge is expanding at an exponential rate, finally, we'll economically value creativity embracing continous learning to the extent we've always hoped for. Creating things from pure imagination which you'd not think possible. Perhaps that's the fun of it :D.
 
 # Some resources I find interesting or resourceful and inspire my work:
 
