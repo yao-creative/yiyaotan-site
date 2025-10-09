@@ -6,7 +6,7 @@ type: "section"
 layout: "section"
 ---
 
-I'm currently working on my startup as CTO, since October 2024, in the Creator Industry, interested in recommendation systems, pricing mechanisms, and AI architectures. In the midst of the craziness, I believe good things come when we figure out the complicated things, and the world is always growing.
+I'm currently working on my startup as CTO, since October 2024, in the Creator Industry, interested in recommendation systems, pricing mechanisms, AI, and distributed architectures to support all of above. In the midst of the craziness, I believe good things come when we figure out the complicated things, and the world is always growing.
 
 They say you can tell a lot about a person by the type of content they consume.
 
