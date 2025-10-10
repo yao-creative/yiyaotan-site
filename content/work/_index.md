@@ -46,6 +46,8 @@ Also a recent article if you're interested [2025 Startup. Good Startup? Intuitio
 
 - [Machine Learning Systems in Industry - Eugene Yan](https://eugeneyan.com/start-here)
 
+- [Multi Armed Bandits](https://arxiv.org/pdf/1904.07272)
+
 ## LLM / RL
 
 - [Substack AI technical blogs - Cameron Wolfe](https://cameronrwolfe.substack.com)
