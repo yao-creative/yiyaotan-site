@@ -48,6 +48,8 @@ Also a recent article if you're interested [2025 Startup. Good Startup? Intuitio
 
 - [Multi Armed Bandits](https://arxiv.org/pdf/1904.07272)
 
+- [Annotated Research Papers](https://nn.labml.ai)
+
 ## LLM / RL
 
 - [Substack AI technical blogs - Cameron Wolfe](https://cameronrwolfe.substack.com)
