@@ -42,6 +42,12 @@ Also a recent article if you're interested [2025 Startup. Good Startup? Intuitio
 
 # Some resources I find interesting or resourceful and inspire my work:
 
+## Design References:
+
+- [Google Material Design](https://m3.material.io)
+
+- [Apple Design](https://developer.apple.com/design)
+
 ## Machine Learning
 
 - [Machine Learning Systems in Industry - Eugene Yan](https://eugeneyan.com/start-here)
@@ -54,10 +60,12 @@ Also a recent article if you're interested [2025 Startup. Good Startup? Intuitio
 
 - [Substack AI technical blogs - Cameron Wolfe](https://cameronrwolfe.substack.com)
 
+- [Anthropic Research](https://www.anthropic.com/research)
+
 
 ## Software Engineering 
 
-- [Designing Web Crawlers](https://www.hellointerview.com/learn/system-design/problem-breakdowns/web-crawler)
+- [Chat with any opensource repo - Deep Wiki](https://deepwiki.com)
 
 - [Tiktok Monolotih Recommendation Systems - Jordan has no life](https://jordanhasnolife.substack.com/p/tiktok-monolith)
 
