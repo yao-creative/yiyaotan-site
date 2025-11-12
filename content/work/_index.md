@@ -69,6 +69,9 @@ Also a recent article if you're interested [2025 Startup. Good Startup? Intuitio
 
 - [Tiktok Monolotih Recommendation Systems - Jordan has no life](https://jordanhasnolife.substack.com/p/tiktok-monolith)
 
+- [Byte Byte Go - Spotify](https://blog.bytebytego.com/p/how-spotify-built-its-data-platform)
+
+
 ## Research Related Reading:
 
 I've been going through these research areas for inspiration. I'm curious if you know anything about them or are interested.
