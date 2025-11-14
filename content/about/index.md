@@ -23,7 +23,7 @@ featured_image: '/images/orchestra.jpg'
 
   I think you'll find my [reading](/blog/reading/) section most interesting.
 
-  Most recent article if you're interested: [2025 Startup. Good Startup? Intuitions, mathematical perspective](/blog/ee/2025startup).
+  Or perhaps my [work related page](/work/).
 
 ---
 
