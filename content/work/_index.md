@@ -62,6 +62,8 @@ Also a recent article if you're interested [2025 Startup. Good Startup? Intuitio
 
 - [Anthropic Research](https://www.anthropic.com/research)
 
+- [Zep - Context Management](https://blog.getzep.com)
+
 
 ## Software Engineering 
 
