@@ -65,4 +65,4 @@ slug = 'startup-physics'
 
 
 
-<img src="/images/startups-way.pdf" alt="Diagram of startup analogies">
+<img src="/images/startups-way.jpg" alt="Diagram of startup analogies">
