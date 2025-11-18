@@ -64,3 +64,6 @@ tags: ["startup", "AI", "perspective", "diffusion models", "energy"]
 4. What we see as exponential growth is due to local community structures of whatever hiearchies grow by the number of new members added like Exponential Broadcast trees (CS Term).
 6. Big companies have structural and branded product and cognitively clear/ branded product hiearchies: Google, Amazon.
 
+
+
+<img src="/images/startups-way.pdf" alt="Diagram of startup analogies">
