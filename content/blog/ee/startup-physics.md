@@ -1,9 +1,8 @@
----
-title: "Topology of startups"
-date: 2025-11-18
-draft: false
-tags: ["startup", "AI", "perspective", "diffusion models", "energy"]
----
++++
+title = "Topology of startups"
+date = 2025-11-18T10:50:00+08:00
+slug = 'startup-physics'
++++
 
 ## 1. The Topological View of the World
 
