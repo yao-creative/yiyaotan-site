@@ -12,7 +12,10 @@ They say you can understand a person by the type of content they consume.
 
 Also feel free to connect with me via my [LinkedIn](https://www.linkedin.com/in/yi-yao-t-9719301a3) if you find any of this interesting.
 
-Also a recent article if you're interested [2025 Startup. Good Startup? Intuitions, mathematical perspective](/blog/ee/2025startup).
+Also a recent article of [Startup Physics](/blog/ee/startup-physics)
+
+Another if you're interested [2025 Startup. Good Startup? Intuitions, mathematical perspective](/blog/ee/2025startup).
+
 
 # Some random theories I have relating to my work:
 
