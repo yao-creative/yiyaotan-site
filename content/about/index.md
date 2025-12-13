@@ -25,6 +25,8 @@ featured_image: '/images/orchestra.jpg'
 
   Or perhaps my [work related page](/work/).
 
+  Also definitely checkout my most recent article [B2B Mathematics of why it's so sexy](/blog/ee/b2b/).
+
 ---
 
   You can find more about my work on [GitHub](https://github.com/yao-creative) and connect with me on [LinkedIn](https://www.linkedin.com/in/yi-yao-tan-9719301a3/).
