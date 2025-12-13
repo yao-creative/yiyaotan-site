@@ -1,7 +1,7 @@
 +++
 title = 'B2b'
 date = 2025-12-12T12:02:14+08:00
-draft = true
+draft = false
 +++
 
 # B2B Mathematics of why it's so sexy.
