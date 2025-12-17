@@ -22,3 +22,7 @@ Some of my theories and formalizations of what linguistic from business people c
 
 7. Don't focus on pricing. Precise value ratio pricing is impossible. First of all if one really wanted to do it they'd have to propagate the value of the company brought to the entire supply chain which is intractable and has aribtrary precision with compute time trade offs, not to mention lyapunov exponents and limits of time predictability. The best case is the resource was monopolized on the platform end. However being a horizontal platform, empowering customers actually creates branching power law processes of each of the individual downstream B2B which in turn creates higher alpha coefficients for the powerlaw of value chains starting from your business. 
 
+8. Founders matter: Founders are the universal conditioning variable for a startup from start to finish, beyond that they are the ones who know exactly how the companies function the best by pure definition of them starting all of the initial operations of the company.
+
+9. Founder-Market fit: One can say that the decision making ability is a function of uncertainty, and the higher mutual information or lower KL divergence between all of the founder's knowledge and the business operations the better and faster decisions can be made. This is in a sense is the comparative advantage of founder led companies and also often why copying other startups or competitors is hard, because the source node of dependency variables is different.
+
