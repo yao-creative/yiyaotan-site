@@ -12,7 +12,7 @@ Some of my theories and formalizations of what linguistic from business people c
 
 2. Presistence/ grit matters a lot more than talent: There are many dimensions of this because they all matter in contextual conditioning sense. However, the value of a company is a multiplicative random process over time. With 0 assumption on the distribution of each random role becomes log normal, however when one adds the fact that sometimes size just matters in the sense that reputation/ reliability/ trust/ customer to customer marketing is like a gravitational and self reinforcing multiplicative process which often times take a super linear effect on the quality of product which one has. Over time this creates long tail powerlaws as all of these multiplicative effects take time and continous exposure to luck in a sense that a random roll goes viral or takes a life on it's own in some branching process.
 
-3. A startup is a process rather than an idea / product/ one hit wonder, similar to above, also the value of a company is the aggregate value of time of a self involutive process integral of t f_{t+1}(f_{t}(x,t)).
+3. A startup is a process rather than an idea / product/ one hit wonder, similar to above, also the value of a company is the aggregate value of time of a self involutive process integral of t $f_{t+1}(f_{t}(x,t))$.
 
 4. Customers are king: The only real measurable metric of the value a company brings to society is the value of transactions between the company and its customers which is upperbounded by value the company brings to the customer. Fuzzy value can be approximated by reveal preference theory.
 
