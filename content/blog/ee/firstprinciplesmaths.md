@@ -26,6 +26,6 @@ Some of my theories and formalizations of what linguistic from business people c
 
 9. Founder-Market fit: One can say that the decision making ability is a function of uncertainty, and the higher mutual information or lower KL divergence between all of the founder's knowledge and the business operations the better and faster decisions can be made. This is in a sense is the comparative advantage of founder led companies and also often why copying other startups or competitors is hard, because the source node of dependency variables is different. The problem for tech startups is not between technical or not technical, however the "Comparative Advantage of lower Uncertainty."
 
-10. Focus on learning: Due the the reasons of 1, 5, 9 above the goal of getting to a good idea is to find a domain which will exist in 20 years and walk towards that edge and gain comparative advantage, PMF is the just bifurication when the activation energy (value of a product to customer > cost of customer using it both price and time and alternatives in a fuzzy sense). 
+10. Focus on learning: Due the the reasons of 1, 5, 9 above the goal of getting to a good idea is to find a domain which will exist in 20 years and walk towards that edge and gain comparative advantage and ride powerlaw process dynamics, PMF is the just bifurication when the activation energy (value of a product to customer > cost of customer using it both price and time and alternatives in a fuzzy sense). 
 
 
