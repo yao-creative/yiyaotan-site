@@ -14,7 +14,7 @@ Some of my theories and formalizations of what linguistic from business people c
 
 3. A startup is a process rather than an idea / product/ one hit wonder, similar to above, also the value of a company is the aggregate value of time of a self involutive process integral of t f_{t+1}(f_{t}(x,t)).
 
-4. Customers are king: The only real measurable metric of the value a company brings to society is the value of transactions between the company and its customers which is upperbounded by value the company brings to the customer.
+4. Customers are king: The only real measurable metric of the value a company brings to society is the value of transactions between the company and its customers which is upperbounded by value the company brings to the customer. Fuzzy value can be approximated by reveal preference theory.
 
 5. Tech debt can have heavy effects on iteration speed (Stripe research): Knowing what you don't know is an NP hard problem similar to [Compression Sensing](https://en.wikipedia.org/wiki/Compressed_sensing) where one tries to approximate a higher vector space with a lower dimensional vector. Figuring out what one doesn't know takes exponential time (approximate because one can also read online), however, given a higher dimensional vector projection is polynomial time. A good hire in the moment lowers the uncertainty to what the company doesn't know. (Which also leads to the value of learning as an individual).
 
