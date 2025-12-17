@@ -28,6 +28,6 @@ Some of my theories and formalizations of what linguistic from business people c
 
 10. Focus on learning: Due the the reasons of 1, 5, 9 above the goal of getting to a good idea is to find a domain which will exist in 20 years and walk towards that edge and gain comparative advantage and ride powerlaw process dynamics, PMF is the just bifurication when the activation energy (value of a product to customer > cost of customer using it both price and time and alternatives in a fuzzy sense). 
 
-11. Moving Fast: Is the act of lowering uncertainty as quick as possible which leads to better concrete information of outcomes due to the limits of predictability and decisions made. And is not a posterior goal.
+11. Moving Fast: Is the act of lowering uncertainty as quick as possible which leads to better concrete information of outcomes due to the limits of predictability and decisions made. And is not an ultimate posterior goal.
 
 
