@@ -1,5 +1,5 @@
 +++
-title = 'Firstprinciplesmaths'
+title = 'First Principles Maths'
 date = 2025-12-17T12:45:44+08:00
 draft = false
 slug = 'firstprinciplesmaths'
