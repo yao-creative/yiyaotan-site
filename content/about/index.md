@@ -25,7 +25,7 @@ featured_image: '/images/orchestra.jpg'
 
   Or perhaps my [work related page](/work/).
 
-  Also definitely checkout my most recent article [B2B Mathematics of why it's so sexy](/blog/ee/b2b/).
+  Also definitely checkout my most recent article [firstprinciplesmaths](/blog/ee/firstprinciplesmaths/).
 
 ---
 
