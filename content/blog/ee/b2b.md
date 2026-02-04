@@ -21,3 +21,5 @@ Sometimes people wonder if over investment of B2B is a bubble. Like why do peopl
 
 ## Notes:
 I'm not exactly sure of the scaling law in play, however it's definitely super linear, it could be fractional due to global improvements in techonology and also fractal dimensions are optimal ways to fit k < n dimensions of information transport in n dimensional space.
+
+
