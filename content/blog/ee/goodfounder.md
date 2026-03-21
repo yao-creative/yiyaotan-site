@@ -30,8 +30,6 @@ slug = 'goodfounders'
 10) Growth oriented. This also factors under point 2 too.
 
 
-
-
 ### Side notes and implications:
 
 1) In social structures there's a strong positive assortativity of human interactions with other humans. Similar to collaborative filtering can best used to tell if a product is good between two friends. People want to work with people similar to themselves, hiring matters, founder matters. Non-linear effect goes both ways, smart people can hire their smarter friends and average people could hire people more mediocre than them, causing a non-linear decay in talent. 
