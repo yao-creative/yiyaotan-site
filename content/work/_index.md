@@ -17,47 +17,19 @@ Also a recent article of [First Principles Math](/blog/ee/firstprinciplesmaths/)
 Another if you're interested [Startup Physics](/blog/ee/startup-physics/)
 
 
-# Some random theories I have relating to my work:
-
-0. If I were to generalize: **the role of the tech entrepreneur is to make the world a bigger place for people.** Admittedly, this is probably fuzzily measurable, but perhaps measuring the revealed preferences of an individual and finding an aggregate positive sum over the market or society that cares is an easier approach. Within this, much of the discovery of new and interesting value could be seen as reactions to new inventions. Most other goals and values are valid and relevant, but are still approximating metrics that are ultimately upper bounded in mutual information on this fundamental measure, sometimes multi-step abstracted. **It's easy to see that this is the basis of value creation and hence profits—as profits are the aggregate sum of value and value can only be measured or realized during a transaction, when the customer pays for the utility they receive (a function of their preferences) from a service. These are the priors and causality behind any economic transaction, and thus, the fundamentals for a startup.**
-
-1. Small world's is nature's way of self organization, information efficiency with energy constraints through heterogeneous and dynamic systems. Balances the growth of the collective as knowledge/ information compounds, with locality bias for innovation. Gossip Protocols, Pandemic Spread, Economic Transactions, Brain Pathways,Supply Chains, Sparse Transformers.
-
-2. Software is an abstraction of point 1 as its the fastest mode of information transfer. Even LLMs in their information compression which is what makes them so attractive.
-
-3. Well designed Monetary mechanisms are problem-oriented-optimization-efficient as they provide continous approximation of human preferences (Voting Systems, Arrow's impossibility theorem and relaxations). Which is why businesses processes, decisions and innovation moves exponentially faster than governments. Although with fuzzy objectives, I'm not as sure. Their pitfall is their incentives dependent on their business model /vision where everything else is optimized on. Innately they can only be pseudometrics and have to be locally biased due to the fundamental constraints of local incomplete information of preferences and chaotic nature of society. Also necessary to build comparative advantage for better margins. First principles thinking is a linguistic way approximate this.
-
-4. B2B Economic transactions are highly anchored on "comparative advantage" priced on disassortativity on a heterogenous topology that every individual or company is embedded in a larger world with elasticity function of search speed. Want - can achieve or have ~ provider profit.
-
-5. Locality bias of the tech-entrepreneur's belief of what to work-on is what builds the differential gap of value between the customer and the service/ value they receive.
-
-6. Businesses who accurately approximate the value they bring into the market are more stable. Those with inaccurate business models or serve for max arbitrage over short term attract competition or regulation. Thinking Amazon and Stripe counter intuitive pricing to traditional short-term profit maximizing. This includes both business model and continuous innovation for the consumer in the market. But due to the locality of information and finiteness of compute we can only try our best. Squeeze the market and one attracts enemies, tracking the growing the market brings stability and passive revenue. 
-
-7. History rhymes but never repeats itself because physical laws are constant. Human-societal behavior has patterns causes ergodicity. Absolute position is time and path dependent. History is a function of itself and so are societal reactions.
-
-8. Arbitrage is just local optimization over information asymmetry. Technology speeds up how information is transfered: books, telegraph, cameras, phone, television, computers, duplication of pdfs, internet, websearch, mobile phones, increasingly robust stock market for price discovery, and LLMs. More importantly, society has a bias towards speeding up this information diffusion. Thus technology smoothens these asymmetries in society and democratizes access, causing for more efficient innovation and more accurate tracking of societal progress, with a caveat that these two processes are fuzzy and stochastic.
-
-9. Actions and reactions the only things fully controllable by the conscious mind, perhaps understanding them and optimizing the hell out of these crazy metrics is what drives people far.
-
-10. Economic complexity is the ultimate end game that niches get nicher due to specialization for economic margins, development is compounding or exponential, power laws get longer. Perhaps to topology of innovation grows hyperbolicly if the world's knowledge could be described in a geometric figure like a Poincaré disk.
-
-11. Perhaps in a world of generative AI, in 2025 and onwards, that the world's knowledge is expanding at an exponential rate, finally, we'll economically value creativity embracing continous learning to the extent we've always hoped for. Creating things from pure imagination which we'd never thought were possible. Perhaps that's the fun of it :D.
-
 # Some resources I find interesting or resourceful and inspire my work:
 
 ## Design References:
 
-- [Google Material Design](https://m3.material.io)
-
-- [Apple Design](https://developer.apple.com/design)
+- [Change by Design - Tim Brown](https://www.amazon.com/Change-Design-Revised-Updated-Organizations-ebook/dp/B079DPLX5V) Design thinking analyzes the process of creating something out of nothing. Tim Brown CEO IDEO breaks down the core principles of IDEO, founded by professors at the Design instute in Stanford.
 
 ## Machine Learning
 
 - [Machine Learning Systems in Industry - Eugene Yan](https://eugeneyan.com/start-here)
 
-- [Multi Armed Bandits](https://arxiv.org/pdf/1904.07272)
-
 - [Annotated Research Papers](https://nn.labml.ai)
+
+- [MLOps - Chip Huyen](https://huyenchip.com/mlops/)
 
 ## LLM / RL
 
@@ -65,21 +37,20 @@ Another if you're interested [Startup Physics](/blog/ee/startup-physics/)
 
 - [Anthropic Research](https://www.anthropic.com/research)
 
-- [Zep - Context Management](https://blog.getzep.com)
-
 
 ## Software Engineering 
 
 - [Chat with any opensource repo - Deep Wiki](https://deepwiki.com)
 
-- [Tiktok Monolotih Recommendation Systems - Jordan has no life](https://jordanhasnolife.substack.com/p/tiktok-monolith)
+- [Byte Byte Go - Spotify](https://blog.bytebytego.com/p/how-spotify-built-its-data-platform) One of many interesting blogs and news letters I subscribe to.
 
-- [Byte Byte Go - Spotify](https://blog.bytebytego.com/p/how-spotify-built-its-data-platform)
 
 
 ## Research Related Reading:
 
-I've been going through these research areas for inspiration. I'm curious if you know anything about them or are interested.
+I've been going through these areas for fun/ inspiration. I'm curious if you know anything about them.
+
+- [Causal ML - V. Chernozhukov, et al.](https://causalml-book.org)
 
 - [Algorithmic Game Theory - Roughgarden-Nissan](https://www.columbia.edu/~ck2945/files/algorithmic-game-theory.pdf)
 
@@ -129,3 +100,32 @@ For reference, I don't think "AI Agent" is a buzzword just because of the card a
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/4EBu2qJEmWzIxgOfj58Hy5?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 The task of the translator inspires my theory of the role of an entrepeneur, making the world larger but in parallel shortening the distance between us and our wants (In a positive sum way).
+
+
+
+
+# Some random theories I have relating to my work:
+
+0. If I were to generalize: **the role of the tech entrepreneur is to make the world a bigger place for people.** Admittedly, this is probably fuzzily measurable, but perhaps measuring the revealed preferences of an individual and finding an aggregate positive sum over the market or society that cares is an easier approach. Within this, much of the discovery of new and interesting value could be seen as reactions to new inventions. Most other goals and values are valid and relevant, but are still approximating metrics that are ultimately upper bounded in mutual information on this fundamental measure, sometimes multi-step abstracted. **This is the basis of value creation and hence profits—as profits are the aggregate sum of value and value can only be measured or realized during a transaction, when the customer pays for the utility they receive (a function of their preferences) from a service. These are the priors and causality behind any economic transaction, and thus, the fundamentals for a startup.**
+
+1. Small world's is nature's way of self organization, information efficiency with energy constraints through heterogeneous and dynamic systems. Balances the growth of the collective as knowledge/ information compounds, with locality bias for innovation. Gossip Protocols, Pandemic Spread, Economic Transactions, Brain Pathways,Supply Chains, Sparse Transformers.
+
+2. Software is an abstraction of point 1 as its the fastest mode of information transfer. Even LLMs in their information compression which is what makes them so attractive.
+
+3. Well designed Monetary mechanisms are problem-oriented-optimization-efficient as they provide continous approximation of human preferences (Voting Systems, Arrow's impossibility theorem and relaxations). Which is why businesses processes, decisions and innovation moves exponentially faster than governments. Although with fuzzy objectives, I'm not as sure. Their pitfall is their incentives dependent on their business model /vision where everything else is optimized on. Innately they can only be pseudometrics and have to be locally biased due to the fundamental constraints of local incomplete information of preferences and chaotic nature of society. Also necessary to build comparative advantage for better margins. First principles thinking is a linguistic way approximate this.
+
+4. B2B Economic transactions are highly anchored on "comparative advantage" priced on disassortativity on a heterogenous topology that every individual or company is embedded in a larger world with elasticity function of search speed. Want - can achieve or have ~ provider profit.
+
+5. Locality bias of the tech-entrepreneur's belief of what to work-on is what builds the differential gap of value between the customer and the service/ value they receive.
+
+6. Businesses who accurately approximate the value they bring into the market are more stable. Those with inaccurate business models or serve for max arbitrage over short term attract competition or regulation. Thinking Amazon and Stripe counter intuitive pricing to traditional short-term profit maximizing. This includes both business model and continuous innovation for the consumer in the market. But due to the locality of information and finiteness of compute we can only try our best. Squeeze the market and one attracts enemies, tracking the growing the market brings stability and passive revenue. 
+
+7. History rhymes but never repeats itself because physical laws are constant. Human-societal behavior has patterns causes ergodicity. Absolute position is time and path dependent. History is a function of itself and so are societal reactions.
+
+8. Arbitrage is just local optimization over information asymmetry. Technology speeds up how information is transfered: books, telegraph, cameras, phone, television, computers, duplication of pdfs, internet, websearch, mobile phones, increasingly robust stock market for price discovery, and LLMs. More importantly, society has a bias towards speeding up this information diffusion. Thus technology smoothens these asymmetries in society and democratizes access, causing for more efficient innovation and more accurate tracking of societal progress, with a caveat that these two processes are fuzzy, stochastic, and the rough edges are pushed outwards.
+
+9. Actions and reactions the only things fully controllable by the conscious mind, perhaps understanding them and optimizing the hell out of these crazy metrics is what drives people far.
+
+10. Economic complexity is the ultimate end game that niches get nicher due to specialization for economic margins, development is compounding or exponential, power laws get longer. Perhaps to topology of innovation grows hyperbolicly if the world's knowledge could be described in a geometric figure like a Poincaré disk.
+
+11. Perhaps in a world of generative AI, in 2025 and onwards, that the world's knowledge is expanding at an exponential rate, finally, we'll economically value creativity embracing continous learning to the extent we've always hoped for. Creating things from pure imagination which we'd never thought were possible. Perhaps that's the fun of it :D.

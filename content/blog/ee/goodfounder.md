@@ -2,6 +2,7 @@
 title = 'Good Founders'
 date = 2025-08-28T13:50:00+08:00
 slug = 'goodfounders'
+draft = true
 +++
 
 # What makes a good founder?
