@@ -1,16 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Computer Science Projects on Yi Yao Tan</title><link>https://yiyaotan-site.vercel.app/projects/computer-science/</link><description>Recent content in Computer Science Projects on Yi Yao Tan</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 01 May 2023 00:00:00 +0100</lastBuildDate><atom:link href="https://yiyaotan-site.vercel.app/projects/computer-science/index.xml" rel="self" type="application/rss+xml"/><item><title>Parallelized Single Source Shortest Path</title><link>https://yiyaotan-site.vercel.app/projects/computer-science/parallelized-sssp/</link><pubDate>Mon, 01 May 2023 00:00:00 +0100</pubDate><guid>https://yiyaotan-site.vercel.app/projects/computer-science/parallelized-sssp/</guid><description>&lt;p>&lt;a href="https://yiyaotan-site.vercel.app/projects/computer-science/">Computer Science Projects&lt;/a>&lt;/p>
-&lt;p>Shortest path search on randomly simulated graphs using delta-step algorithm in C++, a bucketing method based on Dijkstra and Bellman-Ford Algorithms.&lt;/p>
-&lt;ul>
-&lt;li>&lt;a href="https://github.com/Kev1MSL/cse305-project">Project Repository&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://drive.google.com/file/d/15Tj0oIWqcibvI_o_mmhf1mDwiYWGufjf/view?usp=sharing">Project Paper&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Sparse Transformer Attention and Visual Image Transformer Segmentation</title><link>https://yiyaotan-site.vercel.app/projects/computer-science/sparse-transformer-attention/</link><pubDate>Wed, 01 Mar 2023 00:00:00 +0100</pubDate><guid>https://yiyaotan-site.vercel.app/projects/computer-science/sparse-transformer-attention/</guid><description>&lt;p>&lt;a href="https://yiyaotan-site.vercel.app/projects/computer-science/">Computer Science Projects&lt;/a>&lt;/p>
-&lt;p>My most significant project, through a five-month research internship during my undergraduate at Huawei, I created routines for sparse attention in Transformers and tested their efficiencies on NLP data sets BERT model and image classification and segmentation on ImageNet-1k (100GB) with the Visual Image Transformer Segmenter. Created data pipelines, and evaluation metrics, worked on model design, started the transformer image segmentation library for Huawei, and trained models on Huawei’s Atlas 800 HPC clusters using the newly developed, parallelization-first ML framework MindSpore.&lt;/p></description></item><item><title>Compiler</title><link>https://yiyaotan-site.vercel.app/projects/computer-science/compiler/</link><pubDate>Thu, 01 Dec 2022 00:00:00 +0100</pubDate><guid>https://yiyaotan-site.vercel.app/projects/computer-science/compiler/</guid><description>&lt;p>&lt;a href="https://yiyaotan-site.vercel.app/projects/computer-science/">Computer Science Projects&lt;/a>&lt;/p>
-&lt;p>3500 line compiler parsing a python-like language and transforming it to x86 assembly language with parser, type checking, control flow graph optimization, and SSA optimization.&lt;/p>
-&lt;ul>
-&lt;li>&lt;a href="https://github.com/vrushank-agrawal/Compiler">Project Repository&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Wikipedia Topic Embedding and Clustering</title><link>https://yiyaotan-site.vercel.app/projects/computer-science/wikipedia-topic-embedding/</link><pubDate>Wed, 01 Dec 2021 00:00:00 +0100</pubDate><guid>https://yiyaotan-site.vercel.app/projects/computer-science/wikipedia-topic-embedding/</guid><description>&lt;p>&lt;a href="https://yiyaotan-site.vercel.app/projects/computer-science/">Computer Science Projects&lt;/a>&lt;/p>
-&lt;p>Webscrapped Wikipedia article summary paragraphs, tokenized, and vectorized them into embeddings. Performed various clustering techniques like Ward’s algorithm, PCA, and T-SNE to visualize the embedding space of topics.&lt;/p>
-&lt;ul>
-&lt;li>&lt;a href="https://github.com/yao-creative/Wiki-clustering-ml">Project Repository&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://docs.google.com/presentation/d/12Vt0NeoXzaz1KKLkKPuUIuB09F1cMvQuK9Cyh2dIVbo/edit#slide=id.g1282319cf70_0_0">Project Presentation&lt;/a>&lt;/li>
-&lt;/ul></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Science Projects on Yi Yao Tan</title>
+    <link>https://yiyaotan-site.vercel.app/projects/computer-science/</link>
+    <description>Recent content in Computer Science Projects on Yi Yao Tan</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 May 2023 00:00:00 +0100</lastBuildDate>
+    <atom:link href="https://yiyaotan-site.vercel.app/projects/computer-science/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Parallelized Single Source Shortest Path</title>
+      <link>https://yiyaotan-site.vercel.app/projects/computer-science/parallelized-sssp/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0100</pubDate>
+      <guid>https://yiyaotan-site.vercel.app/projects/computer-science/parallelized-sssp/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://yiyaotan-site.vercel.app/projects/computer-science/&#34;&gt;Computer Science Projects&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Shortest path search on randomly simulated graphs using delta-step algorithm in C++, a bucketing method based on Dijkstra and Bellman-Ford Algorithms.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/Kev1MSL/cse305-project&#34;&gt;Project Repository&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/15Tj0oIWqcibvI_o_mmhf1mDwiYWGufjf/view?usp=sharing&#34;&gt;Project Paper&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Sparse Transformer Attention and Visual Image Transformer Segmentation</title>
+      <link>https://yiyaotan-site.vercel.app/projects/computer-science/sparse-transformer-attention/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0100</pubDate>
+      <guid>https://yiyaotan-site.vercel.app/projects/computer-science/sparse-transformer-attention/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://yiyaotan-site.vercel.app/projects/computer-science/&#34;&gt;Computer Science Projects&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;My most significant project, through a five-month research internship during my undergraduate at Huawei, I created routines for sparse attention in Transformers and tested their efficiencies on NLP data sets BERT model and image classification and segmentation on ImageNet-1k (100GB) with the Visual Image Transformer Segmenter. Created data pipelines, and evaluation metrics, worked on model design, started the transformer image segmentation library for Huawei, and trained models on Huawei’s Atlas 800 HPC clusters using the newly developed, parallelization-first ML framework MindSpore.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Compiler</title>
+      <link>https://yiyaotan-site.vercel.app/projects/computer-science/compiler/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0100</pubDate>
+      <guid>https://yiyaotan-site.vercel.app/projects/computer-science/compiler/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://yiyaotan-site.vercel.app/projects/computer-science/&#34;&gt;Computer Science Projects&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;3500 line compiler parsing a python-like language and transforming it to x86 assembly language with parser, type checking, control flow graph optimization, and SSA optimization.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/vrushank-agrawal/Compiler&#34;&gt;Project Repository&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Wikipedia Topic Embedding and Clustering</title>
+      <link>https://yiyaotan-site.vercel.app/projects/computer-science/wikipedia-topic-embedding/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0100</pubDate>
+      <guid>https://yiyaotan-site.vercel.app/projects/computer-science/wikipedia-topic-embedding/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://yiyaotan-site.vercel.app/projects/computer-science/&#34;&gt;Computer Science Projects&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Webscrapped Wikipedia article summary paragraphs, tokenized, and vectorized them into embeddings. Performed various clustering techniques like Ward’s algorithm, PCA, and T-SNE to visualize the embedding space of topics.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/yao-creative/Wiki-clustering-ml&#34;&gt;Project Repository&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/12Vt0NeoXzaz1KKLkKPuUIuB09F1cMvQuK9Cyh2dIVbo/edit#slide=id.g1282319cf70_0_0&#34;&gt;Project Presentation&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

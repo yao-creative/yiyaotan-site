@@ -37,6 +37,7 @@ Another if you're interested [Startup Physics](/blog/ee/startup-physics/)
 
 - [Anthropic Research](https://www.anthropic.com/research)
 
+- [Statistical Learning Theory - LessWrong](https://www.lesswrong.com/posts/fovfuFdpuEwQzJu2w/neural-networks-generalize-because-of-this-one-weird-trick)
 
 ## Software Engineering 
 
