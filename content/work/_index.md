@@ -37,6 +37,12 @@ Another if you're interested [Startup Physics](/blog/ee/startup-physics/)
 
 - [Anthropic Research](https://www.anthropic.com/research)
 
+- [6 Types of RAG evals - Jason Liu (OpenAI)](https://jxnl.co/writing/2025/05/19/there-are-only-6-rag-evals/#why-this-framework-matters)
+
+- [Writing Evals - Eugene Yan](https://eugeneyan.com/writing/evals/)
+
+- [Data Flywheels for LLM Applications](https://www.sh-reya.com/blog/ai-engineering-flywheel/#1-evaluation-defining-success-metrics)
+
 - [Statistical Learning Theory - LessWrong](https://www.lesswrong.com/posts/fovfuFdpuEwQzJu2w/neural-networks-generalize-because-of-this-one-weird-trick)
 
 ## Software Engineering 
