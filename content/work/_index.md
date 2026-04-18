@@ -49,8 +49,7 @@ Another if you're interested [Startup Physics](/blog/ee/startup-physics/)
 
 - [Chat with any opensource repo - Deep Wiki](https://deepwiki.com)
 
-- [Byte Byte Go - Spotify](https://blog.bytebytego.com/p/how-spotify-built-its-data-platform) One of many interesting blogs and news letters I subscribe to.
-
+- [Pragmatic Programmer -  David Thomas & Andrew Hunt](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary-ebook/dp/B07VRS84D1)
 
 
 ## Research Related Reading:
