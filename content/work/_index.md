@@ -6,7 +6,9 @@ type: "section"
 layout: "section"
 ---
 
-I'm currently working on my startup in the Creator Industry, interested in recommendation systems, pricing mechanisms, truthful mechanisms, AI and data engineering for it, and distributed architectures to support all of the above. In the midst of the craziness, I believe good things come when we figure out complicated things, and the world is always growing.
+I'm currently looking technical research-engineering/ engineering roles. I just left my startup in the Creator Industry, interested in recommendation systems, pricing mechanisms, truthful mechanisms, AI and data engineering for it, and distributed architectures to support all of the above.
+
+In the midst of the craziness, I believe good things come when we figure out complicated things, and the world is always growing.
 
 They say you can understand a person by the type of content they consume.
 
