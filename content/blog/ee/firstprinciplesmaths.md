@@ -10,7 +10,14 @@ Some of my theories and formalizations of what linguistic from business people c
 
 1. Doing things which don't scale/ Good startup ideas: are startup ideas which have high uncertainty for others however low uncertainty but high probability of success for founders based on their knowledge. Not high uncertainty and low probability, because that's just absolutely unlikely. Innovation actually happens in a fractal branching processes how vibe coding frontend can emerge from combining the known need of website builders and control of technical infrastructure for future scale.
 
-2. Presistence/ grit matters a lot more than talent: There are many dimensions of this because they all matter in contextual conditioning sense. However, the value of a company is a multiplicative random process over time. With 0 assumption on the distribution of each random role becomes log normal, however when one adds the fact that sometimes size just matters in the sense that reputation/ reliability/ trust/ customer to customer marketing is like a gravitational and self reinforcing multiplicative process which often times take a super linear effect on the quality of product which one has. Over time this creates long tail powerlaws as all of these multiplicative effects take time and continous exposure to luck in a sense that a random roll goes viral or takes a life on it's own in some branching process.
+2. Persistence/ grit matters as much as raw talent.
+
+    - External processes are often uncontrollable where timing and meeting the market at the correct time is important. Persistence creates exposure to this luck.
+
+    - Additionally, Value of a company is a multiplicative random process over time. With by the null assumption on th multiplicative distribution of each random roll becomes log normal. 
+
+    - Finally, when one adds the fact that sometimes size just matters in the sense that reputation/ reliability/ trust/ customer to customer marketing is like a gravitational and self 
+    reinforcing multiplicative process which often times take a super linear effect on the quality of product which one has. Over time this creates long tail powerlaws as all of these multiplicative effects take time and continous exposure to luck in a sense that a random roll goes viral or takes a life on it's own in some branching process.
 
 3. A startup is a process rather than an idea / product/ one hit wonder, similar to above, also the value of a company is the aggregate value of time of a self involutive process integral of t $f_{t+1}(f_{t}(x,t))$.
 
