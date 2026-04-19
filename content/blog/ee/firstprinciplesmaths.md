@@ -12,7 +12,7 @@ Some of my theories and formalizations of what linguistic computing from busines
 
 2. Persistence/ grit matters as much as raw talent.
 
-    - External processes are often uncontrollable, where timing and meeting the market at the correct time and place are important. Persistence creates exposure to this luck.
+    - External processes are often uncontrollable, meeting the market at the correct time and place are important. Persistence creates exposure to this luck.
 
     - Additionally, the value of a company is a multiplicative random process over time. Under the null assumption, the multiplicative distribution of each random roll becomes log-normal.
 
