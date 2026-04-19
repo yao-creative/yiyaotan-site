@@ -6,22 +6,22 @@ type: "section"
 layout: "section"
 ---
 
-I'm currently working on my startup, in the Creator Industry, interested in recommendation systems, pricing mechanisms, truthful mechanisms, AI and data engineering for it, and distributed architectures to support all of above. In the midst of the craziness, I believe good things come when we figure out the complicated things, and the world is always growing.
+I'm currently working on my startup in the Creator Industry, interested in recommendation systems, pricing mechanisms, truthful mechanisms, AI and data engineering for it, and distributed architectures to support all of the above. In the midst of the craziness, I believe good things come when we figure out complicated things, and the world is always growing.
 
 They say you can understand a person by the type of content they consume.
 
 Also feel free to connect with me via my [LinkedIn](https://www.linkedin.com/in/yi-yao-t-9719301a3) if you find any of this interesting.
 
-Also a recent article of [First Principles Math](/blog/ee/firstprinciplesmaths/)
+Also, a recent article on [First Principles Math](/blog/ee/firstprinciplesmaths/)
 
-Another if you're interested [Startup Physics](/blog/ee/startup-physics/)
+Another, if you're interested: [Startup Physics](/blog/ee/startup-physics/)
 
 
-# Some resources I find interesting or resourceful and inspire my work:
+# Some resources I find interesting or resourceful and that inspire my work:
 
 ## Design References:
 
-- [Change by Design - Tim Brown](https://www.amazon.com/Change-Design-Revised-Updated-Organizations-ebook/dp/B079DPLX5V) Design thinking analyzes the process of creating something out of nothing. Tim Brown CEO IDEO breaks down the core principles of IDEO, founded by professors at the Design instute in Stanford.
+- [Change by Design - Tim Brown](https://www.amazon.com/Change-Design-Revised-Updated-Organizations-ebook/dp/B079DPLX5V) Design thinking analyzes the process of creating something out of nothing. Tim Brown, CEO of IDEO, breaks down the core principles of IDEO, founded by professors at the Design Institute at Stanford.
 
 ## Machine Learning
 
@@ -54,7 +54,7 @@ Another if you're interested [Startup Physics](/blog/ee/startup-physics/)
 
 ## Research Related Reading:
 
-I've been going through these areas for fun/ inspiration. I'm curious if you know anything about them.
+I've been going through these areas for fun/inspiration. I'm curious if you know anything about them.
 
 - [Causal ML - V. Chernozhukov, et al.](https://causalml-book.org)
 
@@ -81,10 +81,10 @@ I've been going through these areas for fun/ inspiration. I'm curious if you kno
 - [Acquired - Ben Gilbert and David Rosenthal](https://open.spotify.com/show/7Fj0XEuUQLUqoMZQdsLXqp?si=faf7685645654529)
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/show/7Fj0XEuUQLUqoMZQdsLXqp?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-- [Grit - Kleiner Perkins] (https://open.spotify.com/show/2wzQBQcj5qMOMSVK1eJ00q?si=38db2860a746447b)
+- [Grit - Kleiner Perkins](https://open.spotify.com/show/2wzQBQcj5qMOMSVK1eJ00q?si=38db2860a746447b)
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/1XPiDZIzzZDW8FlBVIY8sR/video?utm_source=generator" width="624" height="351" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-For reference, I don't think "AI Agent" is a buzzword just because of the card above, Ivan Zhao is an interesting philosopher entrepreneur. I think AI agents are tools, necessary but not ultimate just like all the other layers of technology we've built on top of throughout all of human history.
+For reference, I don't think "AI Agent" is a buzzword just because of the card above; Ivan Zhao is an interesting philosopher-entrepreneur. I think AI agents are tools, necessary but not ultimate, just like all the other layers of technology we've built on top of throughout all of human history.
 
 - [Training Data - Sequoia Capital](https://open.spotify.com/show/3UrDMnInpYog0hc2QCHAXk?si=86f90a4f5c6748e2)
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/0sPK6udY4abeL7zuIymptA/video?utm_source=generator" width="624" height="351" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> 
@@ -105,7 +105,7 @@ For reference, I don't think "AI Agent" is a buzzword just because of the card a
 - [Philosophize This! - Steven West](https://open.spotify.com/episode/4EBu2qJEmWzIxgOfj58Hy5?si=64fb302523ad4be2)
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/4EBu2qJEmWzIxgOfj58Hy5?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-The task of the translator inspires my theory of the role of an entrepeneur, making the world larger but in parallel shortening the distance between us and our wants (In a positive sum way).
+The task of the translator inspires my theory of the role of an entrepreneur, making the world larger while in parallel shortening the distance between us and our wants (in a positive-sum way).
 
 
 
@@ -114,24 +114,24 @@ The task of the translator inspires my theory of the role of an entrepeneur, mak
 
 0. If I were to generalize: **the role of the tech entrepreneur is to make the world a bigger place for people.** Admittedly, this is probably fuzzily measurable, but perhaps measuring the revealed preferences of an individual and finding an aggregate positive sum over the market or society that cares is an easier approach. Within this, much of the discovery of new and interesting value could be seen as reactions to new inventions. Most other goals and values are valid and relevant, but are still approximating metrics that are ultimately upper bounded in mutual information on this fundamental measure, sometimes multi-step abstracted. **This is the basis of value creation and hence profits—as profits are the aggregate sum of value and value can only be measured or realized during a transaction, when the customer pays for the utility they receive (a function of their preferences) from a service. These are the priors and causality behind any economic transaction, and thus, the fundamentals for a startup.**
 
-1. Small world's is nature's way of self organization, information efficiency with energy constraints through heterogeneous and dynamic systems. Balances the growth of the collective as knowledge/ information compounds, with locality bias for innovation. Gossip Protocols, Pandemic Spread, Economic Transactions, Brain Pathways,Supply Chains, Sparse Transformers.
+1. Small worlds are nature's way of self-organization, information efficiency with energy constraints through heterogeneous and dynamic systems. It balances the growth of the collective as knowledge/information compounds, with locality bias for innovation. Gossip protocols, pandemic spread, economic transactions, brain pathways, supply chains, sparse transformers.
 
-2. Software is an abstraction of point 1 as its the fastest mode of information transfer. Even LLMs in their information compression which is what makes them so attractive.
+2. Software is an abstraction of point 1, as it's the fastest mode of information transfer. Even LLMs are attractive because of their information compression.
 
-3. Well designed Monetary mechanisms are problem-oriented-optimization-efficient as they provide continous approximation of human preferences (Voting Systems, Arrow's impossibility theorem and relaxations). Which is why businesses processes, decisions and innovation moves exponentially faster than governments. Although with fuzzy objectives, I'm not as sure. Their pitfall is their incentives dependent on their business model /vision where everything else is optimized on. Innately they can only be pseudometrics and have to be locally biased due to the fundamental constraints of local incomplete information of preferences and chaotic nature of society. Also necessary to build comparative advantage for better margins. First principles thinking is a linguistic way approximate this.
+3. Well-designed monetary mechanisms are problem-oriented and optimization-efficient, as they provide continuous approximations of human preferences (voting systems, Arrow's impossibility theorem, and relaxations), which is why business processes, decisions, and innovation move exponentially faster than governments. Although with fuzzy objectives, I'm not as sure. Their pitfall is that their incentives are dependent on their business model/vision, on which everything else is optimized. Innately, they can only be pseudometrics and have to be locally biased due to the fundamental constraints of local incomplete information about preferences and the chaotic nature of society. They are also necessary to build comparative advantage for better margins. First-principles thinking is a linguistic way to approximate this.
 
-4. B2B Economic transactions are highly anchored on "comparative advantage" priced on disassortativity on a heterogenous topology that every individual or company is embedded in a larger world with elasticity function of search speed. Want - can achieve or have ~ provider profit.
+4. B2B economic transactions are highly anchored in "comparative advantage," priced on disassortativity on a heterogeneous topology, where every individual or company is embedded in a larger world with an elasticity function of search speed. Want - can achieve or have ~ provider profit.
 
-5. Locality bias of the tech-entrepreneur's belief of what to work-on is what builds the differential gap of value between the customer and the service/ value they receive.
+5. The locality bias of the tech entrepreneur's belief about what to work on is what builds the differential gap in value between the customer and the service/value they receive.
 
-6. Businesses who accurately approximate the value they bring into the market are more stable. Those with inaccurate business models or serve for max arbitrage over short term attract competition or regulation. Thinking Amazon and Stripe counter intuitive pricing to traditional short-term profit maximizing. This includes both business model and continuous innovation for the consumer in the market. But due to the locality of information and finiteness of compute we can only try our best. Squeeze the market and one attracts enemies, tracking the growing the market brings stability and passive revenue. 
+6. Businesses that accurately approximate the value they bring into the market are more stable. Those with inaccurate business models, or that serve for max arbitrage over the short term, attract competition or regulation. Think Amazon and Stripe's counterintuitive pricing relative to traditional short-term profit maximization. This includes both business model and continuous innovation for the consumer in the market. But due to the locality of information and the finiteness of compute, we can only try our best. Squeeze the market and one attracts enemies; tracking and growing the market brings stability and passive revenue.
 
-7. History rhymes but never repeats itself because physical laws are constant. Human-societal behavior has patterns causes ergodicity. Absolute position is time and path dependent. History is a function of itself and so are societal reactions.
+7. History rhymes but never repeats itself because physical laws are constant. Human-societal behavior has patterns that cause ergodicity. Absolute position is time- and path-dependent. History is a function of itself, and so are societal reactions.
 
-8. Arbitrage is just local optimization over information asymmetry. Technology speeds up how information is transfered: books, telegraph, cameras, phone, television, computers, duplication of pdfs, internet, websearch, mobile phones, increasingly robust stock market for price discovery, and LLMs. More importantly, society has a bias towards speeding up this information diffusion. Thus technology smoothens these asymmetries in society and democratizes access, causing for more efficient innovation and more accurate tracking of societal progress, with a caveat that these two processes are fuzzy, stochastic, and the rough edges are pushed outwards.
+8. Arbitrage is just local optimization over information asymmetry. Technology speeds up how information is transferred: books, telegraph, cameras, phone, television, computers, duplication of PDFs, internet, web search, mobile phones, increasingly robust stock markets for price discovery, and LLMs. More importantly, society has a bias toward speeding up this information diffusion. Thus, technology smooths these asymmetries in society and democratizes access, causing more efficient innovation and more accurate tracking of societal progress, with the caveat that these two processes are fuzzy, stochastic, and the rough edges are pushed outwards.
 
-9. Actions and reactions the only things fully controllable by the conscious mind, perhaps understanding them and optimizing the hell out of these crazy metrics is what drives people far.
+9. Actions and reactions are the only things fully controllable by the conscious mind; perhaps understanding them and optimizing the hell out of these crazy metrics is what drives people far.
 
-10. Economic complexity is the ultimate end game that niches get nicher due to specialization for economic margins, development is compounding or exponential, power laws get longer. Perhaps to topology of innovation grows hyperbolicly if the world's knowledge could be described in a geometric figure like a Poincaré disk.
+10. Economic complexity is the ultimate endgame: niches get nicher due to specialization for economic margins, development is compounding or exponential, and power laws get longer. Perhaps the topology of innovation grows hyperbolically if the world's knowledge could be described in a geometric figure like a Poincaré disk.
 
-11. Perhaps in a world of generative AI, in 2025 and onwards, that the world's knowledge is expanding at an exponential rate, finally, we'll economically value creativity embracing continous learning to the extent we've always hoped for. Creating things from pure imagination which we'd never thought were possible. Perhaps that's the fun of it :D.
+11. Perhaps in a world of generative AI, in 2025 and onwards, where the world's knowledge is expanding at an exponential rate, we'll finally economically value creativity and embrace continuous learning to the extent we've always hoped for. Creating things from pure imagination that we'd never thought were possible. Perhaps that's the fun of it :D.
