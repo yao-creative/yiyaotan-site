@@ -7,7 +7,7 @@ slug = 'startup-physics'
 ## 1. The Topological View of the World
 
 - **We exist socially, experience-wise, and physically on a *topology*** 
-- We operate in *cognitive bios* where opinions are actually strong local views.
+- We operate in *cognitive bias* where opinions are actually strong local views.
 - Understanding locality bias and thinking in distances helps us view things in perspectives
 
 ---
@@ -18,6 +18,8 @@ slug = 'startup-physics'
 - The things the say about AGI and ASI are from the sum of their experiences. In a sense the ultimateness comes from their experiences so far. Software engineering is gone etc. etc. (which is conditioned on their notion of the "Software Engineering that they experienced has changed" phrasing on what is concrete and truly (real) sense)
 - People outside the industry haven't seen directly the benefits of productivity except for note taking and call it an AI bubble.
 - The inability for the two groups to understand each other is due to semantical, experience, and social level distances between them. Which can be analogously said as a "Resolution limit." Objects far away naturally look small and insignificant.
+
+- Conclusion: When reading comments on Twitter/ media reporting, always background check, that people always have to make decisions and perceptions from epistemic bias by the inherent physical nature of the world.
 
 
 ---
