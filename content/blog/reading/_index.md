@@ -73,6 +73,8 @@ I believe that reading for the pure experience is a good exercise in empathy, if
 
 ## Want to Read/ Currently Reading list:
 
+- Readings in Database Systems (Joseph M. Hellerstein, Michael Stonebaker)
+
 - Non-Violent Communication ( Marshall B. Rosenberg) - Currently reading, massive life hack for my startup and relationship.
 
 - Mind Over Mood: Change How You Feel by Changing the Way You Think (Dennis Greenberger) - CBT is tbh a life must, this book explains it in a precise and actionable sense.
