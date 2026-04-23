@@ -8,7 +8,7 @@ layout: "section"
 
 I'm currently looking technical research-engineering/ engineering roles. 
 
-I recently parted from my startup helping my cofounder who used to work at Meta proto-type ideas as a full stack developer for the creator economy such as lead search and causal based analytics with simple double ml. The largest lessons I've learnt there is timing my decisions, talking to people to directional lower uncertainty when figuring out what to build and why, and the necessity to "measure" tasks in order of importance and weight during ambiguity. Before that I wrote my Master's thesis in Complexity Economics / Mathematics in the geometry of supply chain networks in Oxford. During my undergraduate I worked for 7 months within Huawei Research Paris to build sparse transformers for Image Segmentation. I'm dynamic and perpetually curious. Through my experiences I've gradually figured out that what I observed myself enjoying my work most when it was in the intersection of research and engineering and especially when the why to the what I'm building seems meaningful in terms of value creation. Some references I enjoy include Eugene Yan's ML blog, Paul Graham's works, and tidbits which guide me in my work such as Heilmeier catechism. 
+I recently parted from my startup helping my cofounder who used to work at Meta proto-type ideas as a full stack developer for the creator economy such as lead search and causal based analytics with simple double ml. The largest lessons I've learnt there is timing my decisions, talking to people to lower directional uncertainty when figuring out what to work on and why, and the necessity to "measure" tasks in order of importance and weight during ambiguity. Before that I wrote my Master's thesis in Complexity Economics / Mathematics in the geometry of supply chain networks in Oxford. During my undergraduate I worked for 7 months within Huawei Research Paris to build sparse transformers for Image Segmentation. I'm dynamic and perpetually curious. Through my experiences I've gradually figured out that what I observed myself enjoying my work most when it was in the intersection of research and engineering and especially when the why to the what I'm building seems meaningful in terms of value creation. Some references I enjoy include Eugene Yan's ML blog, Paul Graham's works, and tidbits which guide me in my work such as Heilmeier catechism. 
 
 I'm broadly interested AI and data engineering, Algorithms, Software Engineering and distributed architectures to support all of the above.
 
@@ -17,6 +17,8 @@ In the midst of the craziness, I believe good things come when we figure out com
 They say you can understand a person by the type of content they consume.
 
 Also feel free to connect with me via my [LinkedIn](https://www.linkedin.com/in/yi-yao-t-9719301a3) if you find any of this interesting.
+
+[My Github](https://github.com/yao-creative)
 
 Also, a recent article on [First Principles Math](/blog/ee/firstprinciplesmaths/)
 
