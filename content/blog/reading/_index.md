@@ -29,6 +29,10 @@ I believe that reading for the pure experience is a good exercise in empathy, if
 
 ## A non-comprehensive list of reads I've enjoyed or found meaningful:
 
+- The Pragmatic Programmer (David Thomas, Andrew Hunt)
+
+- Designing Your Life (Tim Brown)
+
 - The Practicing Stoic (William Wordsworth)
   
 - Caves of Steel (Isaac Asimov)
@@ -65,9 +69,9 @@ I believe that reading for the pure experience is a good exercise in empathy, if
 
 - How to Not Die Alone (Logan Ury)
 
-## Want to Read/ Currently Reading list:
-
 - The Anthropologists (Aysegül Savas) - Simple elegant, full of relatable ironies and paradoxes of early adulthood life.
+
+## Want to Read/ Currently Reading list:
 
 - Non-Violent Communication ( Marshall B. Rosenberg) - Currently reading, massive life hack for my startup and relationship.
 
