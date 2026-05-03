@@ -27,81 +27,81 @@ Writing for a large audience is a different beast, it's often hard to introspect
 
 ## Invariants in Startups
 
-1. Focus on learning. --> non linearity of productivity as a function of knowledge, comparative advantage/ asymmetry of understanding, reducing uncertainty in decision making, and NP hardness of knowing what you don't know.
+1. **Focus on learning.** --> non linearity of productivity as a function of knowledge, comparative advantage/ asymmetry of understanding, reducing uncertainty in decision making, and NP hardness of knowing what you don't know.
 
-2. Build something people want. --> Every transaction is a fulfilled "want" for money.
+2. **Build something people want.** --> Every transaction is a fulfilled "want" for money.
 
-3. Keep trying and fail fast and learn from experiments. --> Startups as a true positive sampling machine.
+3. **Keep trying and fail fast and learn from experiments.** --> Startups as a true positive sampling machine.
 
-4. Work hard. --> work is the integral of time * quality of output/ time * direction measured.
+4. **Work hard.** --> work is the integral of time * quality of output/ time * direction measured.
 
-5. Customers obsession is key, what the customers want is good for the company
+5. **Customers obsession is key, what the customers want is good for the company**
 
-6. People will always want better value for lower prices
+6. **People will always want better value for lower prices**
 
-7. Technology will continue to improve and so must companies and their employees.
+7. **Technology will continue to improve and so must companies and their employees.**
 
-8. The people and the talent you build your company with matter.
+8. **The people and the talent you build your company with matter.**
 
-9. Do something Fundamental if you're not sure of what to do - (Paul Graham on Great Work) --> Least common denominator tatic for liquidity of options in finding employment.
+9. **Do something Fundamental if you're not sure of what to do - (Paul Graham on Great Work)** --> Least common denominator tatic for liquidity of options in finding employment.
 
-10. Treat everyone with respect (even in cases of rejection or arguments) --> they could be your future luck. (but otherwise the no one suffers from the world becoming a bigger place for everyone)
+10. **Treat everyone with respect (even in cases of rejection or arguments)** --> they could be your future luck. (but otherwise the no one suffers from the world becoming a bigger place for everyone)
 
-11. Focus on Impact. --> Money flows in the other direction of impact. It's a proxy estimator of value and the closest "measurable" inverse function we have.
+11. **Focus on Impact.** --> Money flows in the other direction of impact. It's a proxy estimator of value and the closest "measurable" inverse function we have.
 
-12. Build a company with culture.
+12. **Build a company with culture.**
 
-13. Question the requirements and keep asking why --> fastest way to figure out the invariants.
+13. **Question the requirements and keep asking why** --> fastest way to figure out the invariants.
 
-14. Focus on the most important things and figure out the bottlenecks and repeat.
+14. **Focus on the most important things and figure out the bottlenecks and repeat.**
 
-15. Decisions > no decisions --> moving forward is the best way to gain marginal information and re-adjust and reposition better.
+15. **Decisions > no decisions** --> moving forward is the best way to gain marginal information and re-adjust and reposition better.
 
-16. Good companies have long horizons. --> gravity effects and multiplicative compounding nature of money (Power law and Lognormal limit of multinomial laws).
+16. **Good companies have long horizons.** --> gravity effects and multiplicative compounding nature of money (Power law and Lognormal limit of multinomial laws).
 
-17. Do something hard --> Value is proportional to need \times difficulty (w.r.t. customer)
+17. **Do something hard** --> Value is proportional to need \times difficulty (w.r.t. customer)
 
-18. Hire for growth and the way the person thinks --> inexperience and (non precise experience in the domain) is inevitable, at one point they'll have to invent their way. Their latent space of how they think is more informative and invariant than then emission of their actions and what they do in the interview (Hidden Markov Processes).
+18. **Hire for growth and the way the person thinks** --> inexperience and (non precise experience in the domain) is inevitable, at one point they'll have to invent their way. Their latent space of how they think is more informative and invariant than then emission of their actions and what they do in the interview (Hidden Markov Processes).
 
-19. Work with others, socialize often --> information diffuses, working alone causes tunneling and it's hard to figure out unknown unknowns.
+19. **Work with others, socialize often** --> information diffuses, working alone causes tunneling and it's hard to figure out unknown unknowns.
 
-20. Hire people who are genuine and good --> cooperative game theory can lead to larger utilitarian global optimas.
+20. **Hire people who are genuine and good** --> cooperative game theory can lead to larger utilitarian global optimas.
 
-21. Decisions are temporary, be adaptable --> technology has the invariant of constantly changing hence move along with it.
+21. **Decisions are temporary, be adaptable** --> technology has the invariant of constantly changing hence move along with it.
 
-22. Do something where you only need one yes amongst a sea of no-s--> showing something to work in real life is an existence proof not a for all proof.
+22. **Do something where you only need one yes amongst a sea of no-s**--> showing something to work in real life is an existence proof not a for all proof.
 
-23. Sleep well. --> Biologically true of performance affect.
+23. **Sleep well.** --> Biologically true of performance affect.
 
-24. Simple solutions to complex problem problems --> Solomnoff's theory of induction.
+24. **Simple solutions to complex problem problems** --> Solomnoff's theory of induction.
 
-25. Hire Strong communicators --> A company is more than a one person team, communication coordination is an O(n^2) worst case, both memory ad people bottleneck. (Airbnb communication coordination tax)
+25. **Hire Strong communicators** --> A company is more than a one person team, communication coordination is an O(n^2) worst case, both memory ad people bottleneck. (Airbnb communication coordination tax)
 
-26. Cross innovate a lot --> high mariginal value of cross innovation w.r.t. to intrinsic domain optimization.
+26. **Cross innovate a lot** --> high mariginal value of cross innovation w.r.t. to intrinsic domain optimization.
 
-27. Focus on the good, learn from the good, share the good, and innovation --> the true positive space is exponentially smaller than the negative space. (Combinatorial feature explosion negative combinations, Contrastive learning literature)
+27. **Focus on the good, learn from the good, share the good, and innovation** --> the true positive space is exponentially smaller than the negative space. (Combinatorial feature explosion negative combinations, Contrastive learning literature)
 
-28. Understand the boundaries of your understanding --> approximating what you know and you don't know helps you make decisions on what to learn, what to figure out, and what decisions you can make now with clarity.
+28. **Understand the boundaries of your understanding** --> approximating what you know and you don't know helps you make decisions on what to learn, what to figure out, and what decisions you can make now with clarity.
 
-29. Stay in the details, understand your business or the paradigm shift, often by doing --> making decisions when you understand is way better than making decisions out of epistemic bias.
+29. **Stay in the details, understand your business or the paradigm shift, often by doing** --> making decisions when you understand is way better than making decisions out of epistemic bias.
 
-30. Do things which don't scale --> (Produce new value and make asymmetric bets, rebuilding old products is both marginally more costly to startups, prefectly homogenous and substitutable goods create Bertrand competition (discounted for the price of search and substitution) and hence price war, leaning into value driving asymmetry reduces substitutability and mariginal gain of the user of your product and hence price) 
+30. **Do things which don't scale** --> (Produce new value and make asymmetric bets, rebuilding old products is both marginally more costly to startups, prefectly homogenous and substitutable goods create Bertrand competition (discounted for the price of search and substitution) and hence price war, leaning into value driving asymmetry reduces substitutability and mariginal gain of the user of your product and hence price) 
 
-31. Have a clear vision, but be flexible to change --> visions are like direction/ heuristics before optimization. Optimizations require problem framing, directions, and metric functions.
+31. **Have a clear vision, but be flexible to change** --> visions are like direction/ heuristics before optimization. Optimizations require problem framing, directions, and metric functions.
 
 
 
 ## Invariants in Life:
 
-1. Relationships are fulfilling
+1. **Relationships are fulfilling**
 
-2. Health is important for work and for happiness
+2. **Health is important for work and for happiness**
 
-3. Stoicism ~ the ability to understand how thoughts and perceptions shape our feelings
+3. **Stoicism ~ the ability to understand how thoughts and perceptions shape our feelings**
 
-4. Value your time and put effort in and be intentional on each action.
+4. **Value your time and put effort in and be intentional on each action.**
 
-5. Focus on the Journey --> life is like a stochastic process rather than point and jump. There is no physical universal global optima to 
+5. **Focus on the Journey** --> life is like a stochastic process rather than point and jump. There is no physical universal global optima to 
 questions in real life even if so it wouldn't be computationally tractable.
 
 ## Invariants taken out of Context
@@ -131,6 +131,15 @@ If you've made it this far, you're probably well read. I'll give some of my expe
 
 3. Asking the founders during reverse interviews, (good VC) like questions (similar to Heilmeier's Catechisms): 
 
+    1. **What problem are you trying to solve?**
+    2. **Why now?**
+    3. **Why this approach?**
+    4. **What are the unit economics?**
+    5. **What is the impact of your product and why does it matter?**
+    6. **Who are your competitors and what are your asymmetric bets?**
+    7. **Why did you choose this domain?**
+    8. **What is your timeline?** --> People act in accordance to their timeline (high freq trading has high freq trading strategies vs value investing). I've seen people work 9-9-6 trying to squeeze money out of the industry in a short period of time.
+    9. **Who owns what and why?** --> Humans are the source nodes of change, whatever an AI does, has a causal source from somewhat up the chain. Equivalently responsibility is important for maintaining and improving products.
     1. What problem are you trying to solve? 
     2. Why now? 
     3. Why this approach? 
