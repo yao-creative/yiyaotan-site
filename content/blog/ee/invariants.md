@@ -92,10 +92,15 @@ Writing for a large audience is a different beast, it's often hard to introspect
 ## Invariants in Life:
 
 1. Relationships are fulfilling
+
 2. Health is important for work and for happiness
+
 3. Stoicism ~ the ability to understand how thoughts and perceptions shape our feelings
+
 4. Value your time and put effort in and be intentional on each action.
-5. Focus on the Journey --> life is like a stochastic process rather than point and jump. There is no physical universal global optima to questions in real life even if so it wouldn't be computationally tractable.
+
+5. Focus on the Journey --> life is like a stochastic process rather than point and jump. There is no physical universal global optima to 
+questions in real life even if so it wouldn't be computationally tractable.
 
 ## Invariants taken out of Context
 
@@ -103,11 +108,13 @@ Invariants taken out of context usually follow a [logical fallacy](https://en.wi
 
 1. When one writes code fast it can be messy. Speed matters for startups. Therefore writing messy code is imperative for startups. 
 
-2. 
+2. Good engineers solve problems fast. Line by line coding is slower than AI IDEs. John writes his code line by line. Therefore John is a bad engineer.
+
+
 
 ## Why it's hard to judge context:
 
-Observation bias 
+Observation bias. Also it's necessary to make inferences and comments/ heuristics out of new observations with incomplete context (how to move forward).
 
 # Observations on Good Companies
 
