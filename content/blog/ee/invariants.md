@@ -59,33 +59,61 @@ Writing for a large audience is a different beast, it's often hard to introspect
 ## Invariants in Startups
 
 1. Focus on learning. --> non linearity of productivity as a function of knowledge, comparative advantage/ asymmetry of understanding, reducing uncertainty in decision making, and NP hardness of knowing what you don't know.
+
 2. Build something people want.
+
 3. Keep trying and fail fast and learn from experiments. --> Startups as a true positive sampling machine.
+
 4. Work hard. --> work is the integral of time * quality of output/ time * direction measured.
+
 5. Customers obsession is key, what the customers want is good for the company
+
 6. People will always want better value for lower prices
+
 7. Technology will continue to improve and so must companies and their employees.
+
 8. The people and the talent you build your company with matter.
+
 9. Do something Fundamental if you're not sure of what to do - (Paul Graham on Great Work) --> Least common denominator tatic for liquidity of options in finding employment.
+
 10. Treat everyone with respect (even in cases of rejection or arguments) --> they could be your future luck. (but otherwise the no one suffers from the world becoming a bigger place for everyone)
+
 11. Focus on Impact. --> Money flows in the other direction of impact. It's a proxy estimator of value and the closest "measurable" inverse function we have.
+
 12. Build a company with culture.
+
 13. Question the requirements and keep asking why --> fastest way to figure out the invariants.
+
 14. Focus on the most important things and figure out the bottlenecks and repeat.
+
 15. Decisions > no decisions --> moving forward is the best way to gain marginal information and re-adjust and reposition better.
+
 16. Good companies have long horizons. --> gravity effects and multiplicative compounding nature of money (Power law and Lognormal limit of multinomial laws).
+
 17. Do something hard --> Value is proportional to need \times difficulty (w.r.t. customer)
+
 18. Hire for growth and the way the person thinks --> inexperience and (non precise experience in the domain) is inevitable, at one point they'll have to invent their way. Their latent space of how they think is more informative and invariant than then emission of their actions and what they do in the interview (Hidden Markov Processes).
+
 19. Work with others, socialize often --> information diffuses, working alone causes tunneling and it's hard to figure out unknown unknowns.
+
 20. Hire people who are genuine and good --> cooperative game theory can lead to larger utilitarian global optimas.
+
 21. Decisions are temporary, be adaptable --> technology has the invariant of constantly changing hence move along with it.
-22. Do something where you only need one yes amongst a sea of noes--> showing something to work in real life is an existence proof not a for all proof.
+
+22. Do something where you only need one yes amongst a sea of no-s--> showing something to work in real life is an existence proof not a for all proof.
+
 23. Sleep well. --> Biologically true of performance affect.
+
 24. Simple solutions to complex problem problems --> Solomnoff's theory of induction.
+
 25. Hire Strong communicators --> A company is more than a one person team, communication coordination is an O(n^2) worst case, both memory ad people bottleneck. (Airbnb communication coordination tax)
+
 26. Cross innovate a lot --> high mariginal value of cross innovation w.r.t. to intrinsic domain optimization.
+
 27. Focus on the good, learn from the good, share the good, and innovation --> the true positive space is exponentially smaller than the negative space. (Combinatorial feature explosion negative combinations, Contrastive learning literature)
+
 28. Understand the boundaries of your understanding --> approximating what you know and you don't know helps you make decisions on what to learn, what to figure out, and what decisions you can make now with clarity.
+
 29. Stay in the details, understand your business or the paradigm shift, often by doing --> making decisions when you understand is way better than making decisions out of epistemic bias.
 
 
@@ -110,11 +138,12 @@ Invariants taken out of context usually follow a [logical fallacy](https://en.wi
 
 2. Good engineers solve problems fast. Line by line coding is slower than AI IDEs. John writes his code line by line. Therefore John is a bad engineer.
 
+**In construction**
 
 
 ## Why it's hard to judge context:
 
-Observation bias. Also it's necessary to make inferences and comments/ heuristics out of new observations with incomplete context (how to move forward).
+Observation bias. Also it's necessary to make inferences and comments/ heuristics out of new observations with incomplete context (how to move forward). **In construction**
 
 # Observations on Good Companies
 
@@ -144,7 +173,7 @@ If you've made it this far, you're probably well read. I'll give some of my expe
     Usually if recursive probing sounds like spaghetti it is spaghetti. Emphasis on clarity of the responses. Good founders aren't technical or non technical binary; however, a more accurate least common denominator good founders know their business well.
 
 
-
+**In construction**
 
 
 
