@@ -58,7 +58,7 @@ Writing for a large audience is a different beast, it's often hard to introspect
 
 ## Invariants in Startups
 
-1. Focus on learning. --> non linearity of knowledge, reducing uncertainty in decision making, and NP hardness of knowing what you don't know.
+1. Focus on learning. --> non linearity of productivity as a function of knowledge, reducing uncertainty in decision making, and NP hardness of knowing what you don't know.
 2. Build something people want.
 3. Keep trying and fail fast and learn from experiments. --> Startups as a true positive sampling machine.
 4. Work hard. --> work is the integral of time * quality of output/ time * direction measured.
