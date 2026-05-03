@@ -29,7 +29,7 @@ Writing for a large audience is a different beast, it's often hard to introspect
 
 1. Focus on learning. --> non linearity of productivity as a function of knowledge, comparative advantage/ asymmetry of understanding, reducing uncertainty in decision making, and NP hardness of knowing what you don't know.
 
-2. Build something people want. Every transaction is a fulfilled "want" for money.
+2. Build something people want. --> Every transaction is a fulfilled "want" for money.
 
 3. Keep trying and fail fast and learn from experiments. --> Startups as a true positive sampling machine.
 
