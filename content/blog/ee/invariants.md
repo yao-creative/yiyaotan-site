@@ -61,7 +61,7 @@ Writing for a large audience is a different beast, it's often hard to introspect
 1. Focus on learning. --> non linearity of knowledge, reducing uncertainty in decision making, and NP hardness of knowing what you don't know.
 2. Build something people want.
 3. Keep trying and fail fast and learn from experiments. --> Startups as a true positive sampling machine.
-4. Work hard.
+4. Work hard. --> work is the integral of time * quality of output/ time * direction measured.
 5. Customers obsession is key, what the customers want is good for the company
 6. People will always want better value for lower prices
 7. Technology will continue to improve and so must companies and their employees.
@@ -142,6 +142,8 @@ If you've made it this far, you're probably well read. I'll give some of my expe
     12. What is the thought process behind the design of your interview process and why?
 
     Usually if recursive probing sounds like spaghetti it is spaghetti. Emphasis on clarity of the responses. Good founders aren't technical or non technical binary; however, a more accurate least common denominator good founders know their business well.
+
+
 
 
 
