@@ -6,8 +6,15 @@
     <description>Recent content on Yi Yao Tan</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Dec 2025 12:45:44 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 11:07:49 +0800</lastBuildDate>
     <atom:link href="https://yiyaotan-site.vercel.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Invariants</title>
+      <link>https://yiyaotan-site.vercel.app/blog/ee/invariants/</link>
+      <pubDate>Sun, 03 May 2026 11:07:49 +0800</pubDate>
+      <guid>https://yiyaotan-site.vercel.app/blog/ee/invariants/</guid>
+      <description>&lt;h2 id=&#34;semantic-definition&#34;&gt;Semantic definition&lt;/h2&gt;&#xA;&lt;p&gt;An invariant is a feature, quantity, or descriptor of an object that stays unchanged when the object is transformed by the equivalence notion we care about (for example: isometry, linear change of coordinates, isomorphism, homotopy equivalence).&lt;/p&gt;&#xA;&lt;p&gt;In practice: invariants capture what is intrinsic to the object, independent of representation.&lt;/p&gt;&#xA;&lt;h2 id=&#34;formal-definition&#34;&gt;Formal definition&lt;/h2&gt;&#xA;&lt;p&gt;Let $M$ be a class of objects with an equivalence relation $\sim$. A map&lt;/p&gt;&#xA;&lt;p&gt;$$&#xA;\phi: M \to N&#xA;$$&lt;/p&gt;</description>
+    </item>
     <item>
       <title>First Principles Maths</title>
       <link>https://yiyaotan-site.vercel.app/blog/ee/firstprinciplesmaths/</link>

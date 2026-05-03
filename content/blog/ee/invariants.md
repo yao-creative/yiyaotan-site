@@ -1,8 +1,9 @@
 
-
-++title = 'Invariants'++  
-++date = 2026-05-03T11:07:49+08:00++  
-++draft = true+++
++++
+title = 'Invariants'
+date = 2026-05-03T11:07:49+08:00
+slug = 'invariants'
++++
 
 ## Semantic definition
 
