@@ -5,43 +5,11 @@ date = 2026-05-03T11:07:49+08:00
 slug = 'invariants'
 +++
 
-## Semantic definition
+## Semantic (Mathematical) definition
 
 An invariant is a feature, quantity, or descriptor of an object that stays unchanged when the object is transformed by the equivalence notion we care about (for example: isometry, linear change of coordinates, isomorphism, homotopy equivalence).
 
 In practice: invariants capture what is intrinsic to the object, independent of representation.
-
-## Formal definition
-
-Let $M$ be a class of objects with an equivalence relation $\sim$. A map
-
-$$
-\phi: M \to N
-$$
-
-is an invariant (with respect to $\sim$) iff
-
-$$
-X \sim Y \implies \phi(X)=\phi(Y).
-$$
-
-Equivalently, $\phi$ is constant on each equivalence class of $M$.
-
-### Group-action form (common special case)
-
-If a group $G$ acts on a set $X$, a function
-
-$$
-I: X \to Y
-$$
-
-is $G$-invariant iff
-
-$$
-I(g \cdot x)=I(x) \quad \forall g\in G,\ \forall x\in X.
-$$
-
-So $I$ is constant on orbits of the action.
 
 # Invariants in Startups/ Technology
 
@@ -117,7 +85,11 @@ Writing for a large audience is a different beast, it's often hard to introspect
 
 29. Stay in the details, understand your business or the paradigm shift, often by doing --> making decisions when you understand is way better than making decisions out of epistemic bias.
 
-30. Do things which don't scale. (Produce new value and make asymmetric bets, rebuilding old products is both marginally more costly to startups, prefectly homogenous and substitutable goods create Bertrand competition (discounted for the price of search and substitution) and hence price war, leaning into value driving asymmetry reduces substitutability and mariginal gain of the user of your product and hence price) 
+30. Do things which don't scale --> (Produce new value and make asymmetric bets, rebuilding old products is both marginally more costly to startups, prefectly homogenous and substitutable goods create Bertrand competition (discounted for the price of search and substitution) and hence price war, leaning into value driving asymmetry reduces substitutability and mariginal gain of the user of your product and hence price) 
+
+31. Have a clear vision, but be flexible to change --> visions are like direction/ heuristics before optimization. 
+
+32.
 
 
 ## Invariants in Life:
