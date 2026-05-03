@@ -117,6 +117,8 @@ Writing for a large audience is a different beast, it's often hard to introspect
 
 29. Stay in the details, understand your business or the paradigm shift, often by doing --> making decisions when you understand is way better than making decisions out of epistemic bias.
 
+30. Do things which don't scale. (Produce new value and make asymmetric bets, rebuilding old products is both marginally more costly to startups, prefectly homogenous and substitutable goods create Bertrand competition (discounted for the price of search and substitution) and hence price war, leaning into value driving asymmetry reduces substitutability and mariginal gain of the user of your product and hence price) 
+
 
 ## Invariants in Life:
 
