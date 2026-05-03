@@ -87,9 +87,8 @@ Writing for a large audience is a different beast, it's often hard to introspect
 
 30. Do things which don't scale --> (Produce new value and make asymmetric bets, rebuilding old products is both marginally more costly to startups, prefectly homogenous and substitutable goods create Bertrand competition (discounted for the price of search and substitution) and hence price war, leaning into value driving asymmetry reduces substitutability and mariginal gain of the user of your product and hence price) 
 
-31. Have a clear vision, but be flexible to change --> visions are like direction/ heuristics before optimization. 
+31. Have a clear vision, but be flexible to change --> visions are like direction/ heuristics before optimization. Optimizations require problem framing, directions, and metric functions.
 
-32.
 
 
 ## Invariants in Life:
