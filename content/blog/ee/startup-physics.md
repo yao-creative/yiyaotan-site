@@ -66,5 +66,4 @@ slug = 'startup-physics'
 6. Big companies have structural and branded product and cognitively clear/ branded product hiearchies: Google, Amazon.
 
 
-
 <img src="/images/startups-way.jpg" alt="Diagram of startup analogies">

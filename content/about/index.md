@@ -25,7 +25,7 @@ featured_image: '/images/orchestra.jpg'
 
   Or perhaps my [work related page](/work/).
 
-  Also, definitely check out my most recent article [firstprinciplesmaths](/blog/ee/firstprinciplesmaths/).
+  Also, definitely check out my most recent articles: [firstprinciplesmaths](/blog/ee/firstprinciplesmaths/) and [startup-physics](/blog/ee/startup-physics.md)
 
 ---
 
