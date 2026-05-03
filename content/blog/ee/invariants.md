@@ -73,7 +73,7 @@ Writing for a large audience is a different beast, it's often hard to introspect
 
 23. **Sleep well.** --> Biologically true of performance affect.
 
-24. **Simple solutions to complex problem problems** --> Solomnoff's theory of induction.
+24. **Simple solutions to complex problem problems** --> Occam's Razor/ Solomnoff's theory of induction.
 
 25. **Hire Strong communicators** --> A company is more than a one person team, communication coordination is an O(n^2) worst case, both memory ad people bottleneck. (Airbnb communication coordination tax)
 
@@ -140,18 +140,9 @@ If you've made it this far, you're probably well read. I'll give some of my expe
     7. **Why did you choose this domain?**
     8. **What is your timeline?** --> People act in accordance to their timeline (high freq trading has high freq trading strategies vs value investing). I've seen people work 9-9-6 trying to squeeze money out of the industry in a short period of time.
     9. **Who owns what and why?** --> Humans are the source nodes of change, whatever an AI does, has a causal source from somewhat up the chain. Equivalently responsibility is important for maintaining and improving products.
-    1. What problem are you trying to solve? 
-    2. Why now? 
-    3. Why this approach? 
-    4. What are the unit economics? 
-    5. What is the impact of your product and why does it matter? 
-    6. Who are your competitors and what are your asymmetric bets?
-    7. Why did you choose this domain? 
-    8. What is your timeline? --> People act in accordance to their timeline (high freq trading has high freq trading strategies vs value investing). I've seen people work 9-9-6 trying to squeeze money out of the industry in a short period of time.
-    9. Who owns what and why? --> Humans are the source nodes of change, whatever an AI does, has a causal source from somewhat up the chain. Equivalently responsibility is important for maintaining and improving products.
-    10. Describe who uses your product in detail and what your value is to them.
-    11. Are you still actively involved in the product? (Doing, helps relieve decisions made out of epistemic bias (making decisions when you don't exactly understand what your company is doing))
-    12. What is the thought process behind the design of your interview process and why?
+    10. **Describe who uses your product in detail and what your value is to them.**
+    11. **Are you still actively involved in the product?** (Doing, helps relieve decisions made out of epistemic bias (making decisions when you don't exactly understand what your company is doing))
+    12. **What is the thought process behind the design of your interview process and why?**
 
     Usually if recursive probing sounds like spaghetti it is spaghetti. Emphasis on clarity of the responses. Good founders aren't technical or non technical binary; however, a more accurate least common denominator good founders know their business well.
 
@@ -168,4 +159,3 @@ I often wonder why broadcasted advice from successful people seem so semanticall
 
 1. Encyclopedia of Mathematics, "Invariant": [https://encyclopediaofmath.org/wiki/Invariant](https://encyclopediaofmath.org/wiki/Invariant)
 2. Encyclopedia of Mathematics, "Group action": [https://encyclopediaofmath.org/wiki/Group_action](https://encyclopediaofmath.org/wiki/Group_action)
-
