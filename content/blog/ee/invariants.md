@@ -150,7 +150,7 @@ If you've made it this far, you're probably well read. I'll give some of my expe
 
 4. **Strong teams tend to have flexible and nuanced perspective about their industry and technology, but have clear goals and values, and are able to articulate it clearly.** --> technology keeps changing, one has to maintain flexibility and a constant learner's mindset to keep up; however, at the same time keep on making decisions on strong opinions held loosely.
     1. One can also tell by their job/ company description page~ usually goes like you understand fundamentals skills algorithms, ML, AI, Systems Design and they're rigorous about this in their interviews, but mastery of esoteric frameworks and languages aren't necessary because they're often learnt on the sport.
-    2. The descriptions do not shout generic nor over engineering.
+    2. The technical job descriptions do not shout generic nor over engineering.
 
 5. **They make diversified hires** --> a couple senior hires to address tech debt, while a lot of younger hires who learn and adapt quickly and challenge old ideas.
 
