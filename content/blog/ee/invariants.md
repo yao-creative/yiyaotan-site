@@ -154,7 +154,7 @@ If you've made it this far, you're probably well read. I'll give some of my expe
 
 5. **They make diversified hires** --> a couple senior hires to address tech debt, while a lot of younger hires who learn and adapt quickly and challenge old ideas.
 
-6. **Clear and minimal ownership over specific roles, tasks, and key decisions** --> I've heard of many applications with multiple interviewers and the applicant is forgotten after the final round because they forgot to assign someone responsible or the "board" is unable to make a decision as opinions cancel themselves out. O(N^2) communication tax, Arrow's Impossibility Theorem shows there's no fair democratic voting possible. Same applies for launching products and maintaining them. Hire good people with judgement and trust them.
+6. **Clear and minimal ownership over specific roles, tasks, and key decisions** --> I've heard of many applications with multiple interviewers and the applicant is forgotten after the final round because they forgot to assign someone responsible or the "board" is unable to make a decision as opinions cancel themselves out. O(N^2) communication tax, Arrow's Impossibility Theorem shows there's no fair democratic voting possible given our preception of democracy and it's axioms. Same applies for launching products and maintaining them. Hire good people with judgement and trust them.
 
 **In construction**
 
