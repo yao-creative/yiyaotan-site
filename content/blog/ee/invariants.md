@@ -89,6 +89,8 @@ Writing for a large audience is a different beast, it's often hard to introspect
 
 31. **Have a clear vision, but be flexible to change** --> visions are like direction/ heuristics before optimization. Optimizations require problem framing, directions, and metric functions.
 
+32. **The act of "figuring out" and "doing" what is right is more important than "being" the one who was right.** --> if you find a colleague who always cares about figuring out and doing, every argument will eventually lead to similar or better outcome/ conclusions as a combination of two opinions.
+
 
 
 ## Invariants in Life:
