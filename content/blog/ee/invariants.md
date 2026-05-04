@@ -51,7 +51,7 @@ Writing for a large audience is a different beast, it's often hard to introspect
 
 12. **Build a company with culture.**
 
-13. **Keep asking why. When suggested something new, ask why.** --> fastest way to figure out the invariants.
+13. **Keep asking why. When suggested something new, ask why would they say this first.** --> fastest way to figure out the invariants.
 
 14. **Focus on the most important things and figure out the bottlenecks and repeat.**
 
