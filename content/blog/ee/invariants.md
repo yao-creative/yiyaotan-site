@@ -33,7 +33,7 @@ Writing for a large audience is a different beast, it's often hard to introspect
 
 3. **Keep trying and fail fast and learn from experiments.** --> Startups as a true positive sampling machine.
 
-4. **Work hard.** --> work is the integral of time * quality of output/ time * direction measured.
+4. **Work hard.** --> work is the integral of time x quality of output/ time x direction measured.
 
 5. **Customers obsession is key, what the customers want is good for the company**
 
