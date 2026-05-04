@@ -123,14 +123,16 @@ Observation bias. Also it's necessary to make inferences and comments/ heuristic
 
 There's this well-known interview of Sam Altman in startup school. He mentions most people know to work hard and hire smart people, so he'll talk about something else. High marginal information to his audience who know the generic gist of the startup industry.
 
-If you've made it this far, you're probably well read. I'll give some of my experiences, observations, and guesses from interviews. 
+If you've made it this far, you're probably well read. I'll give some of my experiences, observations, comparing recent seed rounds vs Series B, survivors of Lindy's Law, and guesses and patterns from interviews. 
 
 1. Good companies make quick decisions but know that these decisions are imperfect and temporal. A hiring decision are made fast and clear responses and are decisive; however, they understand their failibility to making mistakes. Hiring is often an asymmetrical information exchange game, when you talk to a stranger you don't have to full context with them. A couple of companies I know made sure in the rejection emails to include thoughtful feedback for potential hires they made a decision on and are open to keep in touch and have a reapplication window. Accept rejection gracefully, learn from them and be willing to retry with good companies.
 
-2. Interviewing their employees if they'd see themselves continuing to work and grow in their startup for the next 5 years. 
+2. Interviewing their employees
+    1. **They'd see themselves continuing to work and grow in their startup for the next 5 years.**
+    2. **They're allowed to ship products and make opinionated judgements without Founder micromanagement.**
+    3. **Founders do listen the smart people they hire.**
 
 3. Asking the founders during reverse interviews, (good VC) like questions (similar to Heilmeier's Catechisms): 
-
     1. **What problem are you trying to solve?**
     2. **Why now?**
     3. **Why this approach?**
@@ -146,6 +148,7 @@ If you've made it this far, you're probably well read. I'll give some of my expe
 
     Usually if recursive probing sounds like spaghetti it is spaghetti. Emphasis on clarity of the responses. Good founders aren't technical or non technical binary; however, a more accurate least common denominator good founders know their business well.
 
+4. **They tend to have flexible and nuanced perspective about their industry and technology, but have clear goals and values, and are able to articulate it clearly.** --> technology keeps changing, one has to maintain flexibility and a constant learner's mindset to keep up; however, at the same time keep on making decisions on strong opinions held loosely. (One can also tell by their job/ company description page)
 
 **In construction**
 
