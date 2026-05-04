@@ -150,6 +150,8 @@ If you've made it this far, you're probably well read. I'll give some of my expe
 
 4. **Strong teams tend to have flexible and nuanced perspective about their industry and technology, but have clear goals and values, and are able to articulate it clearly.** --> technology keeps changing, one has to maintain flexibility and a constant learner's mindset to keep up; however, at the same time keep on making decisions on strong opinions held loosely. (One can also tell by their job/ company description page)
 
+5. **They make diversified hires** --> a couple senior hires to address tech debt, while a lot of younger hires who learn and adapt quickly and challenge old ideas.
+
 **In construction**
 
 
