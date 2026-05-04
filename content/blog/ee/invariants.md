@@ -59,7 +59,7 @@ Writing for a large audience is a different beast, it's often hard to introspect
 
 16. **Good companies have long horizons.** --> gravity effects and multiplicative compounding nature of money (Power law and Lognormal limit of multinomial laws).
 
-17. **Do something hard** --> Value is proportional to need \times difficulty (w.r.t. customer)
+17. **Do something hard** --> Value is proportional to need x difficulty (w.r.t. customer)
 
 18. **Hire for growth and the way the person thinks** --> inexperience and (non precise experience in the domain) is inevitable, at one point they'll have to invent their way. Their latent space of how they think is more informative and invariant than then emission of their actions and what they do in the interview (Hidden Markov Processes).
 
