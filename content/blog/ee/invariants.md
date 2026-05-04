@@ -125,7 +125,7 @@ There's this well-known interview of Sam Altman in startup school. He mentions m
 
 If you've made it this far, you're probably well read. I'll give some of my experiences, observations, comparing recent seed rounds vs Series B, survivors of Lindy's Law, and guesses and patterns from interviews. 
 
-1. **Good Companies quick decisions but know that these decisions are imperfect and temporal.** A hiring decision are made fast and clear responses and are decisive; however, they understand their failibility to making mistakes. Hiring is often an asymmetrical information exchange game, when you talk to a stranger you don't have to full context with them. A couple of companies I know made sure in the rejection emails to include thoughtful feedback for potential hires they made a decision on and are open to keep in touch and have a reapplication window. Accept rejection gracefully, learn from them and be willing to retry with good companies.
+1. **Good Companies make quick decisions but know that these decisions are imperfect and temporal.** A hiring decision are made fast and clear responses and are decisive; however, they understand their failibility to making mistakes. Hiring is often an asymmetrical information exchange game, when you talk to a stranger you don't have to full context with them. A couple of companies I know made sure in the rejection emails to include thoughtful feedback for potential hires they made a decision on and are open to keep in touch and have a reapplication window. Accept rejection gracefully, learn from them and be willing to retry with good companies.
 
 2. Interviewing their employees of **Series-B companies**
     1. **They'd see themselves continuing to work and grow in their startup for the next 5 years.**
