@@ -148,7 +148,7 @@ If you've made it this far, you're probably well read. I'll give some of my expe
 
     Usually if recursive probing sounds like spaghetti it is spaghetti. Emphasis on clarity of the responses. Good founders aren't technical or non technical binary; however, a more accurate least common denominator good founders know their business well.
 
-4. **Strong teams tend to have flexible and nuanced perspective about their industry and technology, but have clear goals and values, and are able to articulate it clearly.** --> technology keeps changing, one has to maintain flexibility and a constant learner's mindset to keep up; however, at the same time keep on making decisions on strong opinions held loosely. (One can also tell by their job/ company description page)
+4. **Strong teams tend to have flexible and nuanced perspective about their industry and technology, but have clear goals and values, and are able to articulate it clearly.** --> technology keeps changing, one has to maintain flexibility and a constant learner's mindset to keep up; however, at the same time keep on making decisions on strong opinions held loosely. (One can also tell by their job/ company description page~ usually goes like you understand fundamentals skills (algorithms, ML, AI, Systems Design and they're rigorous about this in their interviews)  but mastery of esoteric frameworks and languages aren't necessary)
 
 5. **They make diversified hires** --> a couple senior hires to address tech debt, while a lot of younger hires who learn and adapt quickly and challenge old ideas.
 
