@@ -20,7 +20,7 @@ Also feel free to connect with me via my [LinkedIn](https://www.linkedin.com/in/
 
 [My Github](https://github.com/yao-creative)
 
-Also, a recent article on [First Principles Math](/blog/ee/firstprinciplesmaths/)
+Also, a recent article on [Invariants](/blog/ee/invariants/)
 
 Another, if you're interested: [Startup Physics](/blog/ee/startup-physics/)
 
