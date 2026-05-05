@@ -131,7 +131,7 @@ If you've made it this far, you're probably well read. I'll give some of my expe
 
 2. Interviewing their employees of **Series-B companies**
     1. **They'd see themselves continuing to work and grow in their startup for the next 5 years.**
-    2. **They're allowed to ship products and make opinionated judgements without Founder micromanagement.**
+    2. **They're allowed to build and deploy products and make opinionated judgements without Founder micromanagement.**
     3. **Founders do listen the smart people they hire.**
 
 3. Asking the founders during reverse interviews, (good VC) like questions (similar to Heilmeier's Catechisms): 
