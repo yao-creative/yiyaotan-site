@@ -52,6 +52,8 @@ Another, if you're interested: [Startup Physics](/blog/ee/startup-physics/)
 
 - [Writing Evals - Eugene Yan](https://eugeneyan.com/writing/evals/)
 
+- [Hugging Face Eval Guide Book](https://huggingface.co/spaces/OpenEvals/evaluation-guidebook#what-is-model-evaluation-about)
+
 - [Data Flywheels for LLM Applications](https://www.sh-reya.com/blog/ai-engineering-flywheel/#1-evaluation-defining-success-metrics)
 
 - [Statistical Learning Theory - LessWrong](https://www.lesswrong.com/posts/fovfuFdpuEwQzJu2w/neural-networks-generalize-because-of-this-one-weird-trick)
