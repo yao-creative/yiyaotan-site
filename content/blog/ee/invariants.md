@@ -91,6 +91,8 @@ Writing for a large audience is a different beast; it's often hard to introspect
 
 32. **The act of "figuring out" and "doing" what is right is more important than "being" the one who was right.** --> if you find a colleague who always cares about figuring out and doing, every argument will eventually lead to similar or better outcomes/conclusions as a combination of two opinions.
 
+33. **Be prepared, fortune favors the prepared** Luck is when opportunity meets the actor's ability to seize it.
+
 
 
 ## Invariants in Life:
