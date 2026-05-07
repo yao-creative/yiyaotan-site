@@ -15,15 +15,15 @@ In practice: invariants capture what is intrinsic to the object, independent of 
 
 ## Why you should care about invariants
 
-Any space can be divided into a set and its complement as a partition. I believe that the generic information we take in can somewhat be separated into invariants and non-invariants. I believe invariants are like first principles, the minimal set of things we know to be true, a high-signal true positive space without the need for context (least common positive denominator). Using invariants, we can figure out directions for contextual decision-making for higher-fidelity and faster decisions, as they generalize better by their sheer nature. This discernment is especially useful in times of volatility and high uncertainty, both geopolitically and technologically.
+Any space can be divided into a set and its complement as a partition. I believe that the generic information we take in can somewhat be separated into invariants and non-invariants. I believe invariants are like first principles, the minimal set of things we know to be true: a high-signal true-positive space without the need for context (least common positive denominator). Using invariants, we can figure out directions for contextual decision-making and make higher-fidelity, faster decisions, as they generalize better by their sheer nature. This discernment is especially useful in times of volatility and high uncertainty, both geopolitically and technologically.
 
-Oftentimes we see comments on LinkedIn that say X is the next ultimate thing, such as AGI is taking over all jobs, 9-9-6 is imperative, or AI cannot replace humans in work such as X, Y, and Z tasks. Sometimes we go out to ask for advice from a friend or someone we respect. They might say something such as, you should get into AI before it's too late, or software engineering is dead, or even more specific things such as: "I think you should learn Python and MLOps because they are the future" or "I think we should keep going because (clipped from one interview) Sam Altman said your most ultimate goal is to survive." Oftentimes, we have to come back and discern what is important for our decisions, bridging opinion and reality with action. We ask ourselves: "What should I do next? What is correct?"  
+Oftentimes, we see comments on LinkedIn that say X is the next ultimate thing, such as AGI taking over all jobs, 9-9-6 being imperative, or AI not being able to replace humans in work such as X, Y, and Z tasks. Sometimes we go out to ask for advice from a friend or someone we respect. They might say something such as, you should get into AI before it's too late, or software engineering is dead, or even more specific things such as: "I think you should learn Python and MLOps because they are the future" or "I think we should keep going because (clipped from one interview) Sam Altman said your most ultimate goal is to survive." Oftentimes, we have to come back and discern what is important for our decisions, bridging opinion and reality with action. We ask ourselves: "What should I do next? What is correct?"
 
 Large overarching claims pushed as "ultimate" make me feel uncomfortable, whether it's pro-AGI or anti-AI usage, or 9-9-6 vs. a Casanova-esque experience-life culture. I often find it hard to pinpoint why. Recently, I've observed that my intuition is that the danger is when invariants that we subconsciously believe to be true are pulled out of context by the communicator, and additionally when I, the receiver, infer and add additional context unrelated to the original claim to disprove a claim that could probably be a fragment of miscommunication.
 
 In truth, perhaps we put too much emphasis on semantic meaning and writing that could have been drafted in seconds, trying hard to figure out the implications for our future, which is probably not computationally tractable, upper-bounded by the prophecy paradox. However, we can make a best effort to discern the information we get and choose what information we give and share. The bolder a claim is, especially the larger the audience, the more it has to uphold. Personalized advice works well as ideas and suggestions made highly contextualized to the audience, thus making them marginally informative and useful if you know the person well and interact with them regularly or work in a similar domain. 
 
-Writing for a large audience is a different beast; it's often hard to introspect what will work well or not before shouting into the void or broadcasting the interview. One might as well focus on the invariants, as they are most likely to hold. Also, just because they're invariants doesn't mean that they have low marginal information. There are many invariant lessons worth learning from, and that's why they're timeless: Paul Graham, YC's startup advice, Stoicism, Sun Tzu's *Art of War*.
+Writing for a large audience is a different beast; it's often hard to introspect what will work well before shouting into the void or broadcasting the interview. One might as well focus on the invariants, as they are most likely to hold. Also, just because they're invariants doesn't mean that they have low marginal information. There are many invariant lessons worth learning from, and that's why they're timeless: Paul Graham, YC's startup advice, Stoicism, Sun Tzu's *Art of War*.
 
 ## Invariants in Startups
 
@@ -33,7 +33,7 @@ Writing for a large audience is a different beast; it's often hard to introspect
 
 3. **Keep trying and fail fast and learn from experiments.** --> Startups as a true positive sampling machine.
 
-4. **Work hard.** --> work is the integral of time x quality of output/ time x direction measured.
+4. **Work hard.** --> work is the integral of time x quality of output / time x direction measured.
 
 5. **Customer obsession is key, what customers want is good for the company**
 
@@ -67,7 +67,7 @@ Writing for a large audience is a different beast; it's often hard to introspect
 
 20. **Hire people who are genuine and good** --> cooperative game theory can lead to larger utilitarian global optima.
 
-21. **Decisions are temporary, be adaptable** --> technology has the invariant of constantly changing hence move along with it.
+21. **Decisions are temporary, be adaptable** --> technology has the invariant of constantly changing; hence, move along with it.
 
 22. **Do something where you only need one yes amongst a sea of no's** --> showing something to work in real life is an existence proof, not a for-all proof.
 
@@ -81,7 +81,7 @@ Writing for a large audience is a different beast; it's often hard to introspect
 
 27. **Focus on the good, learn from the good, share the good, and innovation** --> the true positive space is exponentially smaller than the negative space. (Combinatorial feature explosion negative combinations, Contrastive learning literature)
 
-28. **Understand the boundaries of your understanding** --> approximating what you know and you don't know helps you make decisions on what to learn, what to figure out, and what decisions you can make now with clarity.
+28. **Understand the boundaries of your understanding** --> approximating what you know and don't know helps you make decisions on what to learn, what to figure out, and what decisions you can make now with clarity.
 
 29. **Stay in the details, understand your business or the paradigm shift, often by doing** --> making decisions when you understand is way better than making decisions out of epistemic bias.
 
@@ -111,9 +111,9 @@ Writing for a large audience is a different beast; it's often hard to introspect
 
 Invariants taken out of context usually follow a [logical fallacy](https://en.wikipedia.org/wiki/List_of_fallacies) such as an [epistemic logical fallacy form](https://en.wikipedia.org/wiki/Masked-man_fallacy) (X is Z, Y (is or is not Z), therefore X is not Y). Sometimes, I might have an inexplicable gut feeling about why I don't feel comfortable reading the takes. So this is my attempt to formalize it.
 
-1. When one writes code fast it can be messy. Speed matters for startups. Therefore writing messy code is imperative for startups. 
+1. When one writes code fast, it can be messy. Speed matters for startups. Therefore, writing messy code is imperative for startups.
 
-2. Good engineers solve problems fast. Line-by-line coding is slower than AI IDEs. John writes his code line by line. Therefore John is a bad engineer.
+2. Good engineers solve problems fast. Line-by-line coding is slower than AI IDEs. John writes his code line by line. Therefore, John is a bad engineer.
 
 **In construction**
 

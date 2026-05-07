@@ -13,7 +13,7 @@
       <link>https://yiyaotan-site.vercel.app/projects/passion-projects/selftot/</link>
       <pubDate>Fri, 19 Jul 2024 12:00:00 +0100</pubDate>
       <guid>https://yiyaotan-site.vercel.app/projects/passion-projects/selftot/</guid>
-      <description>&lt;p&gt;Played around with Flask and Google API, maybe I can create some quick start generative ai app? Currently only curriculum generation works.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/yao-creative/selftot&#34;&gt;Selftot App Repo&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;An example of networks query:&#xA;&lt;img src=&#34;https://yiyaotan-site.vercel.app/images/projects/selftot/query-networks.jpg&#34; alt=&#34;Networks Query&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Curriculum generation example:&#xA;&lt;img src=&#34;https://yiyaotan-site.vercel.app/images/projects/selftot/curriculum-networks.jpg&#34; alt=&#34;Curriculum Generation&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Played around with Flask and the Google API. Maybe I can create some quick-start generative AI app? Currently, only curriculum generation works.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/yao-creative/selftot&#34;&gt;Selftot App Repo&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;An example of a networks query:&#xA;&lt;img src=&#34;https://yiyaotan-site.vercel.app/images/projects/selftot/query-networks.jpg&#34; alt=&#34;Networks Query&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Curriculum generation example:&#xA;&lt;img src=&#34;https://yiyaotan-site.vercel.app/images/projects/selftot/curriculum-networks.jpg&#34; alt=&#34;Curriculum Generation&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

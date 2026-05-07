@@ -8,8 +8,8 @@ cascade:
 
 # Welcome!
 
-I'm Yao, a postgraduate student passionate about Mathematics and Computer Science. Here you'll find my projects, research work, and thoughts on various topics.
+I'm Yao, a postgraduate student passionate about Mathematics and Computer Science. Here you'll find my projects, research, and thoughts on various topics.
 
 Pictured above: Spring in Oxford!
 
-The pictures from each section and landing pages on this website I've either taken or is from one of my projects, usually captioned on the page. Perhaps for book reviews and more abstract concepts in the blog some pictures are borrowed.
+The pictures on each section and landing page of this website are either ones I've taken or images from one of my projects, usually captioned on the page. For book reviews and more abstract concepts on the blog, some pictures may be borrowed.

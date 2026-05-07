@@ -22,7 +22,7 @@ featured_image: "/images/lake_horizontal.jpg"
   **Relevant Coursework:** Measure and Integration Theory, Differential Geometry, Convex Optimization, Numerical Analysis, Compilers, Computer Architecture, Computer Networks, Machine Learning, Parallel and Distributed Computing, etc.
 
 ## Research Experience
-- <u><b>Networks Analysis Research Master’s Thesis</b></u> (April 2024 — Sept 2024)
+- <u><b>Network Analysis Research Master’s Thesis</b></u> (April 2024 — Sept 2024)
 
   **Institution:** Oxford Mathematical Institute and Institute of New Economic Thinking
 
@@ -30,7 +30,7 @@ featured_image: "/images/lake_horizontal.jpg"
 
   **Advisors:** Renaud Lambiotte, François Lafond
 
-  Network Analysis on Production Networks: Developing a null model based on network geometry for national scale firm-level input-output networks.
+  Network analysis on production networks: developing a null model based on network geometry for national-scale firm-level input-output networks.
 
 - <u><b>High Performance Machine Learning: Transformer Image Segmentation, NLP Research Intern</b></u> (Jun 2022 - Sept 2022 and Jan 2023 — Mar 2023)
 
@@ -40,7 +40,7 @@ featured_image: "/images/lake_horizontal.jpg"
 
   **Advisors:** Chong Li, Serge Petiton
 
-  Created a complete Transformer Image Segmentation Encoder-Decoder pipeline on ADE20k and model from scratch in Mindspore.
+  Created a complete transformer image segmentation encoder-decoder pipeline on ADE20k and a model from scratch in MindSpore.
 
 - <u><b>Combinatorics and Informatics Student</b></u> (Sept 2022 — Dec 2022)
 
