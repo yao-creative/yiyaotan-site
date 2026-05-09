@@ -48,6 +48,8 @@ Another, if you're interested: [Startup Physics](/blog/ee/startup-physics/)
 
 - [Anthropic Research](https://www.anthropic.com/research)
 
+- [Stanford LLMs Course](https://www.youtube.com/watch?v=Q5baLehv5So&lc=Ugz1gFAuEca01UQtsKZ4AaABAg)
+
 - [6 Types of RAG evals - Jason Liu (OpenAI)](https://jxnl.co/writing/2025/05/19/there-are-only-6-rag-evals/#why-this-framework-matters)
 
 - [Writing Evals - Eugene Yan](https://eugeneyan.com/writing/evals/)
