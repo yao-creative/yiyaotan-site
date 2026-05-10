@@ -128,6 +128,8 @@ A few tricks one can use to understand the communicated to get meaningful signal
 
 3. Separate our own observations from interpretations. Being able to parse the objective context one can make balanced judgements distilled from pure facts.
 
+4. Pro tip: curate your information to be only 0-th or 1-st degree information sources. Either from you experience/ by doing or people who are doing the thing they talk about.
+
 
 # Observations on Good Companies
 
