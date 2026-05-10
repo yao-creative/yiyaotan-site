@@ -8,10 +8,12 @@ layout: "section"
 
 I'm currently looking for technical research-engineering and engineering roles.
 
-I recently parted ways with my startup, where I helped my cofounder, who used to work at Meta, prototype ideas as a full-stack developer for the creator economy, such as lead search and causal-based analytics with BERTopic and simple double ML. The biggest lessons I've learnt there are timing my decisions, talking to people to lower directional uncertainty when figuring out what to work on and why, the necessity to "measure" tasks in order of importance and weight during ambiguity, clarifying needs with actions, and finally my own hierarchical understanding of why I wanted to build a startup: value creation, working with great people, and solving fundamental problems.
+I recently parted ways with my startup, where I helped my cofounder, who used to work at Meta, prototype ideas as a full-stack developer for the creator economy, such as lead search and causal-based analytics with BERTopic and simple double ML. 
+
+The biggest lessons I've learnt there are timing my decisions, talking to people to lower directional uncertainty when figuring out what to work on and why, the necessity to "measure" tasks in order of importance and weight during ambiguity, clarifying needs with actions, and finally my own hierarchical understanding of why I wanted to build a startup: value creation, working with great people, and solving fundamental problems.
 
 
-Before that, I wrote my Master's thesis in Complexity Economics / Mathematics on the geometry of supply chain networks in Oxford. During my undergraduate, I worked for 7 months at Huawei Research Paris to build sparse transformers for image segmentation. I'm dynamic and perpetually curious. Through my experiences, I've gradually figured out that I enjoy my work most when it sits at the intersection of research and engineering, and especially when the why behind what I'm building seems meaningful in terms of value creation. Some references I enjoy include Eugene Yan's ML blog, Paul Graham's work, and tidbits that guide me in my work, such as Heilmeier's Catechism.
+Before that, I wrote my Master's thesis in Complexity Economics / Mathematics on the geometry of supply chain networks in Oxford. During my undergraduate, I worked for 7 months at Huawei Research Paris to build sparse transformers for image segmentation. I'm dynamic and perpetually curious. Through my experiences, I've gradually figured out that I enjoy my work most when it sits at the intersection of research and engineering. Some references I enjoy include Eugene Yan's ML blog, Paul Graham's work, and tidbits that guide me in my work, such as Heilmeier's Catechism.
 
 I'm broadly interested in AI and data engineering, algorithms, software engineering, and distributed architectures to support all of the above.
 
