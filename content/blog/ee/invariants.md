@@ -115,16 +115,18 @@ Invariants taken out of context usually follow a [logical fallacy](https://en.wi
 
 In practice, during communication, I've been thinking that it is hard to judge context as one often assumes shared experience of the viewers, or not by algorithmic push during the act of communication.
 Beyond this often our writing is not a one-to-one mapping with our thoughts nor logic hence often when we believe that people mean exactly what they say we might be over justifying their intent or are forced to make inferences.
-Finally, reaction and context inference is instinctive. Both the authors and the audience, in a sense, when the experiences are not exact both sides have to infer context of the post, message, speech, or medium being communicated.
-This instinct has been a survival instinct for us humans to survive fast paced environments without full information, however, doesn't have to be the case all the time, especially when making meaningful and long term judgements which guide decisions such as what project to tackle in a board meeting.
+Another big reason, could be epistemic bias of knowing what you don't know is almost impossible, we might think we know what to infer on what they're saying even if in reality, metacognition doesn't work this way.
+Finally, reaction and context inference is instinctive by human nature of survival. Being able to toggle between both slow and fast thinking is important for long running decisions.
 
 ## How to understand the communicated and decide for ourselves.
 
 A few tricks one can use to understand the communicated to get meaningful signal:
 
-1. Ask why the person is saying this first whether one agrees or not. Perhaps understand their background and audience context
+1. Acknowledge you don't have all the details and you don't know everything.
 
-2. Separate our own observations from interpretations. Being able to parse the objective context one can make balanced judgements distilled from pure facts.
+2. Ask why the person is saying this first whether one agrees or not. Perhaps understand their background and audience context
+
+3. Separate our own observations from interpretations. Being able to parse the objective context one can make balanced judgements distilled from pure facts.
 
 
 # Observations on Good Companies
