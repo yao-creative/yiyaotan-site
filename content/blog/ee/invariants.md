@@ -101,6 +101,14 @@ Writing for a large audience is a different beast; it's often hard to introspect
 
 5. **Focus on the Journey** --> life is like a stochastic process rather than a point and jump. There is no physical universal global optimum to questions in real life; even if there were, it wouldn't be computationally tractable.
 
+## Invariants in Economics & Technology:
+
+1. Economics transaction is a function of f(opportunity costs, benefit) specialization is always true and the differential between the comparative advantage will always matter. (Elon musk can build websites, but he's better off paying for them.)
+
+
+2. Humans are the source and sink nodes of technological innovation and economic transactions. Kardashev Scale level 3 civilization might exist with AGI or have infinite intelligence and dysons spheres, but as long as it's not interacting with human society or earth there's a net 0 impact on the world and our economics and doesn't make any money nor change the way we live.
+
+
 ## Invariants taken out of Context
 
 Invariants taken out of context usually follow a [logical fallacy](https://en.wikipedia.org/wiki/List_of_fallacies) such as an [epistemic logical fallacy form](https://en.wikipedia.org/wiki/Masked-man_fallacy) (X is Z, Y (is or is not Z), therefore X is not Y). Sometimes, I might have an inexplicable gut feeling about why I don't feel comfortable reading the takes. So this is my attempt to formalize it.
