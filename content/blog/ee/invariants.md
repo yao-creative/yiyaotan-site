@@ -87,6 +87,7 @@ Writing for a large audience is a different beast; it's often hard to introspect
 
 33. **Be prepared, fortune favors the prepared** Luck is when opportunity meets the actor's ability to seize it.
 
+34. **Ask/ try a lot, fortune favors those who expose themselves to it**. Not doing is 0% chance of success, exposure to luck is a prerequisite of receiving.
 
 
 ## Invariants in Life:
@@ -104,7 +105,6 @@ Writing for a large audience is a different beast; it's often hard to introspect
 ## Invariants in Economics & Technology:
 
 1. Economics transaction is a function of f(opportunity costs, benefit) specialization is always true and the differential between the comparative advantage will always matter. (Elon musk can build websites, but he's better off paying for them.)
-
 
 2. Humans are the source and sink nodes of technological innovation and economic transactions. Kardashev Scale level 3 civilization might exist with AGI or have infinite intelligence and dysons spheres, but as long as it's not interacting with human society or earth there's a net 0 impact on the world and our economics and doesn't make any money nor change the way we live.
 
