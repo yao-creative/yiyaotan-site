@@ -69,7 +69,7 @@ Another, if you're interested: [Startup Physics](/blog/ee/startup-physics/)
 
 ## Research Related Reading:
 
-I've been going through these areas for fun/inspiration. I'm curious if you know anything about them.
+I've been going through/ starting to read in this area these areas for fun/inspiration. I'm curious if you know anything about them.
 
 - [Causal ML - V. Chernozhukov, et al.](https://causalml-book.org)
 
