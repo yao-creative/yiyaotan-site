@@ -79,6 +79,8 @@ I've been going through/ starting to read in this area these areas for fun/inspi
 
 - [Stanford CS224W, Graph Neural Networks - Jure Leskovec](https://web.stanford.edu/class/cs224w)
 
+- [Stanford CME 295, Transformers and Language Models](https://cme295.stanford.edu/syllabus/)
+
 - [MIT 6.S184: Introduction to Flow Matching and Diffusion Models](https://diffusion.csail.mit.edu)
 
 - [Stochastic Calculus](https://www.math.uchicago.edu/~lawler/finbook.pdf)
