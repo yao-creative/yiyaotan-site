@@ -17,7 +17,7 @@ The biggest lessons I've learnt there are timing my decisions, talking to people
 
 Before that, I wrote my Master's thesis in Complexity Economics / Mathematics on the geometry of supply chain networks in Oxford. During my undergraduate, I worked for 7 months at Huawei Research Paris to build sparse transformers for image segmentation. I'm dynamic and perpetually curious. Through my experiences, I've gradually figured out that I enjoy my work most when it sits at the intersection of research and engineering. Some references I enjoy include Eugene Yan's ML blog, Paul Graham's work, and tidbits that guide me in my work, such as Heilmeier's Catechism.
 
-I'm broadly interested in AI and data engineering, ML, algorithms, software engineering, but the space is vast and I know that I still don't know a lot.
+I'm broadly interested in AI ML, algorithms, software engineering, but the space is vast and I know that I still don't know a lot.
 
 In the midst of the craziness, I believe good things come when we figure out complicated things, and the world is always growing.
 
