@@ -68,6 +68,7 @@ Another, if you're interested: [Startup Physics](/blog/ee/startup-physics/)
 
 - [Pragmatic Programmer -  David Thomas & Andrew Hunt](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary-ebook/dp/B07VRS84D1)
 
+- [Signals and Threads](https://signalsandthreads.com)
 
 ## Research Related Reading:
 
