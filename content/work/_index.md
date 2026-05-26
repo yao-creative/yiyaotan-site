@@ -70,7 +70,7 @@ Another, if you're interested: [Startup Physics](/blog/ee/startup-physics/)
 
 - [Designing Data-Intensive Applications - Martin Klepmann](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1098119061)
 
-- [Signals and Threads](https://signalsandthreads.com)
+- [MIT Maths for CS 2018](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf)
 
 ## Research Related Reading:
 
