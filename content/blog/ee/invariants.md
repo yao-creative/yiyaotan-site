@@ -12,7 +12,7 @@ In practice: invariants capture what is intrinsic to the object, independent of 
 
 # Invariants in Startups/ Technology
 
-For the non-mathematical reader, useful invariants we can track are things/ concepts which stay true throughout time such as focus on learning, hire smart people, focus on your customers, and work hard if you want to succeed. In a sense, we observe these invariants holding true across multiple domains, in a sense that they are true but just take different forms over symmetries. Symmetries which show up such as doctors have to take Hippocratic Oath, service industry with "customer is king," while Bezos talks about what is good for the customers is good for the business, the invariant in this case is customer focus and success is crucial for profession/ business operation.
+For the non-mathematical reader, useful invariants we can track are things/ concepts which stay true throughout time such as focus on learning, hire smart people, focus on your customers, and work hard if you want to succeed. In a sense, we observe these invariants holding true across multiple domains, in a sense that they are true but just take different forms over symmetries. Symmetries which show up such as doctors have to take Hippocratic Oath, service industry with "customer is king," while Bezos talks about what is good for the customers is good for the business, the invariant in this case is customer focus and success is crucial for profession/ business operation. For Elon Musk, they are the laws of Physics and the constants of the universe.
 
 ## Why you should care about invariants
 
