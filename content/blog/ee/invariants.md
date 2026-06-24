@@ -6,11 +6,13 @@ slug = 'invariants'
 
 ## Semantic (Mathematical) definition
 
-An invariant is a feature, quantity, or descriptor of an object that stays unchanged when the object is transformed by the equivalence notion we care about (for example: isometry, linear change of coordinates, isomorphism, homotopy equivalence).
+An invariant is a feature, quantity, or descriptor of an object that stays unchanged when the object is transformed by the equivalence notion we care about (for example: time, isometry, linear change of coordinates, isomorphism, homotopy equivalence).
 
 In practice: invariants capture what is intrinsic to the object, independent of representation.
 
 # Invariants in Startups/ Technology
+
+For the non-mathematical reader, useful invariants we can track are things/ concepts which stay true throughout time such as focus on learning, hire smart people, focus on your customers, and work hard if you want to succeed. In a sense, we observe these invariants holding true across multiple domains, in a sense that they are true but just take different forms over symmetries. Symmetries which show up such as Doctors have to take Hippocratic Oath, service industry with customer is king, while Bezos talks about what is good for the customers is good for the business, the invariant in this case is customer focus and success is crucial for profession/ business operation.
 
 ## Why you should care about invariants
 
@@ -22,7 +24,7 @@ Large overarching claims pushed as "ultimate" make me feel uncomfortable, whethe
 
 In truth, perhaps we put too much emphasis on semantic meaning and writing that could have been drafted in seconds, trying hard to figure out the implications for our future, which is probably not computationally tractable, upper-bounded by the prophecy paradox. However, we can make a best effort to discern the information we get and choose what information we give and share. The bolder a claim is, especially the larger the audience, the more it has to uphold. Personalized advice works well as ideas and suggestions made highly contextualized to the audience, thus making them marginally informative and useful if you know the person well and interact with them regularly or work in a similar domain. 
 
-Writing for a large audience is a different beast; it's often hard to introspect what will work well before shouting into the void or broadcasting the interview. One might as well focus on the invariants, as they are most likely to hold. Also, just because they're invariants doesn't mean that they have low marginal information. There are many invariant lessons worth learning from, and that's why they're timeless: Paul Graham, YC's startup advice, Stoicism, Sun Tzu's *Art of War*.
+Writing for a large audience is a different beast; it's often hard to introspect what will work well before shouting into the void or broadcasting the interview. One might as well focus on the invariants, as they are most likely to hold. Also, just because they're invariants doesn't mean that they have low marginal information. There are many invariant lessons worth learning from, and that's why they're timeless: Paul Graham, YC's startup advice, Stoicism, Sun Tzu's *Art of War*. One can apply Lindy's law to find and infer invariant concepts, but I definitely want to highlight that there are constantly new ones being discovered.
 
 ## Invariants in Startups
 
