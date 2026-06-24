@@ -8,7 +8,7 @@ slug = 'invariants'
 
 An invariant is a feature, quantity, or descriptor of an object that stays unchanged when the object is transformed by the equivalence notion we care about (for example: time, isometry, linear change of coordinates, isomorphism, homotopy equivalence).
 
-In practice: invariants capture what is intrinsic to the object, independent of representation.
+In practice: invariants capture what is intrinsic to the object, independent of representation, and observed over transformations into different symmetries.
 
 # Invariants in Startups/ Technology
 
