@@ -6,15 +6,8 @@
     <description>Recent content on Yi Yao Tan</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 May 2026 11:07:49 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 17 Dec 2025 12:45:44 +0800</lastBuildDate>
     <atom:link href="https://yiyaotan-site.vercel.app/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Invariants</title>
-      <link>https://yiyaotan-site.vercel.app/blog/ee/invariants/</link>
-      <pubDate>Sun, 03 May 2026 11:07:49 +0800</pubDate>
-      <guid>https://yiyaotan-site.vercel.app/blog/ee/invariants/</guid>
-      <description>&lt;h2 id=&#34;semantic-mathematical-definition&#34;&gt;Semantic (Mathematical) definition&lt;/h2&gt;&#xA;&lt;p&gt;An invariant is a feature, quantity, or descriptor of an object that stays unchanged when the object is transformed by the equivalence notion we care about (for example: isometry, linear change of coordinates, isomorphism, homotopy equivalence).&lt;/p&gt;&#xA;&lt;p&gt;In practice: invariants capture what is intrinsic to the object, independent of representation.&lt;/p&gt;&#xA;&lt;h1 id=&#34;invariants-in-startups-technology&#34;&gt;Invariants in Startups/ Technology&lt;/h1&gt;&#xA;&lt;h2 id=&#34;why-you-should-care-about-invariants&#34;&gt;Why you should care about invariants&lt;/h2&gt;&#xA;&lt;p&gt;Any space can be divided into a set and its complement as a partition. I believe that the generic information we take in can somewhat be separated into invariants and non-invariants. I believe invariants are like first principles, the minimal set of things we know to be true: a high-signal true-positive space without the need for context (least common positive denominator). Using invariants, we can figure out directions for contextual decision-making and make higher-fidelity, faster decisions, as they generalize better by their sheer nature. This discernment is especially useful in times of volatility and high uncertainty, both geopolitically and technologically.&lt;/p&gt;</description>
-    </item>
     <item>
       <title>First Principles Maths</title>
       <link>https://yiyaotan-site.vercel.app/blog/ee/firstprinciplesmaths/</link>
@@ -147,6 +140,13 @@
       <pubDate>Sat, 01 May 2021 00:00:00 +0100</pubDate>
       <guid>https://yiyaotan-site.vercel.app/projects/mathematics/trinomial-tree-model/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://yiyaotan-site.vercel.app/projects/mathematics/&#34;&gt;Mathematics&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Studied the trinomial tree for options pricing of a martingale using backward induction. Responsible for numerical analysis and simulations.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/yao-creative/trinomial_basic&#34;&gt;Project Repository&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/yao-creative/trinomial_basic&#34;&gt;Preprint&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://yiyaotan-site.vercel.app/blog/ee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yiyaotan-site.vercel.app/blog/ee/</guid>
+      <description>&lt;!-- +++&#xA;title = &#39;Good Founders&#39;&#xA;date = 2025-08-28T13:50:00+08:00&#xA;slug = &#39;goodfounders&#39;&#xA;draft = true&#xA;+++ --&gt;&#xA;&lt;h1 id=&#34;what-makes-a-good-founder&#34;&gt;What makes a good founder?&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Technically Strong. Comparative advantage wins technology races, economic transactions are opportunity costs/ slight disassortative in the manner. Everyone builds on top of an almost a similar absolute advantage, it&amp;rsquo;s optimal for one&amp;rsquo;s upstream suppliers. (Eg. basic access to LLMs and cloud compute is universal expectation in 2025).&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Self-Conscious. Ability to understand nuance, high-frequency iterative self correction and alignment.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

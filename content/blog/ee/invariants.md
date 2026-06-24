@@ -1,3 +1,9 @@
++++
+title = 'Invariants'
+date = 2025-08-28T13:50:00+08:00
+slug = 'invariants'
+draft = true
++++
 
 ## Semantic (Mathematical) definition
 

@@ -6,15 +6,8 @@
     <description>Recent content in Economics &amp; Entrepreneurship on Yi Yao Tan</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 May 2026 11:07:49 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 17 Dec 2025 12:45:44 +0800</lastBuildDate>
     <atom:link href="https://yiyaotan-site.vercel.app/blog/ee/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Invariants</title>
-      <link>https://yiyaotan-site.vercel.app/blog/ee/invariants/</link>
-      <pubDate>Sun, 03 May 2026 11:07:49 +0800</pubDate>
-      <guid>https://yiyaotan-site.vercel.app/blog/ee/invariants/</guid>
-      <description>&lt;h2 id=&#34;semantic-mathematical-definition&#34;&gt;Semantic (Mathematical) definition&lt;/h2&gt;&#xA;&lt;p&gt;An invariant is a feature, quantity, or descriptor of an object that stays unchanged when the object is transformed by the equivalence notion we care about (for example: isometry, linear change of coordinates, isomorphism, homotopy equivalence).&lt;/p&gt;&#xA;&lt;p&gt;In practice: invariants capture what is intrinsic to the object, independent of representation.&lt;/p&gt;&#xA;&lt;h1 id=&#34;invariants-in-startups-technology&#34;&gt;Invariants in Startups/ Technology&lt;/h1&gt;&#xA;&lt;h2 id=&#34;why-you-should-care-about-invariants&#34;&gt;Why you should care about invariants&lt;/h2&gt;&#xA;&lt;p&gt;Any space can be divided into a set and its complement as a partition. I believe that the generic information we take in can somewhat be separated into invariants and non-invariants. I believe invariants are like first principles, the minimal set of things we know to be true: a high-signal true-positive space without the need for context (least common positive denominator). Using invariants, we can figure out directions for contextual decision-making and make higher-fidelity, faster decisions, as they generalize better by their sheer nature. This discernment is especially useful in times of volatility and high uncertainty, both geopolitically and technologically.&lt;/p&gt;</description>
-    </item>
     <item>
       <title>First Principles Maths</title>
       <link>https://yiyaotan-site.vercel.app/blog/ee/firstprinciplesmaths/</link>
@@ -35,6 +28,13 @@
       <pubDate>Tue, 18 Nov 2025 10:50:00 +0800</pubDate>
       <guid>https://yiyaotan-site.vercel.app/blog/ee/startup-physics/</guid>
       <description>&lt;h2 id=&#34;1-the-topological-view-of-the-world&#34;&gt;1. The Topological View of the World&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;We exist socially, experience-wise, and physically on a &lt;em&gt;topology&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;We operate in &lt;em&gt;cognitive bias&lt;/em&gt; where opinions are actually strong local views.&lt;/li&gt;&#xA;&lt;li&gt;Understanding locality bias and thinking in distances helps us view things in perspectives&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;2-the-ai-bubble-phenomenon&#34;&gt;2. The “AI Bubble” Phenomenon&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Big tech and AI employees actually self selected, socially collaborative filtered for their niche.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;The things the say about AGI and ASI are from the sum of their experiences. In a sense the ultimateness comes from their experiences so far. Software engineering is gone etc. etc. (which is conditioned on their notion of the &amp;ldquo;Software Engineering that they experienced has changed&amp;rdquo; phrasing on what is concrete and truly (real) sense)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://yiyaotan-site.vercel.app/blog/ee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yiyaotan-site.vercel.app/blog/ee/</guid>
+      <description>&lt;!-- +++&#xA;title = &#39;Good Founders&#39;&#xA;date = 2025-08-28T13:50:00+08:00&#xA;slug = &#39;goodfounders&#39;&#xA;draft = true&#xA;+++ --&gt;&#xA;&lt;h1 id=&#34;what-makes-a-good-founder&#34;&gt;What makes a good founder?&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Technically Strong. Comparative advantage wins technology races, economic transactions are opportunity costs/ slight disassortative in the manner. Everyone builds on top of an almost a similar absolute advantage, it&amp;rsquo;s optimal for one&amp;rsquo;s upstream suppliers. (Eg. basic access to LLMs and cloud compute is universal expectation in 2025).&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Self-Conscious. Ability to understand nuance, high-frequency iterative self correction and alignment.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
